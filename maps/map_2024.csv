@@ -1,0 +1,1864 @@
+ghgrp_id,facility_name,province,sector,latitude,longitude,kt_co2e
+G10001,Division Alma,Quebec,Manufacturing,48.565,-71.65556,53.3
+G10004,Kingston CoGen,Ontario,Utilities,44.2095,-76.7246,1.7
+G10006,Redwater Fertilizer Operations,Alberta,Manufacturing,53.842,-113.093,1095.8
+G10007,Alberta Envirofuels,Alberta,Manufacturing,53.53199,-113.36492,315.2
+G10009,Alberta-Pacific Forest Industries Inc.,Alberta,Manufacturing,54.92312,-112.86187,144.8
+G10010,Rio Tinto Alcan Inc.,British Columbia,Manufacturing,54.00286,-128.69531,824.9
+G10011,Algoma Steel Inc,Ontario,Manufacturing,46.5217,-84.3637,4226.7
+G10012,Aluminerie Alouette inc.,Quebec,Manufacturing,50.1583,-66.4416,1099.5
+G10013,Aluminerie de Baie-Comeau,Quebec,Manufacturing,49.2583,-68.1461,545.4
+G10014,Aluminerie de Bécancour inc.,Quebec,Manufacturing,46.3829,-72.3874,832.3
+G10016,Atikokan Generating Station,Ontario,Utilities,48.8361,-91.5656,14.4
+G10018,Battle River Generating Station,Alberta,Utilities,52.5647,-112.1414,632.8
+G10020,Bayside Power,New Brunswick,Utilities,45.2753,-66.0269,575.1
+G10021,Usine de Bedford,Quebec,Manufacturing,45.1123,-73.0129,350.0
+G10022,Belledune Generating Station,New Brunswick,Utilities,47.90596,-65.86347,2090.3
+G10024,Boundary Dam Power Station,Saskatchewan,Utilities,49.09606,-103.0305,2484.7
+G10025,Thunder Bay Operations,Ontario,Manufacturing,48.3486,-89.3067,202.5
+G10026,Brady Road Resource Management Facility,Manitoba,Waste management,49.7583,-97.2004,279.7
+G10027,Brampton Assembly Plant,Ontario,Manufacturing,43.7512,-79.7168,6.9
+G10028,Brandon Generating Station,Manitoba,Utilities,49.8449,-99.8896,55.6
+G10029,Brazeau Gas Plant,Alberta,"Mining, quarrying, oil and gas",53.1812,-115.7625,97.4
+G10030,Brazeau River Gas Plant,Alberta,"Mining, quarrying, oil and gas",52.94707,-115.9026,51.9
+G10031,Brighton Beach Power,Ontario,Utilities,42.2798,-83.0946,781.5
+G10032,Brock West Landfill,Ontario,Waste management,43.8685,-79.10054,109.0
+G10033,Brookfield Cement Plant,Nova Scotia,Manufacturing,45.2393,-63.3347,214.8
+G10036,Burnaby Refinery,British Columbia,Manufacturing,49.29444,-122.98888,408.6
+G10039,Cabot Canada Limited,Ontario,Manufacturing,42.9437,-82.4153,221.1
+G10040,Calgary Energy Centre,Alberta,Utilities,51.18058,-113.9366,758.4
+G10041,Island Generation,British Columbia,Utilities,50.069,-125.282,130.7
+G10042,Calstock Power Plant,Ontario,Utilities,49.0577,-81.0302,2.7
+G10043,Northern Lime Limited,Ontario,Manufacturing,46.1982,-82.6989,102.2
+G10044,Canadian Fertilizers Limited,Alberta,Manufacturing,50.09071,-110.71901,1655.8
+G10045,Cancarb Ltd.,Alberta,Manufacturing,50.0582,-110.7282,146.6
+G10047,Cardinal Power,Ontario,Utilities,44.7846,-75.3773,46.4
+G10048,West Fraser Mills Ltd d/b/a Cariboo Pulp & Paper Company,British Columbia,Manufacturing,52.99699,-122.48472,111.8
+G10049,Caribou North Comp Stn 11-08,Alberta,"Mining, quarrying, oil and gas",55.0473,-110.5778,29.9
+G10050,Dundas Operations,Ontario,Manufacturing,43.29223,-79.98512,391.2
+G10051,Beachville Operation,Ontario,Manufacturing,43.0687,-80.858,360.7
+G10052,Carol Project,Newfoundland and Labrador,"Mining, quarrying, oil and gas",52.9565,-66.8936,810.9
+G10053,Carseland Nitrogen Operations,Alberta,Manufacturing,50.845,-113.591,516.0
+G10054,Carseland Power Plant,Alberta,Utilities,50.90123,-113.39283,370.8
+G10055,Orica Carseland,Alberta,Manufacturing,50.8467,-113.58117,25.4
+G10057,Ingredion Canada Incorporated - London Plant,Ontario,Manufacturing,42.9217,-81.1942,128.8
+G10058,Cavalier Energy Centre,Alberta,Utilities,51.0056,-113.1716,281.9
+G10059,Cavendish Farms,Prince Edward Island,Manufacturing,46.4222,-63.679,51.5
+G10060,Co-op Refinery Complex,Saskatchewan,Manufacturing,50.4843,-104.5794,1744.8
+G10061,Centrale de Cap-aux-Meules,Quebec,Utilities,47.3743,-61.8858,127.3
+G10064,Chimie Parachem s.e.c,Quebec,Manufacturing,45.6324,-73.5244,100.6
+G10065,Christina Lake SAGD Bitumen Battery,Alberta,"Mining, quarrying, oil and gas",55.5827,-110.8888,3811.8
+G10066,Cimenterie de Saint-Basile,Quebec,Manufacturing,46.7447,-71.8126,752.0
+G10067,Cimenterie de Saint-Constant,Quebec,Manufacturing,45.3401,-73.52367,714.3
+G10068,Electric Utility - Generation,Alberta,Utilities,50.04092,-110.7219,496.5
+G10069,Clover Bar Energy Centre,Alberta,Utilities,53.5874,-113.3647,322.7
+G10071,Cochrane Extraction Plant,Alberta,"Mining, quarrying, oil and gas",51.2225,-114.4956,453.1
+G10072,Cochrane Generating Station,Ontario,Utilities,49.0625,-81.0136,0.3
+G10073,Cold Lake,Alberta,"Mining, quarrying, oil and gas",54.59702,-110.39972,5735.6
+G10074,Coleson Cove Generating Station,New Brunswick,Utilities,45.1582,-66.2013,594.3
+G10075,Chatham,Ontario,Manufacturing,42.3839,-82.2218,132.6
+G10076,Rio Tinto Fer et Titane inc.- Complexe  de Sorel-Tracy,Quebec,Manufacturing,46.0475,-73.13778,787.0
+G10079,Corner Brook Pulp and Paper,Newfoundland and Labrador,Manufacturing,48.9552,-57.9485,27.4
+G10080,Cory Cogeneration Station,Saskatchewan,Utilities,52.0919,-106.8475,563.6
+G10082,Crofton Division,British Columbia,Manufacturing,48.875,-123.645,137.2
+G10085,Delta Plant,British Columbia,Manufacturing,49.1436,-123.023,583.9
+G10088,Kruger Trois-Rivières S.E.C.,Quebec,Manufacturing,46.33639,-72.55556,71.8
+G10089,Usine Kénogami,Quebec,Manufacturing,48.4289,-71.2437,27.0
+G10091,ArcelorMittal Dofasco,Ontario,Manufacturing,43.2597,-79.8111,4164.8
+G10093,Espanola Mill,Ontario,Manufacturing,46.26806,-81.76806,52.1
+G10095,East Calgary Landfill,Alberta,Waste management,51.0265,-113.9419,43.7
+G10096,East Crossfield Gas Plant 9-14-28-1W5,Alberta,"Mining, quarrying, oil and gas",51.4001,-114.0343,60.6
+G10097,Edmonton Site,Alberta,Manufacturing,53.5397,-113.4092,28.3
+G10098,Edmonton Refinery,Alberta,Manufacturing,53.55877,-113.34961,1453.1
+G10099,Twin Rivers Pulp Ltd.,New Brunswick,Manufacturing,47.3749,-68.3333,44.1
+G10100,Edson Gas Plant,Alberta,"Mining, quarrying, oil and gas",53.5575,-116.5472,164.9
+G10101,Ekati Diamond Mine,Northwest Territories,"Mining, quarrying, oil and gas",64.7114,-110.62133,157.4
+G10103,Elkem Métal Chicoutimi,Quebec,Manufacturing,48.4124,-71.1307,115.7
+G10104,"Foothills Pipeline, British Columbia System",British Columbia,Pipeline transportation,49.64782,-114.71692,368.9
+G10105,Elkview Operations,British Columbia,"Mining, quarrying, oil and gas",49.75808,-114.82594,566.0
+G10106,Elmworth Gas Plant,Alberta,"Mining, quarrying, oil and gas",55.0415,-119.631,172.8
+G10107,Empress Gas Plant,Alberta,"Mining, quarrying, oil and gas",50.676,-110.025,77.6
+G10108,Empress 6,Alberta,"Mining, quarrying, oil and gas",50.684,-110.03288,297.6
+G10111,Exshaw Plant,Alberta,Manufacturing,51.0682,-115.1364,184.1
+G10112,Exshaw Cement Plant,Alberta,Manufacturing,51.0589,-115.1745,1166.1
+G10113,Faulkner Plant,Manitoba,Manufacturing,51.4135,-98.765,106.2
+G10114,Woodstock Plant,Ontario,Manufacturing,43.0989,-80.8943,373.5
+G10115,Fording River Operations,British Columbia,"Mining, quarrying, oil and gas",50.18992,-114.87901,790.6
+G10117,Fort Nelson Gas Plant,British Columbia,"Mining, quarrying, oil and gas",58.65461,-122.68815,104.2
+G10118,Fort Nelson Generating Station,British Columbia,Utilities,58.64,-122.67,98.7
+G10119,Fort Saskatchewan,Alberta,Manufacturing,53.7217,-113.1917,335.2
+G10120,Fort Saskatchewan Thermal Electric(Cogeneration) Power Plant,Alberta,Utilities,53.7235,-113.1738,394.0
+G10121,Fort Saskatchewan Nitrogen Operations,Alberta,Manufacturing,53.72539,-113.193,609.4
+G10122,Fort Saskatchewan Storage and Fractionation,Alberta,"Mining, quarrying, oil and gas",53.7575,-113.1499,103.9
+G10125,Fort Saskatchewan EOEG,Alberta,Manufacturing,53.7332,-113.175,30.4
+G10126,Gathering,British Columbia,"Mining, quarrying, oil and gas",56.09,-120.414,122.3
+G10127,Genesee Thermal Generating Station,Alberta,Utilities,53.344,-114.305,4726.6
+G10128,"Gerdau Ameristeel Corporation, Whitby Mill",Ontario,Manufacturing,43.8578,-78.9097,129.7
+G10130,International Paper Canadian Pulp Holdings ULC,Alberta,Manufacturing,55.07111,-118.69111,161.8
+G10131,Greenhills Operations,British Columbia,"Mining, quarrying, oil and gas",50.085,-114.871,468.3
+G10133,Birla Carbon Canada Ltd.,Ontario,Manufacturing,43.2588,-79.7843,185.6
+G10134,Hangingstone SAGD Demonstration Facility,Alberta,"Mining, quarrying, oil and gas",56.3132,-111.6362,195.3
+G10135,Hanlan Robb Gas Plant,Alberta,"Mining, quarrying, oil and gas",53.2045,-116.8112,162.5
+G10136,Harmac Pacific Operations,British Columbia,Manufacturing,49.13806,-123.85638,178.4
+G10137,Harmattan Gas Processing Plant,Alberta,"Mining, quarrying, oil and gas",51.6969,-114.475,345.9
+G10138,Havelock Plant,New Brunswick,Manufacturing,45.99698,-65.30658,30.3
+G10139,Hays Gas Plant 11-31-013-14 W4M,Alberta,"Mining, quarrying, oil and gas",50.1291,-111.9058,39.8
+G10141,Hendrickson Springs,Ontario,Manufacturing,43.3615,-80.9642,12.9
+G10142,Hibernia Platform,Newfoundland and Labrador,"Mining, quarrying, oil and gas",46.7504,-48.7829,497.2
+G10144,Mondi Hinton Inc.,Alberta,Manufacturing,53.4133,-117.5706,129.7
+G10145,Holyrood Thermal Generating Station,Newfoundland and Labrador,Utilities,47.4506,-53.0963,593.5
+G10146,Howe Sound Pulp and Paper Mill,British Columbia,Manufacturing,49.5237,-123.4837,120.7
+G10147,Lloydminster Upgrader,Saskatchewan,"Mining, quarrying, oil and gas",53.26311,-109.94889,1022.0
+G10148,Entreprise Indorama PTA Montréal s.e.c.,Quebec,Manufacturing,45.6203,-73.5183,85.9
+G10149,INVISTA (Canada) Company-Maitland Site,Ontario,Manufacturing,44.6606,-75.6017,99.7
+G10150,EVRAZ Inc NA Canada - Regina Facilities,Saskatchewan,Manufacturing,50.5176,-104.6301,190.0
+G10151,Iroquois Falls Generating Station,Ontario,Utilities,48.7696,-80.6669,2.0
+G10152,Joffre LAO Plant,Alberta,Manufacturing,52.30827,-113.5415,129.6
+G10154,Usine de Joliette,Quebec,Manufacturing,46.0297,-73.4024,517.3
+G10155,Judy Creek Gas Conservation Plant,Alberta,"Mining, quarrying, oil and gas",54.57229,-115.5231,49.1
+G10157,Kamloops Mill (SFO),British Columbia,Manufacturing,50.686,-120.404,116.4
+G10158,Karr 10-10-065-02 W6M,Alberta,"Mining, quarrying, oil and gas",54.6133,-118.2129,54.6
+G10159,Kaybob Amalgamated Sour Gas Plant,Alberta,"Mining, quarrying, oil and gas",54.34005,-116.8709,171.0
+G10160,Kaybob South #3 Gas Plant,Alberta,"Mining, quarrying, oil and gas",54.09857,-116.61738,345.2
+G10161,Keele Valley Landfill,Ontario,Waste management,43.8683,-79.4984,223.0
+G10162,Keephills Thermal Electric Power Generating Plant,Alberta,Utilities,53.4487,-114.4491,2717.2
+G10164,Kidd Metallurgical Site,Ontario,"Mining, quarrying, oil and gas",48.57373,-81.09115,28.8
+G10165,Kirkland Lake Generating Station,Ontario,Utilities,48.1347,-80.0425,25.8
+G10168,"KRONOS Canada, Inc.",Quebec,Manufacturing,45.7125,-73.425,172.7
+G10169,Kruger Wayagamack,Quebec,Manufacturing,46.3583,-72.5185,72.4
+G10170,Richmond Cement Plant,British Columbia,Manufacturing,49.1591,-123.0032,511.2
+G10171,Bath Cement Plant,Ontario,Manufacturing,44.1664,-76.8026,668.5
+G10176,Edmonton Plant,Alberta,Manufacturing,53.58051,-113.60328,506.3
+G10177,Lennox Generating Station,Ontario,Utilities,44.1439,-76.8492,132.6
+G10178,Lingan Generating Station,Nova Scotia,Utilities,46.2358,-60.0386,1657.6
+G10179,MacKay River Power Plant,Alberta,Utilities,56.6667,-111.3451,886.4
+G10180,"MacKay River, In-Situ Oil Sands Plant",Alberta,"Mining, quarrying, oil and gas",57.04056,-111.90672,394.4
+G10182,Canadian Kraft Paper Industries Ltd.,Manitoba,Manufacturing,53.86097,-101.21333,63.8
+G10183,Usine de Marbleton,Quebec,Manufacturing,45.6207,-71.6049,180.9
+G10184,McMahon Cogen Plant,British Columbia,Utilities,56.1447,-120.6686,517.6
+G10185,McMahon Gas Plant,British Columbia,"Mining, quarrying, oil and gas",56.14845,-120.67168,131.6
+G10186,Meridian Cogeneration Plant,Saskatchewan,Utilities,53.25932,-109.95124,852.9
+G10187,Mildred Lake and Aurora Plant Sites,Alberta,"Mining, quarrying, oil and gas",57.04083,-111.61583,13677.7
+G10188,Mine de Mont-Wright,Quebec,"Mining, quarrying, oil and gas",52.76639,-67.33306,329.5
+G10191,Mississauga Lubricants Centre,Ontario,Manufacturing,43.5012,-79.6101,438.5
+G10192,Mississauga Cement Plant,Ontario,Manufacturing,43.4972,-79.6277,1044.9
+G10193,Mohawk Street Landfill,Ontario,Waste management,43.1262,-80.2285,128.7
+G10195,Mosaic Potash Belle Plaine,Saskatchewan,"Mining, quarrying, oil and gas",50.42872,-105.19838,705.6
+G10196,Muskeg River Cogeneration Plant,Alberta,Utilities,57.3517,-111.5222,1404.3
+G10199,Imperial Oil Nanticoke Refinery,Ontario,Manufacturing,42.8375,-80.0517,1034.3
+G10203,Nipigon Power Plant,Ontario,Utilities,49.1512,-88.3418,0.5
+G10204,Norman Wells Central Processing Facility,Northwest Territories,"Mining, quarrying, oil and gas",65.2873,-126.8812,77.7
+G10206,Braya Renewable Fuels (Newfoundland) LP,Newfoundland and Labrador,Manufacturing,47.798,-53.9938,196.4
+G10207,Northwood Pulp Mill,British Columbia,Manufacturing,53.97815,-122.6938,181.4
+G10208,Corunna Site,Ontario,Manufacturing,42.8825,-82.4044,945.3
+G10209,INEOS Styrolution,Ontario,Manufacturing,42.9385,-82.4137,39.7
+G10210,St. Clair River Site,Ontario,Manufacturing,42.8971,-82.4399,66.5
+G10211,NOVA Chemicals Corporation (Joffre),Alberta,Manufacturing,52.3083,-113.55,3385.9
+G10213,Oshawa Assembly Plant,Ontario,Manufacturing,43.87182,-78.86319,91.9
+G10215,Ottawa Health Sciences Centre (OHSC) Cogeneration Facility,Ontario,Utilities,45.4032,-75.65408,29.3
+G10217,Usine de Thurso,Quebec,Manufacturing,45.5985,-75.2562,0.0
+G10219,CNUL Peace River Complex,Alberta,"Mining, quarrying, oil and gas",56.3806,-116.795,269.9
+G10220,Mercer Peace River,Alberta,Manufacturing,56.2219,-117.1106,174.1
+G10221,CEPSA Chimie Bécancour,Quebec,Manufacturing,46.3803,-72.3616,58.1
+G10223,Picton  Plant,Ontario,Manufacturing,44.0553,-77.1222,560.4
+G10225,Pine River Sour Gas Plant C-085-D,British Columbia,"Mining, quarrying, oil and gas",55.5719,-121.9416,388.5
+G10226,Transmission Mainline - BC,British Columbia,Pipeline transportation,53.90229,-122.79632,1133.5
+G10227,Point Aconi Generating Station,Nova Scotia,Utilities,46.3225,-60.3039,878.1
+G10228,Point Tupper Generating Station,Nova Scotia,Utilities,45.5872,-61.3489,593.6
+G10229,Poplar River Power Station,Saskatchewan,Utilities,49.0587,-105.4851,3341.3
+G10230,Port Alberni Division,British Columbia,Manufacturing,49.248,-124.80952,57.1
+G10232,Prentiss Chemical Manufacturing Facility,Alberta,Manufacturing,52.3874,-113.6005,313.5
+G10234,Prince George Refinery,British Columbia,Manufacturing,53.92818,-122.69891,141.2
+G10235,Progress Gas Plant 01-01-078-10 W6M,Alberta,"Mining, quarrying, oil and gas",55.7249,-119.3999,32.6
+G10236,Queen Elizabeth Power Station,Saskatchewan,Utilities,52.0944,-106.705,1427.4
+G10237,Quirk Creek Gas Plant,Alberta,"Mining, quarrying, oil and gas",50.7477,-114.4947,80.1
+G10238,Raffinerie de Montreal,Quebec,Manufacturing,45.6417,-73.5167,1216.2
+G10239,Raffinerie Jean-Gaulin,Quebec,Manufacturing,46.7592,-71.1914,1223.7
+G10240,Mine Raglan,Quebec,"Mining, quarrying, oil and gas",61.6916,-73.6666,149.0
+G10241,Rainbow Lake Cogeneration Power Plant (Units 4-5),Alberta,Utilities,58.4471,-119.2383,205.5
+G10243,Ram River Sour Gas Plant,Alberta,"Mining, quarrying, oil and gas",52.1463,-115.33,158.1
+G10246,Redwater Cogeneration Plant,Alberta,Utilities,53.97733,-113.08634,205.2
+G10247,Irving Oil Refinery,New Brunswick,Manufacturing,45.2838,-66.0102,2960.0
+G10249,Rimbey Gas Plant,Alberta,"Mining, quarrying, oil and gas",52.7581,-114.1116,314.5
+G10250,Sarnia Chemical Plant,Ontario,Manufacturing,42.9544,-82.4153,290.7
+G10251,Sarnia Cogen Plant,Ontario,Utilities,42.9586,-82.4146,400.9
+G10252,Sarnia Fractionation Plant,Ontario,"Mining, quarrying, oil and gas",42.9521,-82.3664,178.7
+G10253,Sarnia Manufacturing Centre,Ontario,Manufacturing,42.9025,-82.4511,721.4
+G10254,Sarnia Refinery,Ontario,Manufacturing,42.9306,-82.4433,790.0
+G10255,Sarnia Refinery Plant,Ontario,Manufacturing,42.9542,-82.4158,1329.5
+G10256,Sarnia Regional Cogeneration Facility,Ontario,Utilities,42.9346,-82.4381,1186.9
+G10259,Yara Belle Plaine Inc.,Saskatchewan,Manufacturing,50.4333,-105.1833,559.0
+G10260,Scotford Chemical Plant,Alberta,Manufacturing,53.8042,-113.0824,243.5
+G10261,Scotford Complex,Alberta,Utilities,53.7991,-113.0807,415.2
+G10262,Scotford Upgrader and Upgrader Cogeneration,Alberta,"Mining, quarrying, oil and gas",53.79644,-113.0913,2694.3
+G10263,Fibrek SENC,Quebec,Manufacturing,48.7458,-72.5139,83.4
+G10264,Shand Power Station,Saskatchewan,Utilities,49.0874,-102.86818,1587.9
+G10265,Sheerness Generating Station,Alberta,Utilities,51.44267,-111.79207,1106.9
+G10267,Caroline Complex,Alberta,"Mining, quarrying, oil and gas",51.9655,-114.7536,228.6
+G10268,Jumping Pound Complex,Alberta,"Mining, quarrying, oil and gas",51.0396,-114.559,146.3
+G10269,Shell Scotford Refinery,Alberta,Manufacturing,53.7959,-113.0996,998.9
+G10271,"Koch Fertilizer Canada, ULC",Manitoba,Manufacturing,49.8309,-99.9078,690.1
+G10272,Site de Témiscaming,Quebec,Manufacturing,46.7111,-79.0967,177.0
+G10273,Bowmanville Cement Plant,Ontario,Manufacturing,43.8806,-78.7005,926.9
+G10274,St. Marys Cement Plant,Ontario,Manufacturing,43.2426,-81.1478,487.8
+G10275,Hamilton,Ontario,Manufacturing,43.26438,-79.82723,257.5
+G10276,Lake Erie,Ontario,Manufacturing,42.81,-80.0967,3770.0
+G10277,Strachan Gas Plant,Alberta,"Mining, quarrying, oil and gas",52.2263,-115.177,138.6
+G10278,"Imperial Oil, Strathcona Refinery",Alberta,Manufacturing,53.5417,-113.3917,1667.2
+G10279,Summit Road Landfill,Manitoba,Waste management,49.90933,-97.30489,67.4
+G10280,Suncor Energy Inc. Oil Sands,Alberta,"Mining, quarrying, oil and gas",57.01027,-111.481,8036.9
+G10281,Sundance Thermal Electric Power Generating Plant,Alberta,Utilities,53.5085,-114.5571,926.4
+G10283,CF Industries Courtright Nitrogen Complex,Ontario,Manufacturing,42.7648,-82.4506,582.0
+G10284,Terra Nova,Newfoundland and Labrador,"Mining, quarrying, oil and gas",46.475,-48.4794,665.9
+G10285,AV Terrace Bay,Ontario,Manufacturing,48.7965,-87.1039,2.3
+G10289,"Teck Metals Ltd, Trail Operations",British Columbia,Manufacturing,49.10194,-117.71722,371.1
+G10291,Trenton Generating Station,Nova Scotia,Utilities,45.6202,-62.6498,866.2
+G10292,Tufts Cove Generating Station,Nova Scotia,Utilities,44.6764,-63.5961,1307.6
+G10293,Tunis Power Plant,Ontario,Utilities,48.8704,-80.8942,6.2
+G10295,Usine Alma,Quebec,Manufacturing,48.5837,-71.6889,874.9
+G10296,Usine Arvida,Quebec,Manufacturing,48.4274,-71.1599,546.9
+G10298,Usine de Bécancour,Quebec,Manufacturing,46.3832,-72.3724,16.3
+G10299,Usine de Bouletage de Port-Cartier,Quebec,"Mining, quarrying, oil and gas",50.0334,-66.791,752.2
+G10300,Aluminerie de Deschambault,Quebec,Manufacturing,46.69317,-71.94488,528.7
+G10302,Usine de La Tuque,Quebec,Manufacturing,47.44946,-72.78887,221.8
+G10304,Usine de Québec,Quebec,Manufacturing,46.82417,-71.21528,17.5
+G10306,Usine Grande-Baie,Quebec,Manufacturing,48.1821,-70.5536,556.7
+G10307,Usine Laterrière,Quebec,Manufacturing,48.3007,-71.1289,497.7
+G10310,W12A Landfill,Ontario,Waste management,42.87645,-81.22841,110.3
+G10312,Wapiti Deep Cut Plant 04-08-069-08 W6M,Alberta,"Mining, quarrying, oil and gas",54.9575,-119.1939,129.0
+G10313,Waterton Complex,Alberta,"Mining, quarrying, oil and gas",49.3052,-114.0003,216.1
+G10315,West Windsor Power,Ontario,Utilities,42.2807,-83.0876,28.7
+G10316,Western Canada Operations,Alberta,Manufacturing,53.7332,-113.175,1128.6
+G10318,Dryden Mill,Ontario,Manufacturing,49.7831,-92.8472,110.5
+G10321,Wildcat Hills Gas Plant,Alberta,"Mining, quarrying, oil and gas",51.2195,-114.6454,128.6
+G10323,Windsor Essex Cogeneration Plant,Ontario,Utilities,42.2877,-82.9803,20.8
+G10324,PAW In-Situ Oilsands Facilities,Alberta,"Mining, quarrying, oil and gas",54.69844,-110.7199,3767.6
+G10327,Strathcona Works,Alberta,Manufacturing,53.5586,-113.368,107.7
+G10328,BIENFAIT MINE - CHAR PLANT,Saskatchewan,Manufacturing,49.1418,-103.0019,80.6
+G10329,Bolney Thermal,Saskatchewan,"Mining, quarrying, oil and gas",53.527,-109.3568,428.7
+G10330,Usine de Joliette,Quebec,Manufacturing,46.0374,-73.4208,25.5
+G10332,Glanbrook Landfill Site,Ontario,Waste management,43.0705,-79.7917,16.2
+G10334,Irving Paper,New Brunswick,Manufacturing,45.2788,-66.0249,91.1
+G10337,Walker Environmental Group Inc. Landfill Sites,Ontario,Waste management,43.1234,-79.1673,206.0
+G10338,North Tangleflags Facility,Saskatchewan,"Mining, quarrying, oil and gas",53.5051,-109.5716,53.2
+G10341,Poplar Hill Generating Station,Alberta,Utilities,55.3292,-119.233,29.2
+G10342,Prince George Pulp and Paper and Intercontinental Pulp Mills,British Columbia,Manufacturing,53.92426,-122.69573,153.8
+G10343,Ridge Landfill,Ontario,Waste management,42.314,-82.0557,165.0
+G10344,Sainte Sophie Landfill,Quebec,Waste management,45.7846,-73.906,52.0
+G10346,FortisBC Energy Inc.,British Columbia,Utilities,49.14944,-122.75806,152.2
+G10348,Trail Road Waste Facility,Ontario,Waste management,45.2342,-75.7612,75.4
+G10349,Valleyview Generating Station,Alberta,Utilities,54.9364,-117.229,15.2
+G10350,Wabush Mines - Scully,Newfoundland and Labrador,"Mining, quarrying, oil and gas",52.907,-66.9105,97.8
+G10351,Walkerville,Ontario,Manufacturing,42.3258,-83.0085,46.7
+G10352,West Edmonton Landfill,Alberta,Waste management,53.5841,-113.6144,14.2
+G10353,Weyburn 05-16-006-13W2 BTY,Saskatchewan,"Mining, quarrying, oil and gas",49.4711,-103.7061,32.7
+G10354,Sea Rose FPSO,Newfoundland and Labrador,"Mining, quarrying, oil and gas",46.7215,-48.1341,5.9
+G10355,Nackawic Mill,New Brunswick,Manufacturing,46.0111,-67.2265,91.3
+G10356,Balzac Power Station,Alberta,Utilities,51.1894,-113.9378,197.0
+G10357,Bécancour Power Plant,Quebec,Utilities,46.36803,-72.40502,60.7
+G10358,Eastview Landfill,Ontario,Waste management,43.5742,-80.2323,20.5
+G10359,Coal Valley Mine,Alberta,"Mining, quarrying, oil and gas",53.0892,-116.8059,104.4
+G10360,Corunna Hydrogen Facility,Ontario,Manufacturing,42.9011,-82.4461,465.7
+G10361,Edmonton Hydrogen Facility,Alberta,Manufacturing,53.5594,-113.3472,1325.9
+G10364,Essex County Landfill No. 3,Ontario,Waste management,42.2556,-82.7795,100.5
+G10365,Essex-Windsor Regional Landfill,Ontario,Waste management,42.0879,-82.8725,333.8
+G10366,Toronto Pearson International Airport,Ontario,Pipeline transportation,43.6682,-79.5984,59.8
+G10368,Marten Hills Gas Plant,Alberta,"Mining, quarrying, oil and gas",55.5863,-113.8842,18.6
+G10369,ArcelorMittal Contrecoeur Ouest,Quebec,Manufacturing,45.8206,-73.2661,97.0
+G10370,OC Celfortec LPValleyfield,Quebec,Manufacturing,45.2639,-74.1546,36.3
+G10371,Olds 06-18-032-01W5 GP,Alberta,"Mining, quarrying, oil and gas",51.74218,-114.1347,99.5
+G10373,Plant #31 Brampton,Ontario,Manufacturing,43.7043,-79.7275,81.8
+G10375,Prentiss Manufacturing Facility,Alberta,Manufacturing,52.3874,-113.6005,41.6
+G10376,Britannia Sanitary Landfill Site,Ontario,Waste management,43.6034,-79.6967,155.3
+G10379,Transfer Station No. 2,Ontario,Waste management,42.05691,-82.64374,12.3
+G10380,Bear Creek Power Plant,Alberta,Utilities,55.17221,-118.83111,200.5
+G10381,Diavik Diamond Mines (2012) Inc.,Northwest Territories,"Mining, quarrying, oil and gas",64.4951,-110.2832,155.8
+G10385,Teck Highland Valley Copper Partnership,British Columbia,"Mining, quarrying, oil and gas",50.47235,-121.02132,127.3
+G10386,"Irving Pulp & Paper, Limited",New Brunswick,Manufacturing,45.262,-66.0924,92.3
+G10388,Line Creek Operations,British Columbia,"Mining, quarrying, oil and gas",49.952,-114.756,268.0
+G10389,Lloydminster Ethanol Plant,Saskatchewan,Manufacturing,53.25905,-109.95288,30.5
+G10390,Long Lake,Alberta,"Mining, quarrying, oil and gas",56.4117,-110.9376,2577.5
+G10394,Tucker Thermal,Alberta,"Mining, quarrying, oil and gas",54.57715,-110.56364,865.9
+G10396,Varennes Plant,Quebec,Manufacturing,45.7078,-73.4242,53.5
+G10398,Sudbury Integrated Nickel Operations Smelter,Ontario,Manufacturing,46.5775,-80.8042,93.7
+G10399,Dillon / Brule Mine,British Columbia,"Mining, quarrying, oil and gas",55.3658,-121.7628,78.0
+G10400,Wolverine Mine,British Columbia,"Mining, quarrying, oil and gas",55.06111,-121.25333,38.2
+G10401,Usine de triage Lachenaie,Quebec,Waste management,45.7326,-73.5346,59.3
+G10404,Duffin Creek WPCP,Ontario,Utilities,43.8182,-79.0513,21.7
+G10406,Pod One,Alberta,"Mining, quarrying, oil and gas",56.11279,-111.82786,259.6
+G10407,Greenfield Energy Centre LP,Ontario,Utilities,42.7683,-82.4542,1723.2
+G10408,Horizon Oil Sands Processing Plant and Mine,Alberta,"Mining, quarrying, oil and gas",57.3354,-111.7556,6016.8
+G10410,Kapuskasing Power Plant,Ontario,Utilities,49.3909,-82.4373,0.1
+G10411,Minnedosa Ethanol Plant,Manitoba,Manufacturing,50.25572,-99.86322,79.1
+G10412,Orion Facilities,Alberta,"Mining, quarrying, oil and gas",54.323,-110.25,655.1
+G10413,Portlands Energy Centre,Ontario,Utilities,43.6495,-79.3311,1065.3
+G10414,Surmont SAGD Commercial Battery,Alberta,"Mining, quarrying, oil and gas",56.1936,-110.9506,2841.2
+G10415,Tiverton,Ontario,Manufacturing,44.3193,-81.5657,28.2
+G10416,ADM AGRI-INDUSTRIES - ADM Windsor,Ontario,Manufacturing,42.2655,-83.1001,81.7
+G10417,Suffield Gas Storage Facility,Alberta,"Mining, quarrying, oil and gas",50.5772,-111.1781,49.6
+G10419,Vanscoy Potash Operations,Saskatchewan,"Mining, quarrying, oil and gas",52.0057,-107.0936,49.7
+G10420,AltaSteel Inc.,Alberta,Manufacturing,53.5291,-113.3875,79.4
+G10421,Baymag Exshaw Operations,Alberta,Manufacturing,51.0653,-115.2211,179.2
+G10423,BUNGE CANADA - HAMILTON,Ontario,Manufacturing,43.1612,-79.5058,46.8
+G10427,CGC Hagersville Plant,Ontario,Manufacturing,43.0126,-80.0156,81.1
+G10428,Galloway Plant 14-14-053-20 W5M,Alberta,"Mining, quarrying, oil and gas",53.583,-116.842,35.9
+G10429,Gold Creek 13-26-067-05 W6M,Alberta,"Mining, quarrying, oil and gas",53.8342,-118.6584,89.5
+G10430,Stoddart 02-34 Sour Gas Plant,British Columbia,"Mining, quarrying, oil and gas",56.5828,-121.256,81.2
+G10431,Wild River 04-03-57-23W5M,Alberta,"Mining, quarrying, oil and gas",53.89269,-117.3391,11.2
+G10432,North Bay Power Plant,Ontario,Utilities,46.3803,-79.4692,1.1
+G10433,Hartland Landfill,British Columbia,Waste management,48.5369,-123.46284,138.0
+G10434,"Cascades Containerboard Packaging, A Division of Cascades Canada ULC.",Ontario,Manufacturing,44.1114,-77.5878,15.6
+G10435,Brintnell Oil Battery and Comp Stn 1107 11-07-082-22W4,Alberta,"Mining, quarrying, oil and gas",56.09516,-113.44119,43.0
+G10436,Suffield C Comp Stn 01-04,Alberta,"Mining, quarrying, oil and gas",50.22445,-111.03854,13.6
+G10437,Suffield K (Koomati) Gas Battery 04-04,Alberta,"Mining, quarrying, oil and gas",50.39906,-110.50597,13.4
+G10438,Suffield Oil Battery 01-27,Alberta,"Mining, quarrying, oil and gas",50.6315,-111.0222,36.0
+G10439,Vancouver Wallboard Plant,British Columbia,Manufacturing,49.1678,-122.9386,25.4
+G10440,Langley Plant,British Columbia,Manufacturing,49.1912,-122.6605,44.8
+G10441,Lethbridge Waste and Recycling Centre Disposal Site,Alberta,Waste management,49.47331,-112.47621,82.0
+G10442,Landfill,Saskatchewan,Waste management,52.09923,-106.70651,78.5
+G10443,Vancouver Landfill,British Columbia,Waste management,49.099,-123.024,145.3
+G10444,Kilcona Landfill,Manitoba,Waste management,49.93123,-97.04538,39.3
+G10446,Berland Gas Plant (14-15-059-24W5) - TOU,Alberta,"Mining, quarrying, oil and gas",54.10681,-117.51674,31.5
+G10447,Noel Sweet Gas Plant,British Columbia,"Mining, quarrying, oil and gas",55.294,-120.484,40.7
+G10451,Narraway Sweet Gas Plant 10-08,Alberta,"Mining, quarrying, oil and gas",54.35022,-119.4578,23.9
+G10452,Domtar Usine de Windsor,Quebec,Manufacturing,45.5644,-71.979,125.9
+G10453,East Windsor Cogeneration Centre,Ontario,Utilities,42.32552,-83.00067,12.3
+G10454,Gunnell Comp Stn b-023-F,British Columbia,"Mining, quarrying, oil and gas",58.85197,-121.7858,10.9
+G10455,Resthaven Sweet Gas Plant 08-11,Alberta,"Mining, quarrying, oil and gas",54.1725,-118.3276,221.2
+G10456,Sexsmith Sour Gas Plant,Alberta,"Mining, quarrying, oil and gas",55.4819,-119.0592,87.7
+G10457,Sierra Sour Gas Plant,British Columbia,"Mining, quarrying, oil and gas",58.6856,-121.3178,50.3
+G10458,Steeprock Sour Gas Plant,British Columbia,"Mining, quarrying, oil and gas",55.3007,-120.0284,59.4
+G10459,Pearl Street Steam Plant,Ontario,Utilities,43.6482,-79.3858,125.6
+G10460,Walton Street Steam Plant,Ontario,Utilities,43.6576,-79.3854,86.9
+G10461,Gold Bar Wastewater Treatment Plant,Alberta,Utilities,53.5608,-113.4153,48.6
+G10465,Foster Creek SAGD Bitumen Battery (with Cogen),Alberta,"Mining, quarrying, oil and gas",55.0696,-110.5361,3639.7
+G10466,Flakeboard Company Limited,Ontario,Manufacturing,46.5183,-84.4148,29.4
+G10467,Ford Oakville Assembly Complex,Ontario,Manufacturing,43.484,-79.6692,42.1
+G10468,Musselwhite Mine,Ontario,"Mining, quarrying, oil and gas",52.60389,-90.36806,31.6
+G10469,Goreway Power Station,Ontario,Utilities,43.7465,-79.6799,1173.9
+G10470,Metro Vancouver Waste-to-Energy Facility,British Columbia,Waste management,49.1866,-122.9785,129.9
+G10471,Green Lane Landfill,Ontario,Waste management,42.8156,-81.3267,139.4
+G10472,Johnstown,Ontario,Manufacturing,44.7353,-75.4842,123.0
+G10475,Lloydminster Refinery,Alberta,Manufacturing,53.28812,-110.01941,100.5
+G10476,Rainbow Lake Gas plant,Alberta,"Mining, quarrying, oil and gas",58.45067,-119.2384,43.6
+G10478,IGPC Ethanol Inc.,Ontario,Manufacturing,42.7827,-80.9813,131.4
+G10479,Kingston Site,Ontario,Manufacturing,44.2159,-76.5553,80.4
+G10481,Irving Consumer Products Limited,Ontario,Manufacturing,43.69424,-79.50424,115.1
+G10482,Jungbunzlauer Canada Inc.,Ontario,Manufacturing,42.9212,-79.2554,159.7
+G10485,Nordegg River Gas Plant,Alberta,"Mining, quarrying, oil and gas",52.77972,-115.66688,17.4
+G10487,Kruger Products Inc,British Columbia,Manufacturing,49.20139,-122.93611,15.6
+G10488,"Produits Kruger inc., usine de Gatineau",Quebec,Manufacturing,45.4255,-75.70846,52.8
+G10489,"Lake Utopia Paper A Division of J.D. Irving, Limited",New Brunswick,Manufacturing,45.1567,-66.7714,18.1
+G10490,Lantic Inc. - Raffinerie Montréal,Quebec,Manufacturing,45.54611,-73.5335,84.5
+G10491,Lantic Inc. Taber Beet Sugar Factory,Alberta,Manufacturing,49.7894,-112.1261,117.1
+G10492,"Lidya Énergie, s.e.c.",Quebec,Utilities,45.3634,-74.1457,1.1
+G10493,"Magellan Aerospace, Haley",Ontario,Manufacturing,45.5964,-76.7552,25.4
+G10495,Meadow Lake Mechanical Pulp,Saskatchewan,Manufacturing,54.15686,-108.28572,73.6
+G10496,MEG Christina Lake Regional Project,Alberta,"Mining, quarrying, oil and gas",55.6664,-110.714,1242.5
+G10497,Whitecourt Pulp Division,Alberta,Manufacturing,54.1444,-115.6917,62.5
+G10499,BTG Sylvan Lake GP 14-32-037-03W5,Alberta,"Mining, quarrying, oil and gas",52.2293,-114.39628,49.2
+G10501,Moore Site,Ontario,Manufacturing,42.8489,-82.4244,51.7
+G10510,Fort Smith Plant,Northwest Territories,Utilities,60,-111.87001,18.8
+G10513,Inuvik Plant,Northwest Territories,Utilities,68.35554,-133.73038,17.0
+G10514,Jackfish Plant,Northwest Territories,Utilities,62.46922,-114.38101,43.6
+G10527,Plant #34 Montreal,Quebec,Manufacturing,45.47359,-73.56072,65.4
+G10531,Peyto Oldman 11-17-055-21W5,Alberta,"Mining, quarrying, oil and gas",53.75495,-117.09094,98.8
+G10533,Potash Corp - Allan Division,Saskatchewan,"Mining, quarrying, oil and gas",51.9386,-106.084,97.9
+G10534,Boundary Dam Mine,Saskatchewan,"Mining, quarrying, oil and gas",49.0935,-102.8864,42.3
+G10535,Produits Kruger Inc.,Quebec,Manufacturing,45.9633,-73.47,50.0
+G10536,Empress NGL Extraction Plant,Alberta,"Mining, quarrying, oil and gas",50.6719,-110.0289,172.8
+G10537,Toronto Refinery,Ontario,Manufacturing,43.64252,-79.37092,75.2
+G10538,Régie Intermunicipale Argenteuil Deux-Montagnes (RIADM),Quebec,Waste management,45.60975,-74.23946,156.2
+G10539,Cambridge Landfill Site,Ontario,Waste management,43.368,-80.2738,3.4
+G10540,Waterloo Landfill Site,Ontario,Waste management,43.4418,-80.5787,64.7
+G10544,Lieu d'enfouissement,Quebec,Waste management,46.11599,-72.47588,28.4
+G10545,Université McGill - Campus Centre-Ville,Quebec,Other,45.5061,-73.5784,27.3
+G10548,"Énergir, s.e.c.",Quebec,Utilities,45.5328,-73.549,52.1
+G10549,Senlac Thermal Oil Battery,Saskatchewan,"Mining, quarrying, oil and gas",52.433,-109.5976,64.1
+G10550,Gordondale East Gas Plant,Alberta,"Mining, quarrying, oil and gas",55.87937,-119.29407,69.2
+G10551,Highway Gas Plant,British Columbia,"Mining, quarrying, oil and gas",56.94445,-122.07422,61.3
+G10552,Jedney I Gas Plant,British Columbia,"Mining, quarrying, oil and gas",57.23454,-122.22098,103.7
+G10554,St. Clair Energy Center,Ontario,Utilities,42.8967,-82.3982,847.3
+G10555,Simonette Gas Plant,Alberta,"Mining, quarrying, oil and gas",54.4233,-117.7604,108.8
+G10556,Ferrier Gas Plant,Alberta,"Mining, quarrying, oil and gas",52.496,-114.988,44.7
+G10557,Firebag,Alberta,"Mining, quarrying, oil and gas",57.24476,-110.8581,5746.5
+G10559,St. Clair Ethanol Plant,Ontario,Manufacturing,42.85649,-82.41989,146.3
+G10560,PETROMET BIGSTONE WEST FIR 14-28-59-22,Alberta,"Mining, quarrying, oil and gas",54.13591,-117.24179,60.9
+G10561,PETROMET WILD RIVER 10-20 PLANT,Alberta,Manufacturing,53.85561,-117.38007,66.2
+G10562,102078290 Saskatchewan Ltd.,Saskatchewan,Manufacturing,50.44213,-105.22224,73.5
+G10563,Tolko High Level Lumber Division,Alberta,Manufacturing,58.50033,-117.13662,21.4
+G10564,Toyota Motor Manufacturing Canada Inc. (Cambridge),Ontario,Manufacturing,43.4198,-80.3708,68.2
+G10566,Heating Plant,Alberta,Other,53.5196,-113.529,187.0
+G10567,University of Windsor,Ontario,Other,42.3062,-83.0678,11.1
+G10568,Aitken Creek Gas Storage_LFO,British Columbia,"Mining, quarrying, oil and gas",56.9561,-121.9156,60.6
+G10569,Thompson Operations,Manitoba,"Mining, quarrying, oil and gas",55.7138,-97.8561,19.8
+G10570,Voisey's Bay Mine Site,Newfoundland and Labrador,"Mining, quarrying, oil and gas",56.33826,-62.09508,180.6
+G10571,Station d'épuration des eaux usées Jean-R.-Marcotte,Quebec,Utilities,45.6722,-73.525,78.0
+G10572,St. Nicephore Landfill,Quebec,Waste management,45.81043,-72.37557,138.6
+G10573,Cache Creek Landfill,British Columbia,Utilities,50.79013,-121.32038,36.1
+G10575,Quesnel River Pulp,British Columbia,Manufacturing,53.0058,-122.5026,66.8
+G10576,"Ranger Board, a division of West Fraser Mills Ltd.",Alberta,Manufacturing,54.2382,-115.3797,25.4
+G10577,Whitecourt Electric Power Generating Facility,Alberta,Utilities,54.16236,-115.7339,3.6
+G10578,"Glencore Canada Corporation, CCR refinery",Quebec,Manufacturing,45.6283,-73.5125,60.1
+G10579,Glencore Canada Corporation - Fonderie Horne,Quebec,Manufacturing,48.25417,-79.01667,114.4
+G10580,Sudbury Operations Mines Mill - Onaping Area,Ontario,"Mining, quarrying, oil and gas",46.67417,-81.3425,23.2
+G10581,Global Contract Inc.,Ontario,Manufacturing,43.7747,-79.4857,1.7
+G10582,Complexe de valorisation énergétique,Quebec,Waste management,46.8318,-71.224,94.5
+G10583,Site d'enfouissement Saint-Tite-des-Caps,Quebec,Waste management,47.10952,-70.83753,13.7
+G10585,Varennes Facility,Quebec,Manufacturing,45.7317,-73.4033,16.8
+G10586,ADM AGRI-INDUSTRIES - ADM Lloydminster,Alberta,Manufacturing,53.2838,-110.0319,66.2
+G10587,Division Meadowbank,Nunavut,"Mining, quarrying, oil and gas",65.0149,-96.0524,269.1
+G10589,Mine de Fire Lake,Quebec,"Mining, quarrying, oil and gas",52.35028,-67.36917,73.3
+G10591,Beaver Regional Landfill,Alberta,Waste management,53.3055,-112.4021,11.8
+G10594,Saint John LNG Marine Terminal & Multi-Purpose Pier,New Brunswick,Utilities,45.2125,-65.9781,17.1
+G10595,Chemtrade Electrochem - North Vancouver Chlor-alkali Facility,British Columbia,Manufacturing,49.299,-123.015,20.5
+G10599,CEVPC 720 Beatty Street,British Columbia,Utilities,49.278,-123.113,93.0
+G10601,City of Thunder Bay Solid Waste and Recycling Facility,Ontario,Waste management,48.437,-89.3757,40.1
+G10602,Clean Harbors Canada Inc. [Corunna],Ontario,Waste management,42.5245,-82.186,40.8
+G10604,Algar,Alberta,"Mining, quarrying, oil and gas",56.11314,-111.71534,275.1
+G10606,Hythe Brainard Sour Gas Plant,Alberta,"Mining, quarrying, oil and gas",55.4891,-119.7508,143.7
+G10607,Crossfield Energy Centre,Alberta,Utilities,51.3994,-114.0049,200.6
+G10608,London District Energy,Ontario,Utilities,42.9829,-81.2384,49.2
+G10609,Global Upholstery,Ontario,Manufacturing,43.7768,-79.4756,3.1
+G10610,Englehart Oriented Strand Board Plant,Ontario,Manufacturing,47.8242,-79.885,12.0
+G10611,CST Coal,Alberta,"Mining, quarrying, oil and gas",54.0066,-119.1055,73.9
+G10612,Highbury Canco Corporation,Ontario,Manufacturing,42.0437,-82.5991,50.9
+G10613,Mount Polley Mine,British Columbia,"Mining, quarrying, oil and gas",52.5443,-121.6328,52.8
+G10614,Ivaco Rolling Mills,Ontario,Manufacturing,45.6133,-74.705,119.0
+G10617,Macassa Mine,Ontario,"Mining, quarrying, oil and gas",48.14611,-80.06056,24.2
+G10618,Montreal Facility,Quebec,Manufacturing,45.4,-73.6,37.4
+G10619,MEG Christina Lake Cogeneration Facility,Alberta,"Mining, quarrying, oil and gas",55.66638,-110.71404,1277.2
+G10620,MOSAIC POTASH ESTERHAZY - K2 SITE,Saskatchewan,"Mining, quarrying, oil and gas",50.6574,-101.8422,111.5
+G10621,New Forest Paper Mills LP,Ontario,Manufacturing,43.7749,-79.2648,72.7
+G10622,Thorold Cogen Generating Station,Ontario,Utilities,43.106,-79.1988,421.8
+G10626,PotashCorp Rocanville,Saskatchewan,"Mining, quarrying, oil and gas",50.4613,-101.5356,131.1
+G10627,Genesee Mine,Alberta,"Mining, quarrying, oil and gas",53.3294,-114.2903,13.8
+G10631,Cliff Central Heating and Cooling Plant,Ontario,Other,45.4215,-75.7073,23.8
+G10632,HUMBERSTONE LANDFILL,Ontario,Waste management,42.964,-79.2737,49.9
+G10633,GFL Environmental inc.,Quebec,Waste management,45.27374,-72.4628,21.4
+G10634,Sanofi Pasteur Limited,Ontario,Manufacturing,43.7868,-79.4645,56.9
+G10635,Ermine Power Station,Saskatchewan,Utilities,51.8579,-109.0332,220.7
+G10638,West Doe Gas Plant,British Columbia,"Mining, quarrying, oil and gas",55.95707,-120.20353,46.7
+G10639,Leismer SAGD Bitumen Battery,Alberta,"Mining, quarrying, oil and gas",55.81539,-111.4444,666.7
+G10640,Felix Schoeller inc,Quebec,Manufacturing,45.87548,-72.54322,12.5
+G10641,Skookumchuck Operation,British Columbia,Manufacturing,49.91901,-115.764,60.3
+G10643,Tenaris Algoma Tubes,Ontario,Manufacturing,46.5297,-84.3688,97.6
+G10644,Main Campus,Ontario,Other,43.013,-81.274,46.3
+G10645,Canfor Green Energy Combined Heat and Power Plant,Alberta,Utilities,55.1602,-118.8184,11.4
+G10646,Halton Hills Generating Station,Ontario,Utilities,43.55882,-79.85249,1208.3
+G10647,Tree Island Industries Ltd.,British Columbia,Manufacturing,49.1875,-122.95916,13.5
+G10648,St George Campus,Ontario,Other,43.66579,-79.39917,69.6
+G10649,Magog Landfill Bestan Inc.,Quebec,Waste management,45.2179,-72.148,43.7
+G10650,Willow Creek Mine,British Columbia,"Mining, quarrying, oil and gas",55.6044,-122.2007,99.2
+G10651,Edson O.S.B.,Alberta,Manufacturing,53.59306,-116.3903,14.6
+G10652,Keele Campus,Ontario,Other,43.7742,-79.5023,46.8
+G10653,Mercer Celgar Limited Partnership,British Columbia,Manufacturing,49.3357,-117.728,111.4
+G10656,Carson Creek GP 4-23,Alberta,"Mining, quarrying, oil and gas",54.28493,-115.69846,38.7
+G10657,Quebec Silicon LP,Quebec,Manufacturing,46.3712,-72.3881,181.2
+G10658,POTASH CORP - LANIGAN DIVISION,Saskatchewan,"Mining, quarrying, oil and gas",51.85363,-105.20742,112.0
+G10660,Montney Gas Processing and Production IF-a,British Columbia,"Mining, quarrying, oil and gas",55.929,-120.894,160.0
+G10661,Glacier Sour Gas Plant 05-02,Alberta,"Mining, quarrying, oil and gas",55.5541,-119.7554,241.3
+G10662,Emerald Energy from Waste Inc.,Ontario,Waste management,43.697,-79.6826,90.3
+G10663,111 Progress,Ontario,Manufacturing,43.7718,-79.2735,40.4
+G10664,Brampton Brick Limited,Ontario,Manufacturing,43.7211,-79.8164,43.0
+G10667,Collingwood Distillery,Ontario,Manufacturing,44.4968,-80.1925,7.1
+G10668,Northern Prairie Thermal Electric Power Plant,Alberta,Utilities,55.3405,-119.2185,248.8
+G10669,Mine Canadian Malartic,Quebec,"Mining, quarrying, oil and gas",48.12451,-78.12927,153.6
+G10670,DAPP Power LP Plant,Alberta,Utilities,54.41587,-114.17433,4.6
+G10673,Usine de Valleyfield,Quebec,Manufacturing,45.2561,-74.1197,0.1
+G10675,Horn River Comp Stn c-067-K,British Columbia,"Mining, quarrying, oil and gas",59.4729,-122.3344,11.4
+G10676,Hythe Comp Stn A-005-G,British Columbia,"Mining, quarrying, oil and gas",55.5854,-120.1781,64.5
+G10678,"Gerdau Ameristeel Corporation, Manitoba Mill",Manitoba,Manufacturing,50.1302,-96.9013,41.5
+G10679,Gibraltar Mine (SFO),British Columbia,"Mining, quarrying, oil and gas",52.5299,-122.2851,117.8
+G10681,Hope Bay Project,Nunavut,"Mining, quarrying, oil and gas",68.13925,-106.61072,27.9
+G10683,Kawartha Ethanol Inc.,Ontario,Manufacturing,44.44202,-77.82546,54.7
+G10684,Emballages Krupack Place Turcot,Quebec,Manufacturing,45.46254,-73.60549,35.2
+G10686,Methanex Medicine Hat Methanol Plant,Alberta,Manufacturing,50.08071,-110.72786,342.1
+G10687,Bridgewater Plant,Nova Scotia,Manufacturing,44.3853,-64.541,15.7
+G10688,Waterville Plant,Nova Scotia,Manufacturing,45.0493,-64.653,21.1
+G10689,Pictou County Plant,Nova Scotia,Manufacturing,45.6174,-62.737,23.4
+G10690,Spy Hill Generating Station,Saskatchewan,Utilities,50.59863,-101.84814,132.2
+G10692,Waskada 11-30-001-25 W1M,Manitoba,"Mining, quarrying, oil and gas",49.06753,-100.81467,40.0
+G10693,Peyto Nosehill 11-21-055-20W5,Alberta,"Mining, quarrying, oil and gas",53.7683,-116.9154,59.6
+G10696,Tattoo d-068-B/094-O-15 Compressor Station,British Columbia,"Mining, quarrying, oil and gas",59.80472,-122.71638,5.9
+G10697,ROXUL Inc.,Ontario,Manufacturing,43.5332,-79.8874,67.0
+G10707,Wolf Lake Sweet Gas Plant,Alberta,"Mining, quarrying, oil and gas",53.3731,-116.086,69.4
+G10709,Shepard Landfill,Alberta,Waste management,50.9505,-113.958,27.9
+G10710,Honda of Canada Mfg.,Ontario,Manufacturing,44.1486,-79.8408,58.3
+G10711,Pikes Peak South Thermal 05-07-049-23W3,Saskatchewan,"Mining, quarrying, oil and gas",53.21062,-109.36673,324.4
+G10712,Tupper West 5-1 Gas Plant,British Columbia,"Mining, quarrying, oil and gas",55.64177,-120.50623,35.9
+G10713,Tupper Main Gas Plant A-21-B/093-P-09,British Columbia,"Mining, quarrying, oil and gas",55.5163,-120.13119,73.0
+G10714,Musreau Gas Plant,Alberta,"Mining, quarrying, oil and gas",54.38681,-118.77192,57.1
+G10715,CORY,Saskatchewan,"Mining, quarrying, oil and gas",52.0904,-106.8741,67.3
+G10716,Patience Lake Division,Saskatchewan,"Mining, quarrying, oil and gas",52.117,-106.6609,33.2
+G10718,PROFILE INDUSTRIES INC.,Ontario,Manufacturing,43.7689,-79.5371,2.4
+G10719,Lieu d'enfouissement technique,Quebec,Waste management,46.4332,-72.7438,44.2
+G10720,Lieu enfouissement technique de Champlain,Quebec,Waste management,46.47526,-72.32049,68.6
+G10721,Yellowhead Power Station,Saskatchewan,Utilities,52.7242,-108.2327,275.0
+G10722,Mine du Lac Bloom,Quebec,"Mining, quarrying, oil and gas",52.85235,-67.25387,121.4
+G10724,Spec Furniture,Ontario,Manufacturing,43.7043,-79.5877,0.6
+G10725,Farrell Creek B-88-I,British Columbia,"Mining, quarrying, oil and gas",56.237,-122.097,58.9
+G10726,Kaybob Gas Plant,Alberta,"Mining, quarrying, oil and gas",54.5247,-116.7943,51.9
+G10727,Central Heating and Cooling Plant,Alberta,Other,51.0749,-114.1387,69.5
+G10728,University of Saskatchewan,Saskatchewan,Other,52.1299,-106.6313,50.9
+G10729,York Energy Centre,Ontario,Utilities,44.4,-79.31,51.3
+G10730,Dépôt Rive-Nord,Quebec,Waste management,46.05983,-73.25761,68.3
+G10735,Mackay River Commercial Program,Alberta,"Mining, quarrying, oil and gas",56.79043,-112.09594,505.9
+G10736,Apex Utilities Inc.,Alberta,Utilities,53.27026,-113.54154,27.4
+G10738,"Gerdau Ameristeel Corporation, Cambridge Mill",Ontario,Manufacturing,43.3706,-80.284,14.7
+G10742,Meadow Lake Power Station,Saskatchewan,Utilities,54.0882,-108.4384,0.3
+G10744,Kirby South 13-21-73-7W4,Alberta,"Mining, quarrying, oil and gas",55.3424,-111.0294,835.1
+G10745,"Cascades Papier Kingsey Falls, une division de Cascades Canada ULC",Quebec,Manufacturing,45.8588,-72.0745,61.7
+G10746,Spyhill Landfill,Alberta,Waste management,51.16,-114.18,44.7
+G10749,Paradise Hill Thermal 08-27-053-24W3,Saskatchewan,"Mining, quarrying, oil and gas",53.60441,-109.44918,137.9
+G10750,Kearl Oil Sands Processing Plant and Mine,Alberta,"Mining, quarrying, oil and gas",57.39692,-111.07162,3031.1
+G10751,Centrale de cogénération à la biomasse,Quebec,Utilities,45.4808,-71.9519,33.3
+G10753,North Battleford G.S.,Saskatchewan,Utilities,52.68323,-108.17154,828.8
+G10756,Landis Power Station,Saskatchewan,Utilities,52.2244,-108.4334,7.9
+G10757,Centre technologique AES,Quebec,Waste management,48.36553,-71.09347,23.8
+G10758,Dawson Gas Plant,British Columbia,"Mining, quarrying, oil and gas",55.79353,-120.52431,114.2
+G10762,Twin Creeks Landfill (formerly Warwick Landfill),Ontario,Waste management,42.9757,-81.8669,323.6
+G10763,Sunrise Gas Plant (03-18-080-17W6) - TOU,British Columbia,"Mining, quarrying, oil and gas",55.9285,-120.6423,57.9
+G10765,Detour Lake Mine,Ontario,"Mining, quarrying, oil and gas",50.0171,-79.70393,304.7
+G10767,PARA KAYBOB 12-10-064-19W5,Alberta,"Mining, quarrying, oil and gas",54.5251,-116.7962,42.5
+G10768,Meridian Lightweight Technologies Inc,Ontario,Manufacturing,42.9595,-81.6114,114.8
+G10769,Meridian Lightweight Technologies Inc. Plant E,Ontario,Manufacturing,42.9907,-81.6208,152.9
+G10770,Parkland Gas Plant 03-09,British Columbia,"Mining, quarrying, oil and gas",56.002,-120.444,32.9
+G10771,Kaybob East 16-03,Alberta,"Mining, quarrying, oil and gas",54.6016,-116.62573,31.8
+G10772,Kaybob West 07-14,Alberta,"Mining, quarrying, oil and gas",54.44886,-116.90932,46.5
+G10773,Saxon 10-19,Alberta,"Mining, quarrying, oil and gas",54.37946,-117.28577,18.8
+G10774,03-22-78-12-W6M,Alberta,"Mining, quarrying, oil and gas",55.76757,-119.77465,226.6
+G10776,Wembley Gas Plant,Alberta,"Mining, quarrying, oil and gas",55.3359,-119.223,102.7
+G10777,Viewfield Sour Gas Plant 13-05,Saskatchewan,"Mining, quarrying, oil and gas",49.6222,-103.0517,73.1
+G10779,Shepard Energy Centre,Alberta,Utilities,50.97083,-113.88538,2316.2
+G10780,Sandall Thermal 06-14-051-24W3,Saskatchewan,"Mining, quarrying, oil and gas",53.40078,-109.43664,144.7
+G10782,LES FORGES DE SOREL CIE - ST-JOSEPH-DE-SOREL,Quebec,Manufacturing,46.045,-73.1239,29.7
+G10783,Mosaic Potash Colonsay,Saskatchewan,"Mining, quarrying, oil and gas",51.9333,-105.7638,34.6
+G10785,Myra Falls Mine Ltd.,British Columbia,"Mining, quarrying, oil and gas",49.57694,-125.60194,1.6
+G10787,Kakwa River Gas Plant 08-13-063-05W6,Alberta,"Mining, quarrying, oil and gas",54.44888,-118.59466,201.5
+G10788,Redwater Fractionation and Storage Facility,Alberta,"Mining, quarrying, oil and gas",53.8172,-113.1336,150.7
+G10789,Saturn Deepcut Gas Plant 12-36,Alberta,"Mining, quarrying, oil and gas",53.97148,-117.29729,108.2
+G10790,Peyto Swanson 12-31-053-19W5,Alberta,"Mining, quarrying, oil and gas",53.6229,-116.79923,71.1
+G10791,Aluminerie Arvida - Centre technologique AP60,Quebec,Manufacturing,48.43193,-71.15674,99.9
+G10792,Saturn Gas Processing and Production IF-a,British Columbia,"Mining, quarrying, oil and gas",55.962,-121.075,11.9
+G10793,Slave Lake Pulp,Alberta,Manufacturing,55.2481,-114.514,67.7
+G10795,Banshee Gas Plant (15-12-050-21W5) - TOU,Alberta,"Mining, quarrying, oil and gas",53.30683,-116.93588,70.0
+G10796,West Doe Gas Plant (13-25-080-16W6) - TOU,British Columbia,"Mining, quarrying, oil and gas",55.95747,-120.37373,60.6
+G10797,Spirit River 06-03-078-07W6 Battery,Alberta,"Mining, quarrying, oil and gas",55.7332,-118.9989,43.6
+G10798,Musreau Gas Plant (08-13-062-06W6) - TOU,Alberta,"Mining, quarrying, oil and gas",54.3597,-118.7563,75.1
+G10799,Wildriver Gas Plant (14-20-056-23W5) - TOU,Alberta,"Mining, quarrying, oil and gas",53.8579,-113.3974,85.1
+G10800,TRT ETGO du Québec inc.,Quebec,Manufacturing,46.38806,-72.37667,34.8
+G10801,Blair Creek Comp Stn d-058-F,British Columbia,"Mining, quarrying, oil and gas",56.3236,-120.9973,28.1
+G10802,Gordondale Sour Gas Plant 16-31,Alberta,"Mining, quarrying, oil and gas",55.81012,-119.67954,122.6
+G10804,AOC Hangingstone SAGD,Alberta,"Mining, quarrying, oil and gas",56.4771,-111.42457,212.9
+G10805,Durham York Energy Centre,Ontario,Waste management,43.87424,-78.75309,81.2
+G10806,Ferrier Comp Stn 13-05,Alberta,"Mining, quarrying, oil and gas",52.85616,-115.27982,91.5
+G10807,Fort Saskatchewan Plant,Alberta,"Mining, quarrying, oil and gas",53.7469,-113.1645,140.5
+G10808,Guelph Campus,Ontario,Other,43.32,-80.1336,41.4
+G10809,JBS Foods Canada Inc.,Alberta,Manufacturing,50.5976,-111.8818,86.4
+G10810,Long Harbour Operations,Newfoundland and Labrador,Manufacturing,47.40889,-53.81167,40.5
+G10811,Petyo Oldman North 14-17-055-21W5,Alberta,"Mining, quarrying, oil and gas",53.75758,-117.08598,64.5
+G10812,Rush Lake Thermal Pilot & Commercial 12-03-048-21W3,Saskatchewan,"Mining, quarrying, oil and gas",53.11255,-109.00025,263.8
+G10813,Canadian Natural Upgrading Limited Muskeg River Mine and Jackpine Mine,Alberta,"Mining, quarrying, oil and gas",57.24437,-111.51704,1669.3
+G10814,Sundance 15-07-054-21W5 Gas Plant,Alberta,"Mining, quarrying, oil and gas",53.65556,-117.0816,36.8
+G10815,Sunrise Thermal,Alberta,"Mining, quarrying, oil and gas",57.23722,-111.05954,1435.4
+G10816,West Cadotte Power Plant,Alberta,Utilities,56.31375,-116.77863,93.9
+G10817,LINDBERGH SAGD 04-25,Alberta,"Mining, quarrying, oil and gas",54.03691,-110.62095,566.8
+G10821,Glenridge Landfill Site,Ontario,Waste management,43.1222,-79.23763,41.0
+G10822,SAULT STE. MARIE MUNICIPAL LANDFILL,Ontario,Waste management,46.5811,-84.3293,57.8
+G10823,Air Liquide Canada - Bécancour Plan 2,Quebec,Manufacturing,46.3824,-72.3753,56.0
+G10826,Fleet Street Landfill Site,Saskatchewan,Waste management,50.49404,-104.54781,85.9
+G10827,Charlottetown Generating Station,Prince Edward Island,Utilities,46.2382,-63.1173,1.2
+G10828,ALBERTA NEWSPRINT,Alberta,Manufacturing,54.1044,-115.4821,158.0
+G10830,MSSC Canada,Ontario,Manufacturing,42.4006,-82.1739,14.7
+G10832,Lator #2 01-21-063-02W6,Alberta,"Mining, quarrying, oil and gas",54.45974,-118.23009,54.6
+G10833,Karr 07-11-064-04W6,Alberta,"Mining, quarrying, oil and gas",54.5411,-118.1792,99.0
+G10834,Otter Lake Landfill,Nova Scotia,Waste management,44.6168,-63.7383,48.9
+G10835,Mary River Mine Site,Nunavut,"Mining, quarrying, oil and gas",71.3146,-79.28194,122.3
+G10836,North Portal Sour Gas Plant 01-09,Saskatchewan,"Mining, quarrying, oil and gas",49.0153,-102.4821,73.0
+G10838,Windsor Plant,Ontario,"Mining, quarrying, oil and gas",42.2875,-83.0921,41.4
+G10839,Holyrood Combustion Turbine,Newfoundland and Labrador,Utilities,47.45133,-53.09657,12.3
+G10840,Port Hawkesbury Biomass Cogeneration Power Plant,Nova Scotia,Utilities,45.5982,-61.3601,28.1
+G10841,Edam East Thermal 05-08-048-19W3,Saskatchewan,"Mining, quarrying, oil and gas",53.12337,-108.75624,299.2
+G10842,Vawn Thermal 16-01-048-19W3,Saskatchewan,"Mining, quarrying, oil and gas",53.11599,-108.64051,215.9
+G10843,Cargill Limited Clavet - Oilseed Processing,Saskatchewan,Manufacturing,51.9978,-106.385,85.0
+G10846,Peyto Brazeau 06-12-044-13W5,Alberta,"Mining, quarrying, oil and gas",52.77745,-115.75684,59.1
+G10847,Tafisa Canada,Quebec,Manufacturing,45.5846,-70.8673,6.2
+G10850,Altares Gas Plant b-72-A,British Columbia,"Mining, quarrying, oil and gas",56.31035,-122.02337,193.1
+G10857,Williams Mine,Ontario,"Mining, quarrying, oil and gas",48.6942,-85.9188,17.8
+G10860,McCain Foods (Canada) GRAND FALLS,New Brunswick,Manufacturing,47.0658,-67.7781,35.2
+G10863,Meliadine Gold Project,Nunavut,"Mining, quarrying, oil and gas",63.22417,-92.13417,145.8
+G10864,Coronation Landfill,Alberta,Waste management,52.13949,-111.4902,80.4
+G10865,Lieu d'enfouissement technique,Quebec,Waste management,48.4058,-68.5691,39.8
+G10866,"FLORENCEVILLE, NEW BRUNSWICK",New Brunswick,Manufacturing,46.4498,-67.6116,19.1
+G10867,Usine de St-Jérôme,Quebec,Manufacturing,45.75972,-74.00361,34.6
+G10868,Edmonton International Airport,Alberta,Pipeline transportation,53.3078,-113.584,18.2
+G10870,Kaybob Gas Plant 15-31,Alberta,"Mining, quarrying, oil and gas",54.41225,-117.13583,50.3
+G10872,Atlantic Wallboard,New Brunswick,Manufacturing,45.2741,-66.0318,42.3
+G10873,Brucejack Gold Mine,British Columbia,"Mining, quarrying, oil and gas",56.46624,-130.18596,25.2
+G10876,Dumur Industries,Saskatchewan,Manufacturing,50.44679,-104.36475,0.0
+G10877,Watson Lake Power Plant,Yukon,Utilities,60.06645,-128.72136,11.2
+G10878,Red Deer Batch Plant,Alberta,Other,52.2557,-113.886,4.1
+G10879,Camrose Batch Plant,Alberta,Other,53.0033,-112.8089,3.4
+G10881,Flakeboard,New Brunswick,Manufacturing,45.1864,-67.3096,18.5
+G10882,Hinton Batch Plant,Alberta,Other,53.43138,-117.5418,0.9
+G10883,Border Paving 20010,Alberta,Other,53.55245,-113.99808,2.1
+G10885,Stony Plain Batch Plant,Alberta,Other,53.6451,-114.1302,0.3
+G10887,Red Deer Main Office,Alberta,Other,52.29044,-112.84521,1.2
+G10889,Red Deer Truck Shop,Alberta,Pipeline transportation,52.29044,-112.84521,1.7
+G10890,Seabee,Saskatchewan,"Mining, quarrying, oil and gas",55.241,-103.2255,10.1
+G10896,Atholville Mill,New Brunswick,Manufacturing,47.993,-66.719,15.2
+G10897,Scotford Hydrogen Facility,Alberta,Manufacturing,53.4738,-113.648,1009.5
+G10899,DEPARTMENT OF Facilities Management,New Brunswick,Other,45.94066,-66.64623,16.1
+G10900,Milne Port Site,Nunavut,"Mining, quarrying, oil and gas",71.88444,-80.88611,54.0
+G10902,Red Lake Operation,Ontario,"Mining, quarrying, oil and gas",51.0597,-93.74407,26.0
+G10903,SOCIÉTÉ EN COMMANDITE REVENU NORANDA - VALLEYFIELD,Quebec,Manufacturing,45.2281,-74.1031,50.2
+G10904,Casa Berardi,Quebec,"Mining, quarrying, oil and gas",49.3357,-79.1646,46.6
+G10907,La Mine Niobec,Quebec,"Mining, quarrying, oil and gas",48.5322,-71.1578,12.5
+G10908,McClean Lake Operations,Saskatchewan,"Mining, quarrying, oil and gas",58.25,-103.91694,23.4
+G10909,MOSAIC POTASH ESTERHAZY - K1 SITE,Saskatchewan,"Mining, quarrying, oil and gas",50.7283,-101.9308,45.1
+G10911,La mine Doyon,Quebec,"Mining, quarrying, oil and gas",48.2591,-78.5254,12.2
+G10912,Timmins Micronizing Plant,Ontario,"Mining, quarrying, oil and gas",48.4745,-81.318,13.5
+G10913,Key Lake Operation,Saskatchewan,"Mining, quarrying, oil and gas",57.21194,-105.67861,37.3
+G10916,Poplar River Mine,Saskatchewan,"Mining, quarrying, oil and gas",49.2097,-105.471,16.9
+G10917,Island Gold Mine,Ontario,"Mining, quarrying, oil and gas",48.35028,-84.55278,18.7
+G10919,GODERICH PLANT,Ontario,"Mining, quarrying, oil and gas",43.7375,-81.6965,19.4
+G10920,Nepheline Syenite Operations,Ontario,"Mining, quarrying, oil and gas",44.6746,-77.9456,10.8
+G10921,HBMS Chisel Lake Mine,Manitoba,"Mining, quarrying, oil and gas",54.83,-100.12,21.1
+G10922,McArthur River Operation,Saskatchewan,"Mining, quarrying, oil and gas",57.75556,-105.065,24.9
+G10923,Cigar Lake Operation,Saskatchewan,"Mining, quarrying, oil and gas",58.0676,-104.542,21.9
+G10924,Porcupine Gold Mines,Ontario,"Mining, quarrying, oil and gas",48.46306,-81.2475,58.6
+G10925,ADM AGRI-INDUSTRIES - ADM Candiac,Quebec,Manufacturing,45.399,-73.5104,23.3
+G10926,Impala Canada Ltd.,Ontario,"Mining, quarrying, oil and gas",49.16168,-89.61435,45.2
+G10927,Canada Brick - Burlington,Ontario,Manufacturing,43.412,-79.8026,13.7
+G10928,Canada Brick - Aldershot,Ontario,Manufacturing,43.417,-79.8356,32.3
+G10929,Lake Shore Gold Timmins West Mine,Ontario,"Mining, quarrying, oil and gas",48.384,-81.5575,12.4
+G10930,McEwen Ontario Black Fox Mine,Ontario,"Mining, quarrying, oil and gas",48.3,-80.21,9.0
+G10931,Bell Creek Complex,Ontario,"Mining, quarrying, oil and gas",48.5523,-81.173,11.3
+G10932,Brassey Gas Processing and Production IF-a,British Columbia,"Mining, quarrying, oil and gas",55.715,-120.853,18.8
+G10933,Sunset Gas Processing and Production IF-a,British Columbia,"Mining, quarrying, oil and gas",55.928,-120.778,14.4
+G10934,Houweling Nurseries Ltd. - Delta,British Columbia,Other,49.05267,-123.04118,31.5
+G10935,Windset Farms (Canada) Ltd. - Ladner,British Columbia,Other,49.06972,-123.09917,13.0
+G10936,Dawson Sour Gas Plant 05-35,British Columbia,"Mining, quarrying, oil and gas",55.889,-120.085,15.2
+G10938,Masset Diesel Generating Station,British Columbia,Utilities,54.02029,-132.11358,18.8
+G10939,"Coastland Wood Industries Ltd., Annacis Division",British Columbia,Manufacturing,49.181,-122.934,31.4
+G10940,South Hiding Creek Comp Station B-053-A,British Columbia,"Mining, quarrying, oil and gas",54.794,-120.033,13.0
+G10941,Ring Border Sweet Gas Plant,British Columbia,"Mining, quarrying, oil and gas",57.73918,-120.00744,13.7
+G10944,Dawson Creek Comp Stn 09-15,British Columbia,"Mining, quarrying, oil and gas",55.67452,-120.227,32.3
+G10945,Hythe Comp Stn D-033-I,British Columbia,"Mining, quarrying, oil and gas",55.44753,-120.09912,35.6
+G10947,Hythe Comp Stn D-019-H,British Columbia,"Mining, quarrying, oil and gas",55.597,-120.101,20.8
+G10948,Hay Gas Plant,British Columbia,"Mining, quarrying, oil and gas",58.64375,-120.07187,16.3
+G10949,Lantic Inc. - Vancouver Refinery,British Columbia,Manufacturing,49.285,-123.082,31.1
+G10950,Martin Creek Sour Gas Plant (b-002-E/094-H-06) - TOU,British Columbia,"Mining, quarrying, oil and gas",57.336,-121.399,11.7
+G10952,Heffley Creek Division,British Columbia,Manufacturing,50.84,-120.27667,16.6
+G10953,Lavington Planer Mill,British Columbia,Manufacturing,50.23167,-119.10166,14.3
+G10954,Village Farms - Delta I,British Columbia,Other,49.08778,-122.99305,25.0
+G10955,West Coast Reduction Ltd.,British Columbia,Manufacturing,49.285,-123.07,29.3
+G10957,CIPA Lumber Co. Ltd.,British Columbia,Manufacturing,49.176,-122.944,26.8
+G10959,BCBT0002871,British Columbia,"Mining, quarrying, oil and gas",54.94792,-121.15937,31.6
+G10963,Wroe 08-12-057-25W5 Compressor,Alberta,"Mining, quarrying, oil and gas",53.91437228,-117.5737092,41.0
+G10964,Laprise Main Battery (D-030-E/094-H-05),British Columbia,"Mining, quarrying, oil and gas",57.36042,-121.99062,11.1
+G10966,Parkland Comp Stn 08-13,British Columbia,"Mining, quarrying, oil and gas",56.02,-120.509,12.1
+G10968,Septimus Sweet Gas Plant 12-27,British Columbia,"Mining, quarrying, oil and gas",56.054,-120.74,39.4
+G10970,Birch Oil Battery c-018-I/94-A-13,British Columbia,"Mining, quarrying, oil and gas",56.93123,-121.59639,12.4
+G10974,Doe 01-32-80-15W6 Compressor,British Columbia,"Mining, quarrying, oil and gas",55.97255,-120.29903,27.8
+G10975,Navan Landfill,Ontario,Waste management,45.4244,-75.5002,40.8
+G10976,West Pembina Battery and Compressor,Alberta,"Mining, quarrying, oil and gas",53.2904,-115.8319,14.4
+G10977,Granada Gas Plant,Alberta,"Mining, quarrying, oil and gas",53.4848,-115.6076,14.0
+G10978,Wapiti Compressor Station 07-22,Alberta,"Mining, quarrying, oil and gas",54.9038,-119.1334,32.5
+G10979,Eta Lake Gas Plant,Alberta,"Mining, quarrying, oil and gas",53.3851,-115.6128,15.1
+G10981,Kakwa Gas Plant 10-07-063-05W6,Alberta,"Mining, quarrying, oil and gas",54.4361,-118.7438,10.9
+G10982,KUNTZ ELECTROPLATING INC.,Ontario,Manufacturing,43.4127,-80.4434,9.4
+G10983,CertainTeed Insulation Ottawa,Ontario,Manufacturing,45.3808,-75.5964,11.7
+G10985,Gibbons Site,Alberta,Manufacturing,53.8331,-113.1089,18.8
+G10986,DALSA SEMICONDUCTOR - BROMONT,Quebec,Manufacturing,45.2987,-72.7142,13.8
+G10989,Edmonton Plant,Alberta,Manufacturing,53.5717,-113.3498,17.1
+G10990,ALBERTA DISTILLERS,Alberta,Manufacturing,51.8334,-114.026,24.8
+G10991,BIOX Canada Limited,Ontario,Manufacturing,43.2691,-79.8425,4.7
+G10993,Ante Creek North Sour Gas Plant 02-26,Alberta,"Mining, quarrying, oil and gas",54.8972,-117.7088,12.7
+G10994,Oil Recovery Division,Ontario,Manufacturing,43.465,-80.4076,47.3
+G10998,CARBERRY FACTORY,Manitoba,Manufacturing,49.8501,-99.339,21.8
+G11000,Mitsue Sour GP 10-30-72-4W5,Alberta,"Mining, quarrying, oil and gas",55.2656,-114.6014,19.2
+G11001,Scots Lake 13-7-16-11W4,Alberta,"Mining, quarrying, oil and gas",50.33715,-111.51391,11.5
+G11003,Slave Lake Sour Gas Plant 09-15,Alberta,"Mining, quarrying, oil and gas",56.2848,-116.1117,35.7
+G11004,Pembalta #7 Sour Gas Plant 04-34,Alberta,"Mining, quarrying, oil and gas",53.0904,-115.245,15.2
+G11005,Willesden Green Sweet Gas Plant 14-01,Alberta,"Mining, quarrying, oil and gas",52.5941,-114.8793,17.9
+G11006,Kelt Progress Battery 06-19-077-09W6,Alberta,"Mining, quarrying, oil and gas",55.6839,-119.3933,10.0
+G11008,CFB/ BFC Halifax - Parc Windsor Park,Nova Scotia,Other,44.6586,-63.6082,26.6
+G11009,Toronto Plant,Ontario,Manufacturing,43.8245,-79.2554,18.8
+G11010,Hussar Gas Plant 13-36-024-21W4,Alberta,"Mining, quarrying, oil and gas",51.0934,-112.8201,32.7
+G11011,Obed 01-21-055-23W5 Compressor,Alberta,"Mining, quarrying, oil and gas",53.7611,-117.3492,12.8
+G11012,LRE - Edson Gas Plant 01-13,Alberta,"Mining, quarrying, oil and gas",53.6598,-116.6505,18.7
+G11013,Apotex Inc. Etobicoke Site,Ontario,Manufacturing,43.7508,-79.6255,11.2
+G11014,LA CIE MATÉRIAUX DE CONSTRUCTION  BP CANADA - LASALLE,Quebec,Manufacturing,45.4397,-73.6463,13.5
+G11015,THE CALGARY AIRPORT AUTHORITY - CALGARY,Alberta,Pipeline transportation,51.1307,-114.009,15.2
+G11016,3 CDSG/BS 3 DIV Edmonton,Alberta,Other,53.6595,-113.4783,15.6
+G11017,Leduc 02/10-22,Alberta,"Mining, quarrying, oil and gas",53.3307,-113.7194,17.2
+G11018,Biorigin Specialty Products,Ontario,Manufacturing,43.1342,-79.201,20.8
+G11019,Belleville,Ontario,Manufacturing,44.1988,-77.3636,17.2
+G11020,Matalco Canada Inc.,Ontario,Manufacturing,43.74325,-79.65764,21.9
+G11021,Ste. Agathe (Canola Crush Plant) Viterra,Manitoba,Manufacturing,49.5635,-97.2161,12.5
+G11022,Lator #1 01-21-063-02W6,Alberta,"Mining, quarrying, oil and gas",54.4394,-118.2504,33.2
+G11025,Chalk River Laboratories,Ontario,Other,46.0554,-77.3628,22.6
+G11026,Toronto Brewery,Ontario,Manufacturing,43.6748,-79.5883,17.4
+G11027,4 CDSB / BS 4 Div C Petawawa - Petawawa,Ontario,Other,45.9105,-77.292,28.3
+G11028,Moorefield,Ontario,Manufacturing,43.8144,-80.7153,29.9
+G11029,Bantry Sour Gas Plant & Power Plant,Alberta,"Mining, quarrying, oil and gas",50.47198,-111.60559,21.3
+G11030,Edmonton Ethane Extraction Plant,Alberta,"Mining, quarrying, oil and gas",53.4542,-113.5038,11.4
+G11031,CFB/ BFC Esquimalt - Dockyard,British Columbia,Other,48.4314,-123.4322,16.6
+G11032,Usine de production de polystyrène expansible,Quebec,Manufacturing,45.4201,-73.9219,7.3
+G11034,Roseburg Forest Products Canada Ltd. (Pembroke MDF),Ontario,Manufacturing,45.7642,-77.0541,38.3
+G11036,5 CDSB/ BS 5 DIV Gagetown,New Brunswick,Other,45.8358,-66.4521,19.1
+G11037,Willesden Green Comp Stn 08-04,Alberta,"Mining, quarrying, oil and gas",52.7649,-114.9575,17.8
+G11038,Conroy d48 Compressor (d-048-C/094-H-12) - TOU,British Columbia,"Mining, quarrying, oil and gas",57.5396,-121.8406,19.1
+G11039,Incinérateur de Lévis,Quebec,Waste management,46.7507,-71.1762,8.1
+G11040,Fort McMurray WWTP,Alberta,Utilities,56.7649,-111.4125,11.4
+G11041,Maple Lodge Farms,Ontario,Manufacturing,43.6142,-79.8043,32.1
+G11042,Real Alloy Mississauga,Ontario,Manufacturing,43.7014,-79.6679,16.9
+G11043,"Canada Malting, Thunder Bay",Ontario,Manufacturing,48.4155,-89.2273,17.1
+G11046,Great Lakes Copper Ltd.,Ontario,Manufacturing,43.0233,-81.1842,11.3
+G11047,ARROW Utilities Wastewater Treatment Plant,Alberta,Utilities,53.6288,-113.3077,54.3
+G11048,Compagnie Alpek Polyester Canada inc.,Quebec,Manufacturing,45.6339,-73.521,13.3
+G11049,Moose Jaw Refinery,Saskatchewan,Manufacturing,50.3884,-105.51963,59.1
+G11050,Peintures MF Inc.,Quebec,Manufacturing,45.5948,-73.7563,0.1
+G11051,HCE Energy Centre,Ontario,Utilities,43.2608,-79.8732,5.9
+G11052,Agropur Coopérative - Usine de Beauceville,Quebec,Manufacturing,46.2469,-70.8122,9.1
+G11053,Agropur Coopérative - Usine de Granby,Quebec,Manufacturing,45.3936,-72.7794,18.9
+G11054,Agropur Coopérative - Usine de Notre-Dame-du-Bon-Conseil,Quebec,Manufacturing,46.0042,-72.3417,15.3
+G11055,Agropur Coopérative - Usine de Plessisville,Quebec,Manufacturing,46.2228,-71.7601,11.6
+G11056,Innisfail Plant,Alberta,Manufacturing,52.0317,-113.9355,23.8
+G11057,Waste Management Facility,Alberta,Waste management,52.2232,-113.7823,55.0
+G11058,Main Campus,Nova Scotia,Other,44.6367,-63.5878,20.0
+G11059,FORMET INDUSTRIES,Ontario,Manufacturing,42.7812,-81.1539,24.1
+G11060,Canadian General-Tower Ltd.,Ontario,Manufacturing,43.3457,-80.3178,12.6
+G11064,CASCADES EMBALLAGE CARTON-CAISSE CABANO,Quebec,Manufacturing,47.67,-68.8625,11.0
+G11066,CFB/ BFC Borden,Ontario,Other,44.2973,-79.8969,18.7
+G11067,Montreal Power House,Quebec,Pipeline transportation,45.4719,-73.7329,9.9
+G11068,Lethbridge,Alberta,Manufacturing,49.7019,-112.8175,41.3
+G11070,ERCO Worldwide Saskatoon plant,Saskatchewan,Manufacturing,52.2033,-106.6216,11.9
+G11072,5 WG/ 5 Esc Goose Bay,Newfoundland and Labrador,Other,53.3149,-60.4175,17.8
+G11073,Panolam Industries Ltd./Daiken North America Ltd.,Ontario,Manufacturing,45.2929,-79.3106,16.1
+G11074,Hexion Canada Inc.- Edmonton Facility,Alberta,Manufacturing,53.5823,-113.5886,15.8
+G11075,Olymel s.e.c St-Esprit,Quebec,Manufacturing,45.90593,-73.6614,17.3
+G11076,Maple Leaf Foods - Brandon,Manitoba,Manufacturing,49.8321,-99.85493,24.7
+G11077,Valleyfield,Quebec,Manufacturing,45.2692,-74.1132,27.1
+G11079,Cargill High River Plant,Alberta,Manufacturing,50.5837,-113.8711,41.7
+G11080,Powerhouse,Manitoba,Other,49.8071,-97.1324,30.3
+G11081,Ingredion Canada Corporation,Ontario,Manufacturing,44.785,-75.3767,91.5
+G11082,G.E. Booth Water Resource Recovery Facility,Ontario,Utilities,43.5784,-79.5476,60.7
+G11084,Hartmann North America,Ontario,Manufacturing,43.1441,-80.2963,18.7
+G11085,Moose Jaw,Saskatchewan,Manufacturing,50.3915,-105.5518,9.1
+G11087,Tunney's Pasture Central Heating and Cooling Plant,Ontario,Other,45.4053,-75.7374,5.8
+G11088,Confederation Heights Central Heating and Cooling Plant,Ontario,Other,45.3774,-75.6848,4.2
+G11089,Sanimax Lom Inc.,Quebec,Manufacturing,45.65148,-73.55606,32.5
+G11090,Usine Dorval,Quebec,Manufacturing,45.4744,-73.733,12.0
+G11091,Valhalla 03-27-075-09W6 BTY,Alberta,"Mining, quarrying, oil and gas",55.5203,-119.3153,11.9
+G11092,Sonoco Brantford,Ontario,Manufacturing,43.134,-80.2467,19.0
+G11093,Halton Waste Management Site,Ontario,Waste management,43.4727,-79.8337,97.2
+G11095,INFASCO,Quebec,Manufacturing,45.431,-73.1673,13.9
+G11097,Rain Carbon Canada Inc.,Ontario,Manufacturing,43.2603,-79.7914,25.4
+G11098,ArcelorMittal Coteau Du Lac Inc,Quebec,Manufacturing,45.3333,-74.1667,12.3
+G11100,Trilogy Presley 03-29-059-19,Alberta,"Mining, quarrying, oil and gas",54.1251,-116.8167,31.8
+G11102,Goodyear Canada Inc.,Ontario,Manufacturing,44.287,-76.9482,19.6
+G11103,Kaiser Aluminum Canada Limited,Ontario,Manufacturing,42.9862,-81.1408,19.2
+G11104,Victoriaville,Quebec,Manufacturing,46.0663,-71.9706,25.9
+G11105,Winchester,Ontario,Manufacturing,45.0944,-75.3553,20.7
+G11106,Strathcona Paper LP,Ontario,Manufacturing,44.30556,-76.90028,33.4
+G11107,Beiseker Compressor Station 04-15,Alberta,"Mining, quarrying, oil and gas",51.3881,-110.7725,15.4
+G11108,Joffre Compressor Station 04-22,Alberta,"Mining, quarrying, oil and gas",52.3629,-113.5349,11.5
+G11109,LA CIE MATÉRIAUX DE CONSTRUCTION BP CANADA - Pont-Rouge,Quebec,Manufacturing,46.7486,-71.7125,13.2
+G11111,McCain Foods Coaldale FF plant,Alberta,Manufacturing,49.75997,-112.4527,22.8
+G11112,Ferrier Comp Stn 09-03,Alberta,"Mining, quarrying, oil and gas",52.7652,-115.359,74.6
+G11113,Montreal Sulphur Plant,Quebec,Manufacturing,45.6364,-73.5213,22.5
+G11114,Portable Plant 020008,Alberta,Other,51.54988,-112.28002,6.2
+G11115,Cargill Guelph Dunlop Facility,Ontario,Manufacturing,43.5529,-80.202,14.4
+G11116,USINE MONTREAL,Quebec,Manufacturing,45.5389,-73.5447,50.8
+G11119,MSC Toronto,Ontario,Manufacturing,43.7167,-79.5833,12.4
+G11120,8 WG/ 8 Esc Trenton,Ontario,Other,44.11134,-77.54671,17.8
+G11121,Spray Lake Sawmills (1980) Ltd. (Cochrane Sawmill),Alberta,Manufacturing,51.18296,-114.47273,10.9
+G11122,CFB/ BFC Kingston,Ontario,Other,44.2427,-76.4317,17.8
+G11123,"Fabrication région Est, Sherbrooke",Quebec,Manufacturing,45.36667,-71.85417,9.8
+G11124,Baycoat,Ontario,Manufacturing,43.2428,-79.7503,32.9
+G11125,Sanimax ACI,Quebec,Manufacturing,46.7044,-71.2722,22.5
+G11127,4 WG/ 4 Esc Cold Lake,Alberta,Other,54.4077,-110.2778,28.1
+G11128,Sivaco Québec,Quebec,Manufacturing,45.4372,-73.1676,11.2
+G11129,Welland Plant,Ontario,Manufacturing,43.0472,-79.1583,16.6
+G11130,Swan Hills Treatment Center,Alberta,Waste management,54.77051,-115.21537,33.1
+G11132,CAMI Assembly Plant,Ontario,Manufacturing,43.0208,-80.8872,10.9
+G11133,3M BROCKVILLE 501,Ontario,Manufacturing,44.6131,-75.6951,11.2
+G11134,Queen's University - Kingston Main Campus,Ontario,Other,44.2237,-76.499,38.1
+G11135,Portage la Prairie,Manitoba,Manufacturing,49.9721,-98.3943,65.1
+G11136,MCCAIN FOODS (CANADA) - PORTAGE LA PRAIRIE,Manitoba,Manufacturing,49.9926,-98.1977,33.8
+G11139,Galloway Gas Plant 12-05-054-20W5,Alberta,"Mining, quarrying, oil and gas",53.6359,-116.9318,23.4
+G11140,CKF - HANTSPORT,Nova Scotia,Manufacturing,45.0647,-64.1719,11.2
+G11142,MCMASTER UNIVERSITY,Ontario,Other,43.2609,-79.9194,45.6
+G11150,Glen Ewen Sour Gas Plant 05-14,Saskatchewan,"Mining, quarrying, oil and gas",49.2081,-102.0484,16.8
+G11151,Formica Canada Inc,Quebec,Manufacturing,45.3123,-73.2598,12.1
+G11153,G/BS 3 DIV Edmonton Garrison Suffield,Alberta,Other,50.4436,-110.8825,12.2
+G11155,LRE - Donnelly Gas Plant 06-01,Alberta,"Mining, quarrying, oil and gas",55.6405,-117.1193,10.6
+G11156,Gimli Plant,Manitoba,Manufacturing,50.655,-97.0026,24.3
+G11158,"Kimberly Clark, Huntsville Mill",Ontario,Manufacturing,45.3463,-79.2426,15.4
+G11159,Warden Energy Centre,Ontario,Utilities,43.8469,-79.3333,28.4
+G11161,Foothills Medical Centre Power Plant,Alberta,Utilities,51.0651,-114.1305,60.8
+G11162,North Sheridan Landfill Site (Closed),Ontario,Waste management,43.5306,-79.6454,22.1
+G11164,Waterton Complex - Compressor Station W,Alberta,"Mining, quarrying, oil and gas",49.19656,-113.9891,22.3
+G11165,BLIND RIVER REFINERY,Ontario,Manufacturing,46.1799,-83.0172,14.5
+G11166,Lindbergh Custom Treating Facility,Alberta,"Mining, quarrying, oil and gas",53.74564,-110.7513,13.3
+G11167,LA BRASSERIE LABATT,Quebec,Manufacturing,45.4255,-73.6447,6.0
+G11168,Niton Sweet Gas Plant,Alberta,"Mining, quarrying, oil and gas",53.6702,-115.76161,16.2
+G11171,WASTEWATER TREATMENT PLANT,Saskatchewan,Utilities,52.1827,-106.606,17.4
+G11172,Toyota Motor Manufacturing Canada Inc. (Woodstock),Ontario,Manufacturing,43.1407,-80.6933,30.1
+G11173,BUNGE CANADA - ALTONA PLANT,Manitoba,Manufacturing,49.1108,-97.5607,42.6
+G11174,BUNGE CANADA - FORT SASKATCHEWAN PLANT,Alberta,Manufacturing,53.7275,-113.2414,15.9
+G11175,BUNGE CANADA - HARROWBY PLANT,Manitoba,Manufacturing,50.7555,-101.4522,31.8
+G11176,Papeterie de Dolbeau,Quebec,Manufacturing,48.8791,-72.2189,10.5
+G11177,Sturgeon 13-07-069-24-W5 GP,Alberta,"Mining, quarrying, oil and gas",54.9636,-117.6707,12.2
+G11179,JCWP 7-6,Alberta,"Mining, quarrying, oil and gas",54.5037,-115.4878,38.4
+G11181,LRE - Cherhill Gas Plant 02-25,Alberta,"Mining, quarrying, oil and gas",53.8615,-114.7561,9.9
+G11183,Beartrap Custom Treating Facility,Alberta,"Mining, quarrying, oil and gas",54.1898,-110.5058,14.3
+G11186,BUNGE CANADA - NIPAWIN PLANT,Saskatchewan,Manufacturing,53.3252,-104.027,31.2
+G11187,North East Station 7-15,Alberta,"Mining, quarrying, oil and gas",50.0844,-110.607,10.1
+G11196,Wild Hay Gas Battery 13-24,Alberta,"Mining, quarrying, oil and gas",53.7706,-117.6014,20.8
+G11200,Smoky Sweet Gas Plant 07-36,Alberta,"Mining, quarrying, oil and gas",54.0542,-118.3087,32.6
+G11203,LET de La Nouvelle-Beauce,Quebec,Waste management,46.37561,-70.76104,17.4
+G11205,Ferrier 01-34-040-09 W5M,Alberta,"Mining, quarrying, oil and gas",52.4812,-115.204,12.7
+G11206,Installations Portuaires et Services Ferroviaires,Quebec,Pipeline transportation,48.3335,-70.8784,14.2
+G11207,Hythe Comp Stn A-029-H,British Columbia,"Mining, quarrying, oil and gas",55.602,-120.10454,20.3
+G11208,Usine de Gatineau,Quebec,Manufacturing,45.4808,-75.6556,51.0
+G11209,Centrale de Kuujjuaq,Quebec,Utilities,58.1111,-68.406,15.7
+G11210,Centrale d'Obedjiwan,Quebec,Utilities,48.6551,-74.9388,10.5
+G11211,Prairie Green IWMF,Manitoba,Waste management,50.0047,-97.1307,38.2
+G11212,Kapuskasing Paper Mill,Ontario,Manufacturing,49.41,-82.4239,43.8
+G11213,Cactus Lake Battery,Saskatchewan,"Mining, quarrying, oil and gas",52.03986,-109.91033,50.0
+G11215,Midale Complex 07-12-06-11W2,Saskatchewan,"Mining, quarrying, oil and gas",49.45548,-103.36016,19.7
+G11216,Consort Sweet Gas Plant,Alberta,"Mining, quarrying, oil and gas",52.1044,-110.695,17.1
+G11217,Wildhay Cecilia-Kaybob Plant,Alberta,"Mining, quarrying, oil and gas",53.8853,-117.1787,25.7
+G11219,Leafland Facility,Alberta,"Mining, quarrying, oil and gas",52.4029,-114.7077,20.2
+G11220,Air Liquide Canada - Hamilton (ASU and H2),Ontario,Manufacturing,43.262,-79.8262,10.2
+G11221,"Cascades Groupe Tissu Candiac, une division de Cascades Canada ULC",Quebec,Manufacturing,45.4003,-73.5234,28.6
+G11225,Graphic Packaging International Canada ULC - East Angus,Quebec,Manufacturing,45.4815,-71.6609,32.0
+G11226,Everdell 14-20-038-07W5 GP,Alberta,"Mining, quarrying, oil and gas",52.2865,-114.9708,14.3
+G11227,Armstrong Division,British Columbia,Manufacturing,50.3933,-119.224,12.7
+G11228,Soda Creek,British Columbia,Manufacturing,52.1561,-122.1787,8.8
+G11229,"Cascades Groupe Tissu Kingsey Falls, une division de Cascades Canada ULC",Quebec,Manufacturing,45.8648,-72.0659,17.0
+G11231,ArcelorMittal Longueuil,Quebec,Manufacturing,45.5663,-73.4579,23.8
+G11232,Moose Mountain Compressor Station,Alberta,"Mining, quarrying, oil and gas",50.8894,-114.7618,23.7
+G11233,Bonnybrook Wastewater Treatment Plant,Alberta,Utilities,51.0128,-114.022,54.3
+G11234,Greenway Pollution Control Centre,Ontario,Utilities,42.9744,-81.2821,16.7
+G11235,Drayton Valley Sawmill,Alberta,Manufacturing,53.2277,-114.9889,12.9
+G11236,Joffre Nitrogen Operations,Alberta,Manufacturing,52.3221,-113.5166,18.3
+G11238,Dunvegan Plant 15-03-081-04 W6M,Alberta,"Mining, quarrying, oil and gas",55.9981,-118.5289,20.1
+G11239,Alberta Processing Company,Alberta,Manufacturing,50.9897,-113.9938,14.8
+G11240,Northern Alberta Processing Company,Alberta,Manufacturing,53.5748,-113.3146,17.3
+G11241,Guelph Glass Plant,Ontario,Manufacturing,43.5447,-80.2324,11.5
+G11242,Établissement 01,Quebec,Manufacturing,45.5531,-73.495,10.4
+G11243,Etobicoke Casting Plant,Ontario,Manufacturing,43.5958,-79.5406,9.5
+G11245,Steelman Gas Plant,Saskatchewan,"Mining, quarrying, oil and gas",49.3164,-102.6244,45.9
+G11249,Pembina  North Gas Plant,Alberta,"Mining, quarrying, oil and gas",53.245,-115.6743,27.0
+G11251,"Alberta Plywood, a division of West Fraser Mills Ltd.",Alberta,Manufacturing,53.5019,-113.4899,19.6
+G11252,Nottingham Gas Plant 07-17-005-32-W1,Saskatchewan,"Mining, quarrying, oil and gas",49.3837,-102.2809,41.0
+G11253,Centrica Compressor Station 10-10,Alberta,"Mining, quarrying, oil and gas",53.0394,-116.4064,10.8
+G11256,East River,Nova Scotia,Manufacturing,44.5823,-64.1627,12.8
+G11257,Turin Sour Gas Plant,Alberta,"Mining, quarrying, oil and gas",50.01231,-112.45914,18.5
+G11258,01-30 South Swan Hills CS,Alberta,"Mining, quarrying, oil and gas",54.6473,-115.4958,22.9
+G11260,PETRO-CAN WHITECOURT,Alberta,"Mining, quarrying, oil and gas",54.1309,-115.5467,19.7
+G11262,Teepee Creek Plant 07-02-074-04 W6M,Alberta,"Mining, quarrying, oil and gas",55.3767,-118.4918,12.9
+G11264,Chime 08-13,Alberta,"Mining, quarrying, oil and gas",54.36136,-118.75314,10.8
+G11265,Alder Flats Sweet Gas Plant,Alberta,"Mining, quarrying, oil and gas",52.869,-115.101,26.1
+G11266,Ferrier Comp Stn 13-17,Alberta,"Mining, quarrying, oil and gas",52.7084,-115.4289,13.5
+G11267,Hoadley Comp Station 08-06,Alberta,"Mining, quarrying, oil and gas",52.7593,-114.1252,12.5
+G11269,Medicine River Sour Gas Plant,Alberta,"Mining, quarrying, oil and gas",52.358,-114.3241,10.2
+G11271,Peco Sweet Gas Plant,Alberta,"Mining, quarrying, oil and gas",55.1994,-116.2219,27.7
+G11275,Viking Sweet Gas Plant,Alberta,"Mining, quarrying, oil and gas",53.18848,-111.75697,20.5
+G11276,Wapiti Comp Station 07-23,Alberta,"Mining, quarrying, oil and gas",54.7248,-119.0929,30.4
+G11277,Carrot Creek Gas Plant,Alberta,"Mining, quarrying, oil and gas",53.5779,-115.8592,16.5
+G11279,Brazeau Comp Stn 02-10,Alberta,Utilities,52.8598,-115.51,18.5
+G11280,Hussar Crowfoot Comp Stn 01-36,Alberta,"Mining, quarrying, oil and gas",50.995,-112.8017,10.3
+G11281,Hussar Crowfoot Sweet Gas Plant 14-01,Alberta,"Mining, quarrying, oil and gas",51.0207,-112.9484,17.0
+G11283,Hythe Gas Battery 15-31,Alberta,"Mining, quarrying, oil and gas",55.4607,-119.9825,15.2
+G11284,Redland Comp Stn 11-19,Alberta,"Mining, quarrying, oil and gas",51.4098,-113.0946,13.2
+G11285,Redland Sweet Gas Plant (01-20),Alberta,"Mining, quarrying, oil and gas",51.4024,-112.9181,14.0
+G11288,Countess Makepeace Sweet Gas Plant 12-33-022-18W4,Alberta,"Mining, quarrying, oil and gas",50.91585,-112.44874,12.8
+G11290,Bassano Lathom Comp Stn 10-23-020-18W4,Alberta,"Mining, quarrying, oil and gas",50.712,-112.39093,13.1
+G11294,Suffield A2 Sour Gas Plant,Alberta,"Mining, quarrying, oil and gas",50.70146,-111.02326,15.1
+G11296,Suffield CD Comp Stn 01-04,Alberta,"Mining, quarrying, oil and gas",50.22443,-110.9009,11.8
+G11297,Suffield D Comp Stn 01-04,Alberta,"Mining, quarrying, oil and gas",50.22444,-110.76327,16.0
+G11298,Suffield E Comp Stn 04-03,Alberta,"Mining, quarrying, oil and gas",50.48642,-111.17026,11.2
+G11302,BLENHEIM LANDFILL,Ontario,Waste management,42.310097,-82.0596761,14.5
+G11303,Peyto Wildhay 04-21-055-23W5,Alberta,"Mining, quarrying, oil and gas",53.7611,-117.3675,49.5
+G11304,Peyto Kakwa 02-11-060-04W6,Alberta,"Mining, quarrying, oil and gas",54.1669,-118.4869,14.9
+G11307,Ferrier 01-20-039-07 W5M,Alberta,"Mining, quarrying, oil and gas",52.3648,-114.9643,16.9
+G11309,GoodFish South Sour Gas Plant 03-32,Alberta,"Mining, quarrying, oil and gas",56.9309,-115.2522,11.5
+G11311,Eaglesham Culp 05-34-078-25 W5M,Alberta,"Mining, quarrying, oil and gas",55.7994,-117.8,11.5
+G11315,FCA Canada Inc. - Windsor Assembly Plant,Ontario,Manufacturing,42.3,-82.9881,51.5
+G11319,Port Hope Conversion Facility,Ontario,Manufacturing,43.9422,-78.2942,22.5
+G11320,South Wapiti 16-36,Alberta,"Mining, quarrying, oil and gas",54.84871,-119.2243,16.4
+G11322,Victoria Hospital,Ontario,Other,42.96021,-81.22554,47.3
+G11324,Alberta Hub Gas Storage Facility,Alberta,"Mining, quarrying, oil and gas",53.6993,-115.9755,15.4
+G11325,NW Pure Alcohol and Spirits,Saskatchewan,Manufacturing,52.43333,-109.16667,24.0
+G11326,Hinton Gas Plant (06-32-51-25W5) - TOU,Alberta,"Mining, quarrying, oil and gas",53.44318,-117.6554,22.0
+G11327,Horse 16-17-058-26W5 Compressor,Alberta,"Mining, quarrying, oil and gas",54.0193,-117.8199,66.0
+G11328,Warner Oil Battery 04-20-007-16W4,Alberta,"Mining, quarrying, oil and gas",49.56924,-112.14682,11.6
+G11330,Moose Mountain Oil Battery 02-23-023-07W5,Alberta,"Mining, quarrying, oil and gas",50.9658,-114.8787,15.2
+G11331,Yorkton,Saskatchewan,Manufacturing,51.23564,-102.5309,78.8
+G11335,Olymel S.E.C. Red Deer,Alberta,Manufacturing,52.30342,-113.79136,19.7
+G11337,Camrose Regional Landfill,Alberta,Waste management,53.0222,-112.82859,18.7
+G11339,Niagara Road 12 Landfill Site,Ontario,Waste management,47.78,-61.62,26.6
+G11340,Bridge Street Landfiil Site,Ontario,Waste management,42.96642,-78.9639,28.1
+G11341,Elm Street Landfill Site,Ontario,Waste management,42.92448,-79.25761,12.5
+G11344,Wilson Creek 15-13-043-04W5 Compressor,Alberta,"Mining, quarrying, oil and gas",52.71041,-114.44509,23.9
+G11345,Brazeau Office 01-01,Alberta,"Mining, quarrying, oil and gas",52.84497,-115.598,46.6
+G11348,GROUNDBIRCH GP 06-19-080-20W6,British Columbia,"Mining, quarrying, oil and gas",55.94624,-121.12157,23.5
+G11349,BP CHAUVIN SOUTH 12-19,Alberta,"Mining, quarrying, oil and gas",52.63236,-110.28987,2.5
+G11351,BCBT0000720,British Columbia,"Mining, quarrying, oil and gas",55.46875,-121.66563,40.0
+G11355,Esther Sweet Gas Plant 13-19,Alberta,"Mining, quarrying, oil and gas",51.76,-114.38,10.8
+G11357,Town North B-070-C/094-G-01,British Columbia,"Mining, quarrying, oil and gas",57.052,-122.374,22.9
+G11360,Younger NGL Extraction Plant,British Columbia,"Mining, quarrying, oil and gas",56.1467,-120.67224,65.9
+G11361,Welded Tube (Q&T Plant),Ontario,Manufacturing,42.97077,-79.21057,12.2
+G11362,BPCO Edmonton,Alberta,Manufacturing,53.93572,-113.38194,21.2
+G11363,Chaparral Landfill,Alberta,Waste management,50.52303,-114.12662,35.1
+G11366,Valhalla Oil Battery 06-18,Alberta,"Mining, quarrying, oil and gas",55.40862,-119.22142,12.7
+G11368,Valbruna ASW Inc.,Ontario,Manufacturing,42.99864,-79.23453,18.0
+G11372,Kakwa Sour Gas Processing Plant 16-07-063-05W6,Alberta,"Mining, quarrying, oil and gas",54.44155,-118.7335,54.3
+G11375,Young-Davidson,Ontario,"Mining, quarrying, oil and gas",47.94722,-80.67722,22.6
+G11377,Caribou D-032-C Super Battery,British Columbia,"Mining, quarrying, oil and gas",57.28163,-122.76431,22.9
+G11378,Lily B-038-J/094-G-02,British Columbia,"Mining, quarrying, oil and gas",57.19281,-122.72111,33.2
+G11379,Huron 15-34-079-17W6 Compressor,British Columbia,"Mining, quarrying, oil and gas",55.8954,-120.5691,24.3
+G11380,Ferrier Compressor Station 04-13-039-09W5,Alberta,"Mining, quarrying, oil and gas",52.35035,-115.17385,42.2
+G11382,Projet Nunavik Nickel,Quebec,"Mining, quarrying, oil and gas",61.3239,-73.3234,123.2
+G11385,Aquatera Grande Prairie WWTP (and Landfill),Alberta,Utilities,55.07405,-118.47474,34.1
+G11386,Robin Hood Bay Regional Waste Management Facility,Newfoundland and Labrador,Waste management,47.60422,-52.66763,73.0
+G11387,Anderson Gas Plant (01-09-051-24W5) - TOU,Alberta,"Mining, quarrying, oil and gas",53.38259,-117.4668,20.1
+G11388,Eastern Ontario Waste Handling Facility – Landfill,Ontario,Waste management,45.3047,-74.99235,84.5
+G11389,Jansen Project,Saskatchewan,"Mining, quarrying, oil and gas",51.88147,-104.7276,20.0
+G11390,Fonderie Bibby Sainte-Croix,Quebec,Manufacturing,46.6236,-71.7361,12.7
+G11391,Ante Creek North Sweet Gas Plant 10-07,Alberta,"Mining, quarrying, oil and gas",54.78675,-117.64646,44.8
+G11392,Vero Edson Sweet Gas Plant 12-15-053-15W5,Alberta,"Mining, quarrying, oil and gas",53.57954,-116.13688,22.3
+G11394,Leitchville Sour Gas Plant,Saskatchewan,"Mining, quarrying, oil and gas",49.72947,-108.53147,24.3
+G11397,Fort Hills Oil Sands,Alberta,"Mining, quarrying, oil and gas",57.39207,-111.56791,2637.2
+G11398,Ferrero Canada Limited,Ontario,Manufacturing,43.16226,-80.32571,28.3
+G11402,Altares D-097-G/094-B-08,British Columbia,"Mining, quarrying, oil and gas",56.41466,-122.20466,19.1
+G11404,W Gundy B-032-B/094-B-16,British Columbia,"Mining, quarrying, oil and gas",56.777,-122.14832,32.2
+G11405,Lily A-29-J Gas Plant,British Columbia,"Mining, quarrying, oil and gas",57.18502,-122.72943,15.8
+G11407,Resthaven 02-10-060-01W6 GGS,Alberta,"Mining, quarrying, oil and gas",54.16866,-118.05972,31.4
+G11409,Hangingstone Expansion Project,Alberta,"Mining, quarrying, oil and gas",56.27721,-111.62239,533.6
+G11411,Golden Lake Oil Multi Well Battery 14-13-047-23W3,Saskatchewan,"Mining, quarrying, oil and gas",53.05783,-109.23875,12.4
+G11412,Ferguson Oil Bty 1-21-3-17W4,Alberta,"Mining, quarrying, oil and gas",49.2191,-112.22813,11.7
+G11413,Ferguson Compressor Station 03-25-003-17W4,Alberta,"Mining, quarrying, oil and gas",49.23378,-112.17199,56.9
+G11415,Altares Gas Plant b-24-H,British Columbia,"Mining, quarrying, oil and gas",56.35202,-122.04837,31.4
+G11416,Sarnia CO2 & Dry Ice Plant,Ontario,Manufacturing,42.9237,-82.43487,16.4
+G11418,Wildhay Gas Plant (11-16-055-24W5) - TOU,Alberta,"Mining, quarrying, oil and gas",53.75386,-117.51012,51.8
+G11421,Wapiti Comp stn 15-09,Alberta,"Mining, quarrying, oil and gas",54.96512,-119.30677,44.8
+G11423,Veolia ES Canada Services Industriels inc.,Quebec,Waste management,45.37,-72.57,17.3
+G11425,Installations portuaires de Port-Cartier,Quebec,Pipeline transportation,50.0334,-66.791,16.1
+G11426,Julienne A-005-I/094-G-02,British Columbia,"Mining, quarrying, oil and gas",57.16839,-122.55457,45.8
+G11427,Sasquatch B-32-E,British Columbia,"Mining, quarrying, oil and gas",57.11027,-122.39857,19.9
+G11428,Gundy D-004-H/094-B-16,British Columbia,"Mining, quarrying, oil and gas",56.83933,-122.04238,27.5
+G11430,Jedney A-065-I/094-G-01,British Columbia,"Mining, quarrying, oil and gas",57.21855,-122.05456,12.6
+G11431,North Beg D-045-D/094-G-08,British Columbia,"Mining, quarrying, oil and gas",57.28936,-122.42947,20.4
+G11432,Sundown B-067-H/093-P-10 Sweet Compressor,British Columbia,"Mining, quarrying, oil and gas",55.63536,-120.58595,66.5
+G11433,Jedney C-007-H/094-G-01 Compressor,British Columbia,"Mining, quarrying, oil and gas",57.08958,-122.08437,11.4
+G11434,Brazeau CS 06-27-047-14W5,Alberta,"Mining, quarrying, oil and gas",53.08146,-115.96713,22.3
+G11437,Kerrobert 01-01-033-24W3,Saskatchewan,"Mining, quarrying, oil and gas",51.79788,-109.26718,77.3
+G11439,Maple Leaf Foods - Heritage,Ontario,Manufacturing,43.17191,-79.83518,14.8
+G11440,Kaybob 15-07-060-18W5 GP,Alberta,"Mining, quarrying, oil and gas",54.17947,-116.68595,22.4
+G11443,Wapiti Gas Gathering 03-36,Alberta,"Mining, quarrying, oil and gas",54.66332,-118.77128,68.7
+G11448,Laglace Oil Battery 14-29-074-08W6,Alberta,"Mining, quarrying, oil and gas",55.44636,-119.19392,14.4
+G11449,Mountain Road Landfill,Ontario,Waste management,43.81398,-79.73137,49.4
+G11451,Cynthia GP & Bty,Alberta,"Mining, quarrying, oil and gas",53.25609,-115.55297,39.2
+G11452,Kakwa 01-02-064-05W6,Alberta,"Mining, quarrying, oil and gas",54.50343,-118.63289,24.8
+G11453,Kakwa 07-04-064-05W6,Alberta,"Mining, quarrying, oil and gas",54.50708,-118.68952,38.5
+G11454,Kakwa 13-08-064-04W6,Alberta,"Mining, quarrying, oil and gas",54.52879,-118.57619,35.1
+G11455,Kakwa 16-29-064-05 W6M,Alberta,"Mining, quarrying, oil and gas",54.57255,-118.70841,38.7
+G11456,Kaybob 15-28,Alberta,"Mining, quarrying, oil and gas",54.39771,-116.93578,11.0
+G11457,Karr Sour Gas Processing Plant,Alberta,"Mining, quarrying, oil and gas",54.71055,-118.59518,183.7
+G11458,Kakwa 16-21-063-04W6,Alberta,"Mining, quarrying, oil and gas",54.47059,-118.53223,41.9
+G11459,Musreau II 09-26-062-6W6,Alberta,"Mining, quarrying, oil and gas",54.39407,-118.77809,41.1
+G11460,Plover SAGD 06-22,Saskatchewan,"Mining, quarrying, oil and gas",52.01782,-109.63656,44.6
+G11461,Spirit River Gas Plant (03-10-077-07W6) - TOU,Alberta,"Mining, quarrying, oil and gas",53.65227,-118.99922,83.9
+G11462,Pipestone Comp Stn 16-34,Alberta,"Mining, quarrying, oil and gas",55.11051,-119.27513,50.5
+G11463,Harley 08-10-057-27W5 Compressor,Alberta,"Mining, quarrying, oil and gas",53.9101,-117.9189,23.8
+G11464,Saturn Gas Plant 15-27,British Columbia,"Mining, quarrying, oil and gas",55.88163,-120.56781,26.8
+G11465,Town B-008-I Super Battery,British Columbia,"Mining, quarrying, oil and gas",56.91875,-122.09687,201.5
+G11469,Wilder Sweet Gas Plant 10-14,British Columbia,"Mining, quarrying, oil and gas",56.11009,-121.02236,72.7
+G11470,BS 2 DIV C/ 2 CDSB (Valcartier),Quebec,Other,46.88509,-71.48932,24.7
+G11471,Kelt Pouce Coupe 103/06-33-077-11W6M,Alberta,"Mining, quarrying, oil and gas",55.71407,-119.64536,43.1
+G11472,Gahcho Kue Mine,Northwest Territories,"Mining, quarrying, oil and gas",63.43,-109.2,142.8
+G11474,Redland South Comp Station 06-04,Alberta,"Mining, quarrying, oil and gas",51.27608,-112.90275,14.6
+G11475,PFI Carrot Creek Comp Stn 08-36-051-14W5,Alberta,"Mining, quarrying, oil and gas",53.44367,-115.91852,12.3
+G11476,Wapiti Gas Battery 08-10,Alberta,"Mining, quarrying, oil and gas",54.87059,-119.12257,80.4
+G11477,Onion Lake Thermal 14-05-056-27W3,Saskatchewan,"Mining, quarrying, oil and gas",53.81495,-109.9864,410.0
+G11478,Carrier et Bégin inc.,Quebec,Manufacturing,45.95709,-70.83427,17.1
+G11479,Stoney Creek Regional Facility,Ontario,Waste management,43.1972,-79.7727,1.3
+G11480,Ansell Gas Plant (01-34-51-18W5) - TOU,Alberta,"Mining, quarrying, oil and gas",53.4464,-116.545,29.1
+G11481,Edson Gas Plant (04-17-051-18W5) - TOU,Alberta,"Mining, quarrying, oil and gas",53.39758,-116.62699,41.6
+G11482,Mancal Zeta 11-10-049-12W5 Gas Plant,Alberta,"Mining, quarrying, oil and gas",53.21596,-115.67472,29.3
+G11483,Alder Flats Gas Plant 10-09,Alberta,"Mining, quarrying, oil and gas",52.86764,-115.0983,41.0
+G11484,13-11-062-27 W5M Simonette,Alberta,"Mining, quarrying, oil and gas",54.35542,-117.94996,28.2
+G11486,Tourmaline 12-06-081-07-W6,Alberta,"Mining, quarrying, oil and gas",55.99437,-119.09325,23.7
+G11490,Sunnybrook Health Sciences Centre,Ontario,Other,43.72191,-79.3765,46.8
+G11491,Kildair Sorel-Tracy Terminal,Quebec,Other,45.99761,-73.16093,15.0
+G11492,W.R. Grace Canada Corp.,Quebec,Manufacturing,45.2653,-74.1122,30.3
+G11493,Aitken Creek Sour Gas Plant (c-038-C/94-H-04) - TOU,British Columbia,"Mining, quarrying, oil and gas",57.03125,-121.84687,110.1
+G11494,Edam CPF 06-11-048-19 W3M,Saskatchewan,"Mining, quarrying, oil and gas",53.12342,-108.6769,198.4
+G11495,Edam West Thermal 11-19-048-20W3,Saskatchewan,"Mining, quarrying, oil and gas",53.15615,-108.92082,126.5
+G11496,Rainy River Mine,Ontario,"Mining, quarrying, oil and gas",48.848,-94.003,103.6
+G11497,Birley Umbach a72 Compressor (a-072-F/094-H-03) - TOU,British Columbia,"Mining, quarrying, oil and gas",57.49334,-121.67716,17.9
+G11498,Townsend Gas Plant,British Columbia,"Mining, quarrying, oil and gas",56.69375,-122.15312,183.2
+G11499,BUBBLES A-053-B/094-G-08,British Columbia,"Mining, quarrying, oil and gas",57.29375,-122.15312,23.7
+G11500,Cascades Lachute,Quebec,Manufacturing,45.39056,-74.20417,10.6
+G11501,NBRHC,Ontario,Other,46.32931,-79.48668,11.8
+G11502,Alameda Sour Gas Plant 16-08,Saskatchewan,"Mining, quarrying, oil and gas",49.28808,-102.3682,26.9
+G11504,Kakwa 16-23-063-05 W6M,Alberta,"Mining, quarrying, oil and gas",54.47063,-118.63286,16.3
+G11505,Kakwa 08-06-064-04W6,Alberta,"Mining, quarrying, oil and gas",54.50704,-118.58254,58.0
+G11506,Kakwa 02-31-063-04W6,Alberta,"Mining, quarrying, oil and gas",54.48876,-118.58881,80.8
+G11507,Kakwa 04-14-064-05W6,Alberta,"Mining, quarrying, oil and gas",54.53251,-118.65173,37.9
+G11511,Pancan Alderson Monogram 13-14,Alberta,"Mining, quarrying, oil and gas",50.43916,-111.28455,11.7
+G11512,Homestead Hatton 14-2 Battery,Saskatchewan,"Mining, quarrying, oil and gas",50.06066,-109.72793,20.6
+G11513,Bethune Mine,Saskatchewan,"Mining, quarrying, oil and gas",50.65,-105.38,758.0
+G11514,Wild River 11-22-055-24W5 Compressor,Alberta,"Mining, quarrying, oil and gas",53.76832,-117.48534,12.3
+G11515,Cecilia Gas Plant (15-04-058-23W5) - TOU,Alberta,"Mining, quarrying, oil and gas",53.99023,-117.3553,28.2
+G11516,Columbia Gas Plant (15-36-044-15W5) - TOU,Alberta,"Mining, quarrying, oil and gas",52.84154,-116.04149,54.2
+G11517,Redwater Fractionation Site Facility II (RFS II),Alberta,"Mining, quarrying, oil and gas",53.81251,-113.12762,275.4
+G11518,Ante Creek Multi-Well Gas Battery 05-26-066-24W5,Alberta,"Mining, quarrying, oil and gas",54.73964,-117.52749,29.3
+G11519,Mine Renard,Quebec,"Mining, quarrying, oil and gas",52.81068,-72.21557,25.8
+G11520,Horse Sweet Gas Plant 14-23-058-26W5,Alberta,"Mining, quarrying, oil and gas",54.0334,-117.7569,26.9
+G11521,Sturgeon Refinery,Alberta,Manufacturing,53.8433,-113.118,709.7
+G11523,Comox Valley Waste Management Centre,British Columbia,Waste management,49.63765,-125.05385,11.8
+G11524,Campbell River Waste Management Centre,British Columbia,Waste management,50.00816,-125.34886,18.1
+G11525,City of Wetaskiwin Landfill,Alberta,Waste management,52.99753,-113.4131,10.7
+G11526,Tooga Gas Plant B-031-I,British Columbia,"Mining, quarrying, oil and gas",59.1936,-120.5111,18.9
+G11527,Flagstaff Waste Regional Landfill,Alberta,Waste management,52.86229,-111.64862,26.5
+G11528,Dawson Sour Gas Plant 13-07,British Columbia,"Mining, quarrying, oil and gas",55.92465,-120.18875,45.7
+G11530,South Health Campus,Alberta,Other,50.88195,-113.95189,18.7
+G11531,Sinclair 03-04-008-29 W1M,Manitoba,"Mining, quarrying, oil and gas",49.62268,-101.36274,4.7
+G11535,Waskada 15-21-001-25 W1M,Manitoba,"Mining, quarrying, oil and gas",49.05777,-100.76444,14.7
+G11537,Rockyview General Hospital,Alberta,Other,50.99036,-114.09737,11.3
+G11538,Dee Valley EOR Facility 09-09-049-22W3,Saskatchewan,"Mining, quarrying, oil and gas",53.20008,-109.30074,0.5
+G11539,Tower Gas Plant 03-07-081-17W6,British Columbia,"Mining, quarrying, oil and gas",56.00163,-120.65114,18.8
+G11540,1200 Montreal Road Campus,Ontario,Other,45.4519,-75.6204,16.1
+G11542,Cliffdale Oil Battery 03-25-084-17W5,Alberta,"Mining, quarrying, oil and gas",56.3066,-116.548,16.0
+G11543,Service GMR,Quebec,Waste management,46.71,-70.61,30.4
+G11545,Lieu d'enfouissement de St-Lambert de Lauzon (LET/LES),Quebec,Waste management,46.60117,-71.27931,19.5
+G11546,Baptiste Comp Stn 06-21,Alberta,"Mining, quarrying, oil and gas",52.71788,-115.24981,30.4
+G11548,Dumur Industries Assembly Division,Saskatchewan,Manufacturing,50.44856,-104.5171,0.0
+G11549,Sand Creek Sour Gas Plant,Alberta,"Mining, quarrying, oil and gas",52.90713,-115.32224,34.4
+G11551,Mervin EOR Central Facility 11-36-049-20W3,Saskatchewan,"Mining, quarrying, oil and gas",53.27254,-108.79865,16.2
+G11552,Lashburn EOR Central Facility 12-01-049-24W3,Saskatchewan,"Mining, quarrying, oil and gas",53.19985,-109.39088,18.8
+G11557,EDAM EOR Central Facility 07-24-049-20W3,Saskatchewan,"Mining, quarrying, oil and gas",53.23983,-108.79272,1.7
+G11567,Cantuar Oil MWB 15-15,Saskatchewan,"Mining, quarrying, oil and gas",50.35195,-108.25902,21.2
+G11568,SEEP Ethane Extraction Plant 13-19,Saskatchewan,"Mining, quarrying, oil and gas",49.49184,-103.21452,16.1
+G11576,Flat Lake Sour Gas Plant 09-16,Saskatchewan,"Mining, quarrying, oil and gas",49.03762,-103.8129,20.5
+G11590,Rapdan Sour Gas Plant 13-01,Saskatchewan,"Mining, quarrying, oil and gas",49.36186,-108.58143,21.9
+G11593,Redcliff Cypress Regional Landfill,Alberta,Waste management,50.09602,-110.84828,54.2
+G11594,Doe Gas Plant (02-11-080-16W6) - TOU,British Columbia,"Mining, quarrying, oil and gas",55.91377,-120.38232,96.8
+G11597,Winnipeg,Manitoba,Manufacturing,49.88001,-97.07814,14.3
+G11598,Drumheller & District Regional Landfill,Alberta,Waste management,51.4535,-112.69256,27.3
+G11599,Hebron Platform,Newfoundland and Labrador,"Mining, quarrying, oil and gas",45.535,-48.48556,437.7
+G11601,Park Road Landfill,Ontario,Waste management,43.14845,-79.54396,9.6
+G11602,Quest Carbon Capture and Storage (CCS) Project,Alberta,"Mining, quarrying, oil and gas",53.7407,-113.0231,0.1
+G11603,NAIT - Main Campus,Alberta,Other,53.5678,-113.5059,14.3
+G11619,Kakwa 12-14-063-05W6,Alberta,"Mining, quarrying, oil and gas",54.45259,-118.65139,72.1
+G11620,Kakwa 08-07-063-04W6,Alberta,"Mining, quarrying, oil and gas",54.4343,-118.58249,67.9
+G11624,1972 Landfill (non-operating),Alberta,Waste management,52.22692,-113.79518,39.9
+G11632,Cutbank Comp Stn 10-36,Alberta,"Mining, quarrying, oil and gas",54.67067,-119.21829,11.9
+G11636,Knockholt Sub-Regional Landfill,British Columbia,Waste management,54.44039,-126.52943,17.2
+G11637,Ansell Sweet Gas Plant 01-24,Alberta,"Mining, quarrying, oil and gas",53.5005,-116.80511,28.1
+G11639,Cecilia 14-36-057-23 W5M,Alberta,"Mining, quarrying, oil and gas",53.97558,-117.28725,21.4
+G11641,Knopcik Gas Plant 09-10-074-11 W6M,Alberta,"Mining, quarrying, oil and gas",55.3977,-119.5931,25.4
+G11642,Duncan Compressor Station 10-36,Alberta,"Mining, quarrying, oil and gas",55.62984,-112.18917,14.5
+G11643,Chinchaga 01-24-096-05 W6M,Alberta,"Mining, quarrying, oil and gas",57.33901,-118.65434,17.3
+G11644,Tilley West Compressor Station 01-03,Alberta,"Mining, quarrying, oil and gas",50.48648,-111.70293,10.8
+G11651,City of Medicine Hat Landfill,Alberta,Waste management,50.05244,-110.61484,52.1
+G11657,Nanaimo Regional Landfill,British Columbia,Waste management,49.1202,-123.898,55.3
+G11665,Wembley Oil Battery 14-03-073-08W6,Alberta,"Mining, quarrying, oil and gas",55.30139,-119.14411,21.7
+G11669,West Wolf Lake Gas Plant (10-03-052-17W5) - TOU,Alberta,"Mining, quarrying, oil and gas",53.46233,-116.41483,27.2
+G11675,Usine McInnis,Quebec,Manufacturing,48.19156,-64.92241,1304.4
+G11676,BRAZEAU 14-30-45-11W5 MWOB,Alberta,"Mining, quarrying, oil and gas",52.91436,-115.58813,20.5
+G11677,INNES GAS PLANT 12-22-7-11-W2,Saskatchewan,"Mining, quarrying, oil and gas",49.57534,-103.42626,36.1
+G11678,Newell Regional Landfill,Alberta,Waste management,50.56961,-111.89623,19.8
+G11679,PETRO-CAN MED HAT #3,Alberta,"Mining, quarrying, oil and gas",50.28246,-110.47105,13.1
+G11680,PETRO-CAN ALDERSON,Alberta,"Mining, quarrying, oil and gas",50.26781,-111.33025,16.7
+G11683,Gilby 2-27 Gas Plant,Alberta,"Mining, quarrying, oil and gas",52.46662,-114.3456,11.7
+G11687,Turner Valley Battery 6-16,Alberta,"Mining, quarrying, oil and gas",51.21776,-114.64319,40.9
+G11689,Morningside 11-35-042-01W5 Compressor,Alberta,"Mining, quarrying, oil and gas",52.66295,-114.03965,13.4
+G11691,Marlboro Gas Plant 05-29-055-19W5 (GHGRP),Alberta,"Mining, quarrying, oil and gas",53.7781,-116.798,25.0
+G11692,SOUTH ROSEVEAR 11-36-053-15W5 Compressor,Alberta,"Mining, quarrying, oil and gas",53.62273,-116.08068,10.0
+G11693,Willesden Green 10-34-040-06W5 Compressor,Alberta,"Mining, quarrying, oil and gas",52.48831,-114.77742,20.0
+G11694,Pine Creek 12-02-056-19W5 Compressor (GHGRP),Alberta,"Mining, quarrying, oil and gas",53.81191,-116.72365,13.8
+G11695,Ansell Gas Plant 12-31-050-17W5 (GHGRP),Alberta,"Mining, quarrying, oil and gas",53.36073,-116.4824,41.8
+G11696,Gilby 03-28-041-04W5 Compressor,Alberta,"Mining, quarrying, oil and gas",52.55394,-114.51945,39.5
+G11697,BILBO GAS PLANT 4-25-65-7W6,Alberta,"Mining, quarrying, oil and gas",54.64906,-118.92829,32.0
+G11698,LET de Neuville,Quebec,Waste management,46.73459,-71.67937,53.8
+G11699,PCR FERRIER 7-16 COMP.,Alberta,"Mining, quarrying, oil and gas",52.70343,-115.38875,25.3
+G11700,04-08 Blue Rapids,Alberta,"Mining, quarrying, oil and gas",53.03416,-115.29069,26.1
+G11701,Valhalla Plant 13-21-76-9W6,Alberta,"Mining, quarrying, oil and gas",55.60406,-119.34328,12.9
+G11702,Fort McMurray Regional Landfill,Alberta,Waste management,56.63751,-111.36454,76.4
+G11712,Leduc & District Regional Waste Facility,Alberta,Waste management,53.26274,-113.47882,49.7
+G11713,Placid 6-29,Alberta,"Mining, quarrying, oil and gas",54.21588,-117.41075,34.4
+G11714,Usine de production d'eau potable,Quebec,Utilities,45.5,-73.9,0.4
+G11715,Usine d'épuration,Quebec,Utilities,45.5691,-73.8675,1.0
+G11716,Brockville Activated Alumina Plant,Ontario,Manufacturing,44.6243,-75.7017,12.0
+G11717,Jayar 06-08-062-03W6 GP,Alberta,"Mining, quarrying, oil and gas",54.34681,-118.41559,85.6
+G11718,North York Division,Ontario,Manufacturing,43.736,-79.532,17.6
+G11719,Whitby,Ontario,Manufacturing,43.8606,-78.9017,127.8
+G11721,Armstrong Spallumcheen Recycling and Disposal Facility,British Columbia,Waste management,50.45,-119.17,14.4
+G11722,Sechelt Landfill,British Columbia,Waste management,49.48837,-123.71253,22.2
+G11723,Port Colborne Refinery,Ontario,Manufacturing,42.8826,-79.2405,13.6
+G11724,Greater Vernon Recycling and Disposal Facility,British Columbia,Waste management,50.22,-119.3,49.5
+G11725,Alix Malthouse,Alberta,Manufacturing,52.39188,-113.17708,24.8
+G11726,LEDCD de Pierrefonds,Quebec,Waste management,45.46469,-73.86598,23.0
+G11728,Tupper Main Field,British Columbia,"Mining, quarrying, oil and gas",55.51875,-120.12812,10.6
+G11729,Dundas,Ontario,Manufacturing,43.2894,-80.0125,21.5
+G11730,Usine Vaudreuil,Quebec,Manufacturing,48.4257,-71.1718,352.7
+G11731,Burlington,Ontario,Manufacturing,43.3769,-79.7656,13.7
+G11732,Clearwater Regional Landfill (formerly the Rocky Regional Landfill),Alberta,Waste management,52.42629,-115.15909,21.0
+G11733,Carbon,Alberta,Utilities,51.47883,-113.05653,22.7
+G11734,DSO Timmins Project,Quebec,"Mining, quarrying, oil and gas",54.88945,-67.0842,62.9
+G11736,North American Lithium,Quebec,"Mining, quarrying, oil and gas",48.40579,-77.82782,27.3
+G11737,Pouce Coupe Gas Plant,Alberta,"Mining, quarrying, oil and gas",55.94769,-119.92871,16.6
+G11738,Aitken Creek Plant,British Columbia,"Mining, quarrying, oil and gas",56.9561,-121.9191,22.2
+G11739,Fourth Creek Gas Plant,Alberta,"Mining, quarrying, oil and gas",56.09985,-119.28764,22.4
+G11740,11-19 Compressor Station,Alberta,"Mining, quarrying, oil and gas",55.86289,-119.7156,6.0
+G11742,Agincourt Plant,Ontario,Manufacturing,43.7841,-79.2763,46.8
+G11743,Green Electron Power Plant,Ontario,Utilities,42.7849,-82.4276,142.4
+G11744,Pickering,Ontario,Manufacturing,43.82797,-79.05871,14.1
+G11745,Carleton university,Ontario,Other,45.38758,-75.69602,27.5
+G11747,St. David's Hydroponics,Ontario,Other,43.18554,-79.15069,19.4
+G11749,Worsley (Birchcliff) Sour Gas Plant,Alberta,"Mining, quarrying, oil and gas",56.5574,-119.36159,51.3
+G11750,ARCELORMITTAL WINDSOR A DIVISION OF ARCELORMITTAL DOFASCO G.P.,Ontario,Manufacturing,42.2605,-83.1002,29.0
+G11751,Oakville Trafalgar Memorial Hospital,Ontario,Other,43.45041,-79.76475,11.5
+G11752,Lakeridge Health Oshawa,Ontario,Other,43.90556,-78.86911,11.2
+G11754,980 Oliver Road,Ontario,Other,48.42467,-89.26924,12.7
+G11755,Brantford Facility,Ontario,Manufacturing,43.1553,-80.2303,30.0
+G11757,TEINE Coleville 3-14,Saskatchewan,"Mining, quarrying, oil and gas",51.65051,-109.16121,9.4
+G11759,Niagara PVC Plant,Ontario,Manufacturing,42.981,-79.2666,45.6
+G11760,TEINE Dodsland 13-12,Saskatchewan,"Mining, quarrying, oil and gas",51.56033,-108.97748,6.9
+G11761,Dodsland 07-05-032-22W3,Saskatchewan,"Mining, quarrying, oil and gas",51.7119,-109.8459,8.4
+G11763,TEINE Dodsland 8-34,Saskatchewan,"Mining, quarrying, oil and gas",51.61131,-109.00708,26.4
+G11765,ArcelorMittal long Products Canada - Hamilton East,Ontario,Manufacturing,43.2625,-79.7857,15.8
+G11766,Sil Industrial Minerals Lamont Plant,Alberta,"Mining, quarrying, oil and gas",53.9063,-112.92419,21.9
+G11767,Rio Tinto Fer et Titane inc. - HAVRE-SAINT-PIERRE,Quebec,"Mining, quarrying, oil and gas",50.2435,-63.6064,16.8
+G11768,Énergir CCU,Quebec,Utilities,45.29458,-73.33226,29.9
+G11769,Plant #1,Ontario,Manufacturing,43.2338,-79.7151,8.3
+G11770,Division Goldex,Quebec,"Mining, quarrying, oil and gas",48.0923,-77.874,13.7
+G11771,Lieu d'enfouissement Sanitiare de la Ville de Sherbrooke,Quebec,Waste management,45.4173,-71.89169,40.5
+G11772,Usine Mont-Royal,Quebec,Manufacturing,45.4925,-73.6728,15.2
+G11773,McMaster University Medical Centre Co-generation Plant,Ontario,Other,43.25798,-79.9171,5.6
+G11774,Juravinski Hospital and Cancer Center Cogeneration Plant,Ontario,Other,43.24048,-79.84645,11.5
+G11775,Hamilton General Hospital Cogeneration Plant,Ontario,Other,43.26208,-79.85389,8.3
+G11776,Fallsview Casino Resort,Ontario,Other,43.082,-79.081,11.2
+G11777,Elleh Sweet Gas Plant,British Columbia,"Mining, quarrying, oil and gas",58.594,-121.855,16.1
+G11778,617885 Ontario Limited o/a Jem Farms,Ontario,Other,42.05946,-82.67179,14.8
+G11779,Orangeline Farms Limited,Ontario,Other,42.13648,-82.59661,11.5
+G11780,Green Rise Foods Inc.,Ontario,Other,42.0761,-82.64262,15.8
+G11781,Envirofresh Produce Inc.,Ontario,Other,42.75972,-82.45937,8.9
+G11782,Cervini Farms (1993) Inc.,Ontario,Other,42.06475,-82.60426,9.2
+G11783,DiCiocco Farms Eastside Inc.,Ontario,Other,42.05801,-82.57569,28.9
+G11784,1808278 Ontario Inc.,Ontario,Other,42.05382,-82.69418,17.1
+G11785,Twin Peaks Hydroponics Inc.,Ontario,Other,42.06261,-82.64331,17.9
+G11786,Great Northern Hydroponics,Ontario,Other,42.06309,-82.68094,18.1
+G11787,Truly Green Farms,Ontario,Other,42.3864,-82.22512,31.3
+G11788,Allegro Acres Inc.,Ontario,Other,42.05323,-82.67938,8.2
+G11789,Ecotex Healthcare Linen Service LP,Ontario,Other,43.7014,-79.6298,13.0
+G11790,Sun-Brite Foods Inc.,Ontario,Manufacturing,42.07364,-82.67053,12.4
+G11791,SUPER-PUFFT SNACKS CORPORATION,Ontario,Manufacturing,43.66371,-79.68986,20.9
+G11792,AMCO Farms Inc.,Ontario,Other,42.06059,-82.61105,21.5
+G11793,ARLANXEO Butyl,Ontario,Manufacturing,42.94089,-82.4251,10.4
+G11794,Division Laronde,Quebec,"Mining, quarrying, oil and gas",48.2375,-78.3958,45.9
+G11795,POLYCON INDUSTRIES,Ontario,Manufacturing,43.5325,-80.3095,35.0
+G11796,The Ottawa Hospital - Civic campus,Ontario,Other,45.39304,-75.72177,13.9
+G11797,Ingleside,Ontario,Manufacturing,45.0042,-74.9908,19.0
+G11799,TAQA LAPRISE B-40-E/94-H-5,Alberta,"Mining, quarrying, oil and gas",57.361,-121.991,14.3
+G11800,University of Waterloo-GHG,Ontario,Other,43.47372,-80.54351,30.8
+G11801,Greenhill Produce (2),Ontario,Other,42.50112,-82.05543,39.9
+G11802,Guelph,Ontario,Manufacturing,43.5581,-80.2704,9.5
+G11803,Main Greenhouses,Ontario,Other,43.3701,-81.4422,9.2
+G11804,Mine Éléonore,Quebec,"Mining, quarrying, oil and gas",52.42083,-76.04389,34.8
+G11808,Ashbridges Bay Treatment Plant,Ontario,Utilities,43.6569,-79.3194,85.9
+G11809,Highland Creek Treatment Plant,Ontario,Utilities,43.7667,-79.15,45.3
+G11810,Lieux d'enfouissement technique d'Hébertville Station,Quebec,Other,48.30128,-71.63907,2.8
+G11811,Enwave Windsor Limited Parnership,Ontario,Utilities,42.3204,-83.0338,10.7
+G11812,Johnson Electric Canada Ltd. - Stratford,Ontario,Manufacturing,43.3607,-80.9973,16.4
+G11813,GENPAK MISSISSAUGA,Ontario,Manufacturing,43.5382,-79.7128,3.6
+G11816,Countess Makepeace Comp Stn 03-18-022-17W4,Alberta,"Mining, quarrying, oil and gas",50.86496,-112.35058,10.3
+G11819,LET Saint-Flavien,Quebec,Waste management,46.33433,-71.32486,18.4
+G11820,Usine de PCC de Windsor,Quebec,Manufacturing,45.5605,-71.976,12.3
+G11821,"Innophos Canada, Inc.",Ontario,Manufacturing,42.8631,-79.5683,31.9
+G11822,Physical Resources Service,Ontario,Other,45.4212,-75.6801,17.1
+G11823,Usine St-Laurent,Quebec,Manufacturing,45.5139,-73.7,16.9
+G11824,Cambridge Manufacturing,Ontario,Manufacturing,43.3949,-80.3325,21.9
+G11825,Calgary Plant,Alberta,Manufacturing,51.0245,-114.025,32.3
+G11826,IKO Hawkesbury,Ontario,Manufacturing,45.5956,-74.5912,16.5
+G11827,IKO Madoc,Ontario,"Mining, quarrying, oil and gas",44.4961,-77.5348,25.3
+G11828,Complexe environnemental St-Michel,Quebec,Waste management,45.56015,-73.62109,22.0
+G11829,Vaudreuil-Dorion site,Quebec,Manufacturing,45.4153,-74.0273,3.9
+G11830,Pepsico Aliments Canada - Usine de Lauzon,Quebec,Manufacturing,46.8186,-71.1344,11.0
+G11831,Montreal Wallboard/Finishing Plant,Quebec,Manufacturing,45.4045,-73.5889,30.9
+G11832,Lieu d'enfouissement technique de Saint-Côme-Linière,Quebec,Waste management,46.09126,-70.53709,51.4
+G11833,Usine St-Leonard,Quebec,Manufacturing,45.5969,-73.5742,14.8
+G11834,1329606 Ontario Limited,Ontario,Other,42.06914,-82.60178,14.7
+G11835,Klassen Greenhouse Farms,Ontario,Other,42.10683,-82.73823,8.8
+G11836,Mucci Farms Ltd.,Ontario,Other,42.04029,-82.66082,32.6
+G11837,Pomas Farms Inc.,Ontario,Other,42.15499,-82.5928,45.3
+G11839,Agriville Farms Ltd,Ontario,Other,42.04796,-82.71609,17.4
+G11840,Southshore Greenhouses Inc.,Ontario,Other,42.03991,-82.66335,22.3
+G11841,Zochem,Ontario,Manufacturing,43.6988,-79.725,11.3
+G11843,Nature Fresh Plant 1,Ontario,Other,42.10965,-82.59623,5.1
+G11844,Nature Fresh Plant 2,Ontario,Other,42.10965,-82.59623,40.4
+G11845,Kapital Produce Ltd,Ontario,Other,42.05938,-82.74042,14.1
+G11846,Platinum Produce,Ontario,Other,42.37015,-82.0605,22.1
+G11847,J.C. Fresh Farms Ltd.,Ontario,Other,42.0735,-82.6934,11.6
+G11848,IKO Calgary,Alberta,Manufacturing,51.0154,-114.024,13.3
+G11849,Great Lakes Greenhouses Inc.,Ontario,Other,42.07277,-82.58502,40.3
+G11850,Arriva 02-25 Gas Plant,Alberta,"Mining, quarrying, oil and gas",52.29159,-115.15215,33.0
+G11851,Sunrite Greenhouses Ltd,Ontario,Other,42.03936,-82.68021,15.8
+G11852,Lieu d'enfouissement sanitaire Chibougamau,Quebec,Waste management,49.96003,-74.3693,10.2
+G11854,Toronto Board Plant,Ontario,Manufacturing,43.4952,-79.6148,36.4
+G11855,Levesque Plywood Ltd.,Ontario,Manufacturing,49.6856,-83.6505,17.9
+G11875,Winnipeg Malt Plant,Manitoba,Manufacturing,49.8867,-96.9991,13.9
+G11876,Chaplin,Saskatchewan,"Mining, quarrying, oil and gas",50.4615,-106.66843,12.5
+G11877,Prairie Malt Limited,Saskatchewan,Manufacturing,52.0311,-107.58178,30.4
+G11878,Max Aicher (North America) Limited,Ontario,Manufacturing,43.26654,-79.82236,20.8
+G11879,City of Moose Jaw (Landfill),Saskatchewan,Waste management,50.39872,-105.48078,82.3
+G11880,West Yellowhead Regional Landfill,Alberta,Waste management,53.35305,-117.61725,37.0
+G11881,WDMLR Landfill,Alberta,Waste management,52.78534,-112.95504,77.6
+G11882,Brock University,Ontario,Other,43.1192,-79.2483,22.3
+G11884,Meota West 06-24-046-18W3M,Saskatchewan,"Mining, quarrying, oil and gas",52.97845,-108.48622,248.9
+G11886,LONDON,Ontario,Manufacturing,43.0171,-81.1845,9.2
+G11887,Coleville Compressor Station,Saskatchewan,"Mining, quarrying, oil and gas",51.7114,-109.2455,29.1
+G11888,Cargill Limited - Camrose Oilseed Processing,Alberta,Manufacturing,52.97433,-112.76169,58.5
+G11893,Wapiti 13-05-067-08W6 BTY,Alberta,"Mining, quarrying, oil and gas",54.77609,-119.19216,38.5
+G11894,Copper Mountain Mine,British Columbia,"Mining, quarrying, oil and gas",49.34556,-120.51,43.0
+G11896,Pioneer 2 Liquids Extraction Plant,Alberta,"Mining, quarrying, oil and gas",57.3388,-111.7422,11.5
+G11897,Strachan 05-34-037-08W5 Compressor (GHGRP),Alberta,"Mining, quarrying, oil and gas",52.22249,-115.06978,44.3
+G11898,The Black Velvet Distilling Company,Alberta,Manufacturing,49.7137,-112.79537,0.4
+G11900,07-29-78-11-W6M,Alberta,"Mining, quarrying, oil and gas",55.7868,-119.66504,20.1
+G11902,Electric Utility - Generation - Remote Site,Alberta,Utilities,50.09268,-110.7359,124.0
+G11905,North Central Liquids Hub (NCLH) 05-27-079-17W6,British Columbia,"Mining, quarrying, oil and gas",55.87445,-120.57927,10.7
+G11906,Sunrise Comp Station 01-34,British Columbia,"Mining, quarrying, oil and gas",55.79784,-120.53826,12.7
+G11907,Saturn Comp Stn 09-27,British Columbia,"Mining, quarrying, oil and gas",55.87801,-120.56138,16.4
+G11908,Sunrise Gas Plant 04-26-078-17W6,British Columbia,"Mining, quarrying, oil and gas",55.78331,-120.53011,10.3
+G11909,Usine St-Hyacinthe,Quebec,Manufacturing,45.646,-72.9578,12.7
+G11910,Big Marble Farms,Alberta,Other,49.98351,-110.75965,31.4
+G11912,West Beg c-34-C/94-G-1,British Columbia,"Mining, quarrying, oil and gas",57.032,-122.3,11.7
+G11913,BUNGE CANADA - WAINWRIGHT PLANT,Alberta,Manufacturing,52.8292,-110.8592,7.8
+G11914,Kaybob 05-33 Gas Battery,Alberta,"Mining, quarrying, oil and gas",54.29331,-116.58191,69.4
+G11915,Cypress Thorsby 7-14-49-1W5,Alberta,"Mining, quarrying, oil and gas",53.22672,-114.03437,10.4
+G11916,Thorhild,Alberta,Waste management,53.58442,-113.61293,58.3
+G11919,Barrier Hydro Plant,Alberta,Utilities,51.03418,-115.04094,0.0
+G11921,Bearspaw Hydro Plant,Alberta,Utilities,51.101,-114.2819,0.0
+G11922,Bighorn Hydro Plant,Alberta,Utilities,52.30835,-116.32327,0.0
+G11924,Brazeau Hydro Plant,Alberta,Utilities,52.91,-115.375,0.1
+G11925,Cascade Hydro Plant,Alberta,Utilities,51.2,-115.502,0.0
+G11926,Ghost Hydro Plant,Alberta,Utilities,51.218,-114.707,0.1
+G11927,Horseshoe Hydro Plant,Alberta,Utilities,51.118,-115.034,0.0
+G11928,Interlakes Hydro Plant,Alberta,Utilities,50.633,-115.139,0.0
+G11929,Kananaskis Hydro Plant,Alberta,Utilities,51.097,-115.057,0.1
+G11930,Pocaterra Hydro Plant,Alberta,Utilities,50.699,-115.119,0.0
+G11931,Rundle Hydro Plant,Alberta,Utilities,51.088,-115.373,0.0
+G11932,Spray Hydro Plant,Alberta,Utilities,51.074,-115.402,0.0
+G11933,Castle Wind Farm,Alberta,Utilities,49.515,-114.026,0.0
+G11934,Cowley Wind Farm,Alberta,Utilities,49.562,-114.108,0.0
+G11936,Sinnott Wind Farm,Alberta,Utilities,49.532,-114.002,0.0
+G11937,Summerview 1 Wind Farm,Alberta,Utilities,49.582,-113.793,0.1
+G11938,Taylor Hydro Plant,Alberta,Utilities,49.333,-112.887,0.0
+G11939,Centre Hospitalier de l'Université de Montréal,Quebec,Other,45.51151,-73.5573,25.8
+G11941,Duvernay Kaybob Complex,Alberta,"Mining, quarrying, oil and gas",54.39575,-116.94479,38.2
+G11942,WASKAHIGAN MGS 10-29-062-23W5,Alberta,"Mining, quarrying, oil and gas",54.3953,-117.41744,20.6
+G11948,Rush Lake 2 Thermal Plant 16-03-048-21W3,Saskatchewan,"Mining, quarrying, oil and gas",53.11622,-108.98205,284.0
+G11949,Brampton Civic Hospital,Ontario,Other,43.75055,-79.71641,12.7
+G11950,TERMINAL DE MONTREAL-EST,Quebec,Other,45.6413,-73.5322,12.7
+G11952,LET RAGUENEAU,Quebec,Waste management,49.16077,-68.48379,13.7
+G11955,Iqaluit,Nunavut,Utilities,63.75375,-68.50708,33.6
+G11957,Rankin Inlet,Nunavut,Utilities,68.81257,-92.08061,11.0
+G11958,Rmp Waskahigan 12-07-064-23w5,Alberta,"Mining, quarrying, oil and gas",54.52509,-117.4767,34.2
+G11959,02-26 Gas Plant,Alberta,"Mining, quarrying, oil and gas",53.51387,-115.65692,15.9
+G11961,Willesden Green 14-05,Alberta,"Mining, quarrying, oil and gas",52.85639,-115.2763,11.4
+G11963,North Pine Liquid Separation,British Columbia,"Mining, quarrying, oil and gas",56.57189,-121.13751,34.6
+G11970,HUSKY ABERFELDY 8-1-50-27,Saskatchewan,"Mining, quarrying, oil and gas",53.28347,-109.81154,16.5
+G11976,Pointes-Aux-Trembles CO2 Plant,Quebec,Manufacturing,45.6387,-73.5188,27.8
+G11978,Fort Saskatchewan CO2 Plant,Alberta,Manufacturing,53.72126,-113.17954,16.3
+G11979,Highvale Sour Gas Plant 10-04,Alberta,"Mining, quarrying, oil and gas",53.3743,-114.5279,16.3
+G11981,UNITY PLANT,Saskatchewan,"Mining, quarrying, oil and gas",52.4294,-109.1111,24.9
+G11982,BlackGold SAGD Sec14-76-07W4,Alberta,"Mining, quarrying, oil and gas",55.58276,-110.97928,205.8
+G11987,Usine LSR - Train #2,Quebec,Pipeline transportation,45.65763,-73.52883,17.7
+G11989,ArcelorMittal Contrecoeur Est,Quebec,Manufacturing,45.82055,-73.26362,974.0
+G11992,BITUMAR,Quebec,Manufacturing,45.6333,-73.5168,9.1
+G11995,Patterson Creek Gas Plant 11-21,Alberta,"Mining, quarrying, oil and gas",54.72934,-118.3932,95.3
+G11998,Usine de Valleyfield,Quebec,Manufacturing,45.2624,-74.1039,11.8
+G11999,Calgary Composting Facility,Alberta,Waste management,50.94282,-113.9323,20.0
+G12000,Kakwa 14-18-064-05W6,Alberta,"Mining, quarrying, oil and gas",54.5428,-118.743,42.3
+G12001,Kakwa 05-01-064-06W6,Alberta,"Mining, quarrying, oil and gas",54.5054,-118.7796,81.0
+G12009,NATT Tools Group Inc.,Ontario,Manufacturing,43.2663,-79.829,5.7
+G12015,Ante Creek Oil Battery 10-07,Alberta,"Mining, quarrying, oil and gas",54.7853,-117.658,19.8
+G12016,Pembalta IV Sour Gas Plant 09-16,Alberta,"Mining, quarrying, oil and gas",53.2287,-115.1044,15.1
+G12018,Cessford Sweet Gas Plant 02-08-024-12W4,Alberta,"Mining, quarrying, oil and gas",51.02502,-111.64167,22.2
+G12022,Rosa Flora Growers Limited,Ontario,Other,42.95315,-79.58429,21.1
+G12023,Carson Creek 15MW,Alberta,Utilities,54.28493,-115.69845,23.1
+G12024,Judy Creek 15MW,Alberta,Utilities,54.51412,-115.50411,10.8
+G12030,Aitken A-011-A/094-G-01 Compressor,British Columbia,"Mining, quarrying, oil and gas",57.01042,-122.00312,12.3
+G12031,Consumer Foods - Winnipeg,Manitoba,Manufacturing,49.8799,-97.0724,13.5
+G12034,Heavysound 1509,Alberta,"Mining, quarrying, oil and gas",54.26778,-116.33694,14.7
+G12036,Kakwa 01-13-063-05W6,Alberta,"Mining, quarrying, oil and gas",54.4453,-118.6076,13.9
+G12037,Usine Mirabel,Quebec,Manufacturing,45.6873,-74.0199,9.5
+G12039,Centre d'épuration Rive-Sud (CERS),Quebec,Utilities,45.5837,-73.4862,4.6
+G12042,City of Prince Albert Landfill,Saskatchewan,Waste management,53.2315,-105.7886,31.3
+G12045,McLeod River Sweet Gas Plant 16-36-055-15W5,Alberta,"Mining, quarrying, oil and gas",53.79945,-116.08432,11.0
+G12046,Northern Landfill Inc.,Saskatchewan,Waste management,52.2639,-106.6522,59.2
+G12048,Vista Mine,Alberta,"Mining, quarrying, oil and gas",53.40716,-117.3782,315.4
+G12053,District Energy Centre,Alberta,Utilities,51.04408,-114.05375,25.2
+G12055,Morrin Ghost Pine Sweet Gas Plant,Alberta,"Mining, quarrying, oil and gas",51.6372,-112.866,13.2
+G12056,Huxley Sweet Gas Plant,Alberta,"Mining, quarrying, oil and gas",51.9151,-113.3737,12.7
+G12057,Foothills Regional Landfill & Resource Recovery Centre,Alberta,Waste management,50.64958,-113.97835,55.2
+G12066,Harmon Valley Sour Gas Plant 03-18-084-17W5,Alberta,"Mining, quarrying, oil and gas",56.27719,-116.66553,67.4
+G12084,PAPIERS WHITE BIRCHmc - DIVISION PAPIER MASSON LTÉE,Quebec,Manufacturing,45.5417,-75.425,14.2
+G12085,City of Cornwall Landfill Site,Ontario,Waste management,45.0343,-74.8071,51.7
+G12086,Calgary Wallboard Plant,Alberta,Manufacturing,50.9938,-113.99,30.0
+G12087,Route Gas Plant 07-09-062-08W6M,Alberta,"Mining, quarrying, oil and gas",54.34668,-119.13431,40.5
+G12090,Gilby Sweet Gas Plant 01-04,Alberta,"Mining, quarrying, oil and gas",52.58315,-114.36475,9.3
+G12091,Garrington 03-03-35-04 W5,Alberta,"Mining, quarrying, oil and gas",51.9716,-114.4925,25.7
+G12092,LOCHEND 03-20-027-03W5,Alberta,"Mining, quarrying, oil and gas",51.31643,-114.39142,18.3
+G12094,Westward Ho 07-08-033-04W5 BTY,Alberta,"Mining, quarrying, oil and gas",51.81492,-114.53026,16.9
+G12096,Olds 16-33-030-01W5 MWB,Alberta,"Mining, quarrying, oil and gas",51.6183,-114.075,18.0
+G12097,Université de Montréal - Campus de la Montagne,Quebec,Other,45.50884,-73.58781,12.2
+G12112,Silvertip Mine,British Columbia,"Mining, quarrying, oil and gas",53.72667,-127.64762,14.0
+G12113,Burnside Combustion Turbines,Nova Scotia,Utilities,44.7118,-63.6074,13.2
+G12116,McBride Lake Wind Farm,Alberta,Utilities,49.612,-113.481,0.1
+G12117,Whitehorse Rapids Diesel Generating Station,Yukon,Utilities,60.6774,-135.0379,40.8
+G12119,Elmworth Generating Station,Alberta,Utilities,55.04747,-119.63341,15.8
+G12120,Foothills Boulevard Regional Landfill,British Columbia,Waste management,53.99054,-122.82637,59.8
+G12135,Whitecourt Division,Alberta,Manufacturing,54.1398,-115.6891,20.8
+G12141,Borden Generating Station,Prince Edward Island,Utilities,46.25027,-63.68824,0.5
+G12144,Winnipeg Wallboard Plant,Manitoba,Manufacturing,49.9038,-97.1949,18.1
+G12145,Napanee Generating Station,Ontario,Utilities,44.14812,-76.8415,1471.9
+G12146,Enbridge Gas Inc.,Ontario,Pipeline transportation,43.77221,-79.32341,308.4
+G12147,Enbridge Gas Inc. - Distribution,Ontario,Utilities,43.77221,-79.32341,421.1
+G12148,Jackfish District,Alberta,"Mining, quarrying, oil and gas",55.5259,-110.9975,2649.3
+G12149,Kirby North 01-06-075-8 W4M,Alberta,"Mining, quarrying, oil and gas",55.2326,-111.0702,784.5
+G12150,Chinook Power Station,Saskatchewan,Utilities,50.34477,-107.93734,915.4
+G12151,Clover Bar Landfills,Alberta,Waste management,53.60157,-113.33544,121.0
+G12152,Wapiti Sour Gas Processing Plant,Alberta,"Mining, quarrying, oil and gas",54.80878,-119.05879,139.0
+G12153,ECO360 Landfill,New Brunswick,Waste management,46.0537,-64.539,112.4
+G12154,Gundy Gas Plant (c-060-A/094-B-16) - TOU,British Columbia,"Mining, quarrying, oil and gas",56.79957,-122.1206,289.9
+G12155,Dee Valley Thermal,Saskatchewan,"Mining, quarrying, oil and gas",53.1732,-109.2721,178.3
+G12156,Wapiti Gas Plant 07-35,Alberta,"Mining, quarrying, oil and gas",54.8415,-118.95089,124.5
+G12158,Mount Milligan Mine,British Columbia,"Mining, quarrying, oil and gas",55.12046,-124.00305,72.4
+G12160,Kakwa 10-23-067-05W6,Alberta,"Mining, quarrying, oil and gas",54.81059,-118.63677,49.3
+G12161,Hydro One Networks,Ontario,Utilities,43.65339,-79.38232,17.4
+G12162,Pipestone 12-35-070-09W6 Gas Plant,Alberta,"Mining, quarrying, oil and gas",55.1053,-119.27167,138.9
+G12163,GFL Environmental Inc. West Hants,Nova Scotia,Waste management,45.12093,-64.0526,99.3
+G12164,Inga Compressor Station 02-10-088-23W6,British Columbia,"Mining, quarrying, oil and gas",56.61242,-121.56085,50.3
+G12165,Transmission Mainline - AB,Alberta,Pipeline transportation,55.82473,-119.75256,32.3
+G12166,Battrum Oil MWB 07-21,Saskatchewan,"Mining, quarrying, oil and gas",50.53392,-108.28183,18.3
+G12168,Highway 48 Landfill,Ontario,Waste management,44.37286,-79.10714,31.4
+G12170,Labatt Brewing Company Ltd,Ontario,Manufacturing,42.9764,-81.2477,24.9
+G12173,Nig Creek Gas MWB c-039-D/094-H-03,British Columbia,"Mining, quarrying, oil and gas",57.03125,-121.48437,69.0
+G12174,"Kraft Nordic, s.e.c. - Usine de pâtes kraft de Lebel-sur-Quévillon",Quebec,Manufacturing,49.02516,-76.9549,97.0
+G12175,Glenrose Energy Centre,Alberta,Other,53.55934,-113.49596,28.2
+G12176,Plant #2,Ontario,Manufacturing,43.2267,-79.69416,25.1
+G12179,Kakwa 16-16-064-04W6,Alberta,"Mining, quarrying, oil and gas",54.5153,-118.5837,32.6
+G12180,01-20-060-17 W5M,Alberta,"Mining, quarrying, oil and gas",54.19775,-116.50466,15.1
+G12181,Rmp Kaybob 10-22 Compressor,Alberta,"Mining, quarrying, oil and gas",54.20495,-116.76082,26.6
+G12182,Toronto Facility,Ontario,Manufacturing,43.6022,-79.5811,20.6
+G12183,"P5 Farms, a division of Pure Flavor Farms LP",Ontario,Other,42.13948,-82.59002,17.2
+G12184,Groupe minier Windfall,Quebec,"Mining, quarrying, oil and gas",49.07366,-75.6518,5.9
+G12185,Sappi Matane,Quebec,Manufacturing,48.4954,-67.3323,5.1
+G12186,Nig Creek Sour Gas Plant (c-046-C/94-H-04) - TOU,British Columbia,"Mining, quarrying, oil and gas",57.03949,-121.82333,170.4
+G12190,Parkland Power Plant 06-11,Alberta,Utilities,50.24261,-113.61295,18.1
+G12191,Gold Creek Compressor Station 12-02-068-06W6,Alberta,"Mining, quarrying, oil and gas",54.85967,-118.811,58.2
+G12193,Blackrod SAGD Pilot 02-36-076-18W4,Alberta,"Mining, quarrying, oil and gas",55.62258,-112.65492,33.4
+G12197,Bombardier Toronto,Ontario,Manufacturing,43.68113,-79.66207,8.7
+G12200,Chosen Fresh Farms Ltd.,Ontario,Other,42.12631,-82.59431,12.0
+G12201,Bonterra 05-35 Sweet Gas Plant,Alberta,"Mining, quarrying, oil and gas",53.1833,-114.486,13.5
+G12202,RSI Environnement - Centre de décontamination et de recyclage des sols,Quebec,Waste management,48.54153,-71.2916,19.8
+G12204,Grantech,Quebec,Manufacturing,45.82662,-73.27217,10.4
+G12206,Leland Comp Stn 14-34-058-26-W5,Alberta,"Mining, quarrying, oil and gas",54.0629,-117.7826,29.7
+G12207,Pipestone Processing Facility and Liquids Hub 04-07-073-08W6,Alberta,"Mining, quarrying, oil and gas",55.30328,-119.22614,198.8
+G12208,Aphria Inc.,Ontario,Other,42.04758,-82.62307,14.4
+G12211,Mancal Karr 01-07-066-03W6 Oil Battery,Alberta,"Mining, quarrying, oil and gas",54.69257,-118.43036,12.4
+G12215,Willesden Green 08-10,Alberta,"Mining, quarrying, oil and gas",52.7766,-115.2126,14.9
+G12217,Pinnacle Acres,Ontario,Other,42.07436,-82.62133,11.9
+G12218,Crew Edson 16-10-052-15 W5,Alberta,"Mining, quarrying, oil and gas",53.48083,-116.1177,11.4
+G12219,H&A Graham #3,Ontario,Other,42.08239,-82.74042,14.3
+G12220,Bonterra 10-15 Sweet Gas Plant,Alberta,"Mining, quarrying, oil and gas",53.0561,-114.9374,14.5
+G12221,SC East Landfill,Saskatchewan,Waste management,50.30842,-107.75457,18.7
+G12223,ANSELL CORSER GAS PLANT 06-20-049-18W5,Alberta,"Mining, quarrying, oil and gas",53.24139,-116.60069,65.9
+G12224,Flat Lake 14-09-002-11W2 MWB,Saskatchewan,"Mining, quarrying, oil and gas",49.11387,-103.42302,17.4
+G12225,Septimus 14-16-081-18W6,British Columbia,"Mining, quarrying, oil and gas",56.0356,-120.7548,10.8
+G12229,Daly Unit No. 3 Battery,Manitoba,"Mining, quarrying, oil and gas",49.81484,-101.17633,12.7
+G12232,TEINE Plato 13-18-26-18W3,Saskatchewan,"Mining, quarrying, oil and gas",51.22548,-108.51265,8.2
+G12237,Harmattan Eagle Hill Battery,Alberta,"Mining, quarrying, oil and gas",51.87525,-114.48315,24.9
+G12238,Bilbo Comp Stn 04-32-065-07W6,Alberta,"Mining, quarrying, oil and gas",54.66347,-119.02905,11.5
+G12242,Hacienda North Farms Plant 1,Ontario,Other,42.14896,-82.33063,13.8
+G12244,Meota East 02-16-46-16W3M,Saskatchewan,"Mining, quarrying, oil and gas",52.96033,-108.26257,257.4
+G12245,CS 09-02-048-06W5 (ABCS0136852),Alberta,"Mining, quarrying, oil and gas",53.11427,-114.76054,12.4
+G12251,ARCHER MANNVILLE-MINBURN,Alberta,"Mining, quarrying, oil and gas",53.3378,-111.2439,11.3
+G12253,Daiber Gas MWB d-044-C/094-B-16,British Columbia,"Mining, quarrying, oil and gas",59.17292,-120.66562,14.1
+G12255,Ontario Plants Propagation Limited,Ontario,Other,42.78612,-81.30084,12.6
+G12259,Valhalla Comp Stn 13-16,Alberta,"Mining, quarrying, oil and gas",55.50323,-119.49652,18.0
+G12262,Medicine Hat  01-16-013-29 W3,Saskatchewan,"Mining, quarrying, oil and gas",50.07891,-109.89878,10.5
+G12264,Kakwa 10-16-062-04W6,Alberta,"Mining, quarrying, oil and gas",54.36602,-118.5348,89.8
+G12265,Woodward Avenue Wastewater Treatment Plant,Ontario,Utilities,43.25335,-79.77394,32.4
+G12268,RBR KAYB 15-30-063-18W5 MWOB,Alberta,"Mining, quarrying, oil and gas",54.48535,-116.70946,22.4
+G12273,Daly Unit No.1 Battery,Manitoba,"Mining, quarrying, oil and gas",49.80735,-101.2331,3.9
+G12276,HANLAN SOUR INLET,Alberta,"Mining, quarrying, oil and gas",53.20485,-116.81346,25.7
+G12277,Parallax Sylvan Lake 06-20-037-01W5 Gas Plant,Alberta,"Mining, quarrying, oil and gas",52.195,-114.11,12.3
+G12282,05-22 Pouce Coupe Compressor Station,Alberta,"Mining, quarrying, oil and gas",55.94588,-119.80008,15.4
+G12286,BCBT0007465,British Columbia,"Mining, quarrying, oil and gas",54.677,-120.378,14.6
+G12290,Cavendish Farms,Alberta,Manufacturing,49.44397,-112.46583,30.6
+G12291,LRE - Kakut Gas Plant 14-12,Alberta,"Mining, quarrying, oil and gas",55.4895,-118.3252,12.6
+G12292,Elmira Facility,Ontario,Manufacturing,43.5964,-80.5525,7.2
+G12294,Coaldale 6.4 MW Power Plant,Alberta,Utilities,49.73734,-112.56141,22.7
+G12297,Soderglen Wind Farm,Alberta,Utilities,49.53833,-113.52323,0.1
+G12298,"Copper Cliff Mining, Smelting and Refining Complex",Ontario,Manufacturing,46.47806,-81.06448,294.6
+G12299,Todd Birch a-44-I/94-A-13 Compressor Station IF_a,British Columbia,"Mining, quarrying, oil and gas",56.95199,-121.54208,26.5
+G12300,Louis Dreyfus Company Canada ULC,Saskatchewan,Manufacturing,51.22859,-102.50361,52.7
+G12302,Metex Heat Treating Ltd.,Ontario,Manufacturing,43.68615,-79.69732,10.3
+G12304,Eagle River Mill,Ontario,"Mining, quarrying, oil and gas",48.10601,-85.42365,13.6
+G12305,Spirit River 13-28-078-08W6 GGS,Alberta,"Mining, quarrying, oil and gas",55.79411,-119.18639,11.8
+G12307,Pierson 04-01-002-28 W1M,Manitoba,"Mining, quarrying, oil and gas",49.08892,-101.11456,11.0
+G12308,Milner M2 Power Plant,Alberta,Utilities,54.0078,-119.10191,741.2
+G12309,Beare Road Landfill,Ontario,Waste management,43.82399,-79.16456,37.3
+G12310,Fredericton Region Landfill,New Brunswick,Waste management,45.88033,-66.61012,58.8
+G12311,Spruce Lake Central Thermal,Saskatchewan,"Mining, quarrying, oil and gas",53.59641,-109.05002,336.1
+G12312,Kaybob 07-20-060-19W5 GGS,Alberta,"Mining, quarrying, oil and gas",54.20132,-116.8108,91.3
+G12313,NEL ANSELL BT 07-27-051-19W5,Alberta,"Mining, quarrying, oil and gas",53.42949,-116.71152,46.4
+G12315,Hemlock Knoll Landfill,New Brunswick,Waste management,45.4558,-67.1156,76.3
+G12316,Crane Mountain,New Brunswick,Waste management,45.2706,-66.2117,73.7
+G12317,TOWN C-72-A Gas Plant,British Columbia,"Mining, quarrying, oil and gas",56.81458,-122.02187,73.2
+G12318,Ansell MWB 03-06-049-18W5,Alberta,"Mining, quarrying, oil and gas",53.19545,-116.62666,21.0
+G12322,Montney Sour Gas Plant C-011-K/094-A-12,British Columbia,"Mining, quarrying, oil and gas",56.68125,-121.75937,195.1
+G12323,HHR ABGS0153145,Alberta,"Mining, quarrying, oil and gas",54.87418,-118.47382,49.0
+G12324,Cogerno Regional Landfill,New Brunswick,Waste management,47.3687,-67.9747,47.6
+G12325,TAQA - Sunchild 01-04-044-11W5M Facility,Alberta,"Mining, quarrying, oil and gas",52.4538,-115.3149,49.8
+G12326,Red Pine Landfill,New Brunswick,Waste management,47.45014,-65.60488,112.1
+G12327,Resthaven 03-16-060-02W6 Gas Plant,Alberta,"Mining, quarrying, oil and gas",54.18319,-118.24083,48.7
+G12328,Provost Veteran Oil Battery 15-20-034-08W4,Alberta,"Mining, quarrying, oil and gas",51.93817,-111.10061,27.0
+G12329,"NGTL, British Columbia System",British Columbia,Pipeline transportation,55.8017,-120.3704,203.9
+G12331,Duvernay Sweetening Plant,Alberta,"Mining, quarrying, oil and gas",54.39964,-116.94217,61.6
+G12332,Kakwa 04-26-061-05W6 Compressor,Alberta,"Mining, quarrying, oil and gas",54.30111,-118.64797,55.1
+G12333,Highway 101 Landfill,Nova Scotia,Waste management,44.81126,-63.77131,30.6
+G12334,OTTAWA VALLEY WASTE RECOVERY CENTRE,Ontario,Waste management,45.7045,-77.1541,28.9
+G12335,PWE Pouce Coupe 1-19 GGS,Alberta,"Mining, quarrying, oil and gas",55.68102,-119.53175,33.4
+G12336,Thackeray Landfill,Ontario,Waste management,43.76213,-79.58871,49.7
+G12338,Aphria Diamond,Ontario,Other,42.1319,-82.5951,20.9
+G12339,Pipestone South Gas Battery 14-17,Alberta,"Mining, quarrying, oil and gas",55.06697,-119.18626,66.8
+G12340,AG20 ABGP0001220 NEVIS 12-07 GP,Alberta,"Mining, quarrying, oil and gas",52.51511,-113.1671,23.2
+G12342,Pipestone Compressor Station 08-15-070-08W6,Alberta,"Mining, quarrying, oil and gas",55.05966,-119.12277,59.7
+G12344,Gundy A-021-I/094-B-09 Compressor,British Columbia,"Mining, quarrying, oil and gas",56.68558,-122.00179,76.4
+G12346,AG20 ABBT0118889 IRRICANA 10-22 BTY,Alberta,"Mining, quarrying, oil and gas",51.32201,-113.7191,14.4
+G12349,Ante Creek Sweet Gas Plant 10-36,Alberta,"Mining, quarrying, oil and gas",54.6689,-117.6516,31.5
+G12350,Mission Landfill,British Columbia,Waste management,49.22849,-122.33839,26.9
+G12352,Shell Canada Limited CS 12-28,Alberta,"Mining, quarrying, oil and gas",51.60001,-115.35697,12.5
+G12353,GCT Deltaport,British Columbia,Pipeline transportation,49.02197,-123.16172,17.7
+G12354,Ridley Island Propane Export Terminal,British Columbia,"Mining, quarrying, oil and gas",54.22323,-130.32752,38.0
+G12356,Linamar Gear,Ontario,Manufacturing,43.5304,-80.3078,23.1
+G12361,AG20 ABBT0097122 FOSTER 08-28 BTY,Alberta,"Mining, quarrying, oil and gas",51.77174,-113.6228,16.0
+G12362,AG20 ABGS0121501 ACME 16-07 GGS,Alberta,"Mining, quarrying, oil and gas",51.47298,-113.6404,10.1
+G12363,AG20 ABBT0141226 ENTICE 01-22 BTY,Alberta,"Mining, quarrying, oil and gas",51.31596,-113.4289,28.2
+G12364,Willesden Green Sweet Gas Plant 13-27,Alberta,"Mining, quarrying, oil and gas",52.65227,-115.0781,16.2
+G12366,TQM Pipeline,Quebec,Pipeline transportation,45.03349,-71.49976,16.1
+G12367,Pouce Coupe 14-27,Alberta,"Mining, quarrying, oil and gas",55.70553,-119.62071,16.2
+G12368,"WestPine MDF, a division of West Fraser Mills Ltd.",British Columbia,Manufacturing,53.0153,-122.5142,18.3
+G12369,Sensei Farms Leamington ULC,Ontario,Other,42.15983,-82.59117,6.0
+G12370,Placid 07-11-060-23W5 Sour Facility,Alberta,"Mining, quarrying, oil and gas",54.17216,-117.3349,28.3
+G12371,AG20 ABGS0003808 FENN BV 12-15 GGS,Alberta,"Mining, quarrying, oil and gas",52.18183,-112.6457,13.2
+G12373,MURPHY SIMONETTE 03-02,Alberta,"Mining, quarrying, oil and gas",54.50343,-117.67222,1.8
+G12374,2492309 Ontario Ltd,Ontario,Other,42.1243,-82.59902,23.3
+G12376,Mancal Alder 06-19-045-06W5 Gas Plant,Alberta,"Mining, quarrying, oil and gas",52.89301,-114.86248,10.9
+G12378,Mancal Wilson 04-14-044-05W5 Oil Battery,Alberta,"Mining, quarrying, oil and gas",52.78749,-114.62709,11.3
+G12380,6-21-38-20W4M,Alberta,"Mining, quarrying, oil and gas",52.2795,-112.80565,13.5
+G12382,Kakwa Gas Processing 01-35-060-05W6,Alberta,"Mining, quarrying, oil and gas",54.22802,-118.62981,43.2
+G12383,Westbrick 04-06-047-12W5 Multi-Well Battery,Alberta,"Mining, quarrying, oil and gas",53.01982,-115.75399,18.1
+G12385,Station F Comp Station 16-09,Alberta,"Mining, quarrying, oil and gas",55.05229,-119.45299,11.2
+G12386,AG20 ABGS0004506 GAYFORD 12-35 GGS,Alberta,"Mining, quarrying, oil and gas",51.2638,-113.1994,12.1
+G12387,Mantario Oil Battery 13-32-027-27W3,Saskatchewan,"Mining, quarrying, oil and gas",51.35592,-109.77258,19.6
+G12389,Nig Creek Sour Gas Plant b-048-G,British Columbia,"Mining, quarrying, oil and gas",57.11875,-121.72187,36.7
+G12390,Gerald Parisien Energy Facility,Ontario,Utilities,45.0278,-74.727,4.8
+G12391,Medicine Lodge Gas Plant (14-03-052-23W5) - TOU,Alberta,"Mining, quarrying, oil and gas",53.4666,-117.3095,18.6
+G12394,Pipestone 05-36-071-07W6 Battery,Alberta,"Mining, quarrying, oil and gas",55.19205,-118.94735,11.9
+G12395,VEHCOM MANUFACTURING,Ontario,Manufacturing,43.5495,-80.288,10.7
+G12398,MURPHY 08-03 WASKAHIGAN,Alberta,"Mining, quarrying, oil and gas",54.50704,-117.53372,0.2
+G12399,BILBO 04-25 GROUP GAS BTY,Alberta,"Mining, quarrying, oil and gas",54.51,-118.17,15.3
+G12401,Wintering Hills gas Plant 01-18-025-17W4,Alberta,"Mining, quarrying, oil and gas",51.12694,-112.35699,14.2
+G12402,"Williams Lake Lumber, a division of West Fraser Mills Ltd.",British Columbia,Manufacturing,52.1604,-122.1854,10.3
+G12404,Eldorado Gold (Québec) Inc.,Quebec,"Mining, quarrying, oil and gas",48.63633,-77.45517,17.1
+G12407,Ghost Pine No.1 Comp Station 06-05,Alberta,"Mining, quarrying, oil and gas",51.6245,-112.9526,10.7
+G12412,BCBT0000245,British Columbia,"Mining, quarrying, oil and gas",54.89375,-120.66563,12.1
+G12422,PepsiCo Beverage Company,Ontario,Manufacturing,43.617,-79.683,9.8
+G12423,Wembley Comp Stn 03-01,Alberta,"Mining, quarrying, oil and gas",55.28866,-119.09321,27.9
+G12425,Grace Family Farms Ltd,Ontario,Other,42.07214,-82.61057,10.0
+G12430,Verger North Comp Stn 06-18-022-14W4,Alberta,"Mining, quarrying, oil and gas",50.86859,-111.9349,10.6
+G12432,Pipestone Compressor Station 14-27-072-09W6,Alberta,"Mining, quarrying, oil and gas",55.27061,-119.29672,14.3
+G12435,Mitchell,Ontario,Manufacturing,43.4676,-81.1989,10.5
+G12436,Brownfield Sweet Gas Plant,Alberta,"Mining, quarrying, oil and gas",52.3193,-111.4776,10.7
+G12437,Sandy Lake Diesel Generating Station,Ontario,Utilities,53.07,-93.35,4.3
+G12439,"Quesnel Plywood, a division of West Fraser Mills Ltd.",British Columbia,Manufacturing,52.9475,-122.4861,13.6
+G12440,Birchmount Energy Centre,Ontario,Utilities,43.84532,-79.32394,18.3
+G12445,CS12 14-11 Hub,Alberta,"Mining, quarrying, oil and gas",56.01423,-119.60833,3.5
+G12446,Clegg Energy Centre,Ontario,Utilities,43.8507,-79.3381,3.2
+G12447,Donkin Mine,Nova Scotia,"Mining, quarrying, oil and gas",46.17779,-59.8259,188.0
+G12448,Waterton Complex - Compressor Station X,Alberta,"Mining, quarrying, oil and gas",49.23096,-114.02947,10.7
+G12449,Lieu d'Enfouissement Sanitaire de l'Ascension,Quebec,Waste management,48.46215,-71.34168,18.7
+G12451,Belleville Plant,Ontario,Manufacturing,44.917,-77.3559,11.1
+G12453,Municipalité de Saint-Alphonse- LET,Quebec,Waste management,48.09366,-65.37196,11.6
+G12454,Laprise Gas Plant (B-24-H / 94-G-08),British Columbia,"Mining, quarrying, oil and gas",57.3535,-122.0505,82.3
+G12455,Bimbo Canada EPS - Integrated Facility,Ontario,Manufacturing,43.1752,-79.84457,12.0
+G12456,Montreal Plant (024),Quebec,Manufacturing,45.5811,-73.5102,34.8
+G12460,Kaybob 10-29-063-23W5 Gas Plant,Alberta,"Mining, quarrying, oil and gas",54.4807,-117.44062,82.6
+G12461,Kaybob 05-31-062-24W5 Gas Plant,Alberta,"Mining, quarrying, oil and gas",54.40348,-117.5985,28.5
+G12466,Côté Gold,Ontario,"Mining, quarrying, oil and gas",47.55556,-81.94055,97.2
+G12472,Astra Lampman 08-03-05-06 W2M,Saskatchewan,"Mining, quarrying, oil and gas",49.35319,-102.72642,39.9
+G12474,Provost Gas Plant 08-14-040-03W4,Alberta,"Mining, quarrying, oil and gas",52.4393,-110.3164,14.2
+G12475,Pipestone North 16-28-71-09W6 GS,Alberta,"Mining, quarrying, oil and gas",55.18332,-119.31112,73.1
+G12478,Kaybob 05-33 Gathering Station,Alberta,"Mining, quarrying, oil and gas",54.29331,-116.58191,41.7
+G12483,Nipisi 15-31-076-06W5,Alberta,"Mining, quarrying, oil and gas",55.63388,-114.91657,26.4
+G12484,Marten Hills 15-29-073-24W4,Alberta,"Mining, quarrying, oil and gas",55.35729,-113.65719,34.2
+G12485,Hardisty Diluent Recovery Unit,Alberta,Pipeline transportation,52.63947,-111.18278,61.9
+G12488,Centre de finition Montréal,Quebec,Manufacturing,45.4787,-73.7228,11.1
+G12489,Gold Creek 03-26 GP,Alberta,"Mining, quarrying, oil and gas",54.99779,-118.65202,41.1
+G12490,Brampton Plant,Ontario,Manufacturing,43.6819,-79.6993,10.4
+G12491,Weston Plant,Ontario,Manufacturing,43.75912,-79.53769,11.0
+G12494,Standen's Building 1,Alberta,Manufacturing,51.00192,-114.0368,13.9
+G12495,"Meota West 2, 06-17-46-17W3",Saskatchewan,"Mining, quarrying, oil and gas",52.96544,-108.43961,233.7
+G12496,Nylene Canada Inc.,Ontario,Manufacturing,45.4358,-76.3372,8.8
+G12497,Produits Kruger Sherbrooke Inc,Quebec,Manufacturing,45.47756,-71.94011,56.7
+G12498,Town A-018-D/094-A-13,British Columbia,"Mining, quarrying, oil and gas",56.76042,-121.96562,30.4
+G12499,Town B-089-J/094-B-16 Gas Plant,British Columbia,"Mining, quarrying, oil and gas",56.98542,-122.23437,115.6
+G12501,AG20 ABGS0084509 DRY ISLAND GGS,Alberta,"Mining, quarrying, oil and gas",51.98733,-113.14012,17.1
+G12505,Mitsue Plant,Alberta,Manufacturing,55.2644,-114.5893,19.2
+G12506,Edmonton South Power Plant,Alberta,Utilities,53.5461,-113.4938,20.1
+G12508,Browning 04-23-006-07W2 MWB,Saskatchewan,"Mining, quarrying, oil and gas",49.48101,-102.85575,24.8
+G12512,Garrington 08-15-034-04W5 BTY,Alberta,"Mining, quarrying, oil and gas",51.91697,-114.47722,20.7
+G12513,Verendrye 04-22-028-24W3 MWB,Saskatchewan,"Mining, quarrying, oil and gas",51.40381,-109.30582,12.7
+G12514,Via Verde Hydroponics,Ontario,Other,42.08316,-82.56803,17.8
+G12515,Lockhart 06-19 Compressor Site,Alberta,"Mining, quarrying, oil and gas",52.5432,-114.28079,11.2
+G12516,LET de Saint-Rosaire,Quebec,Waste management,46.20513,-71.98424,103.5
+G12517,Boem Berry Farms Inc.,Ontario,Other,42.0543,-82.71071,17.6
+G12518,La Prairie,Quebec,Manufacturing,45.3992,-73.5017,10.3
+G12520,PERTH,Ontario,Manufacturing,44.90209,-76.23783,9.4
+G12522,Dellcom Aerospace,Ontario,Manufacturing,43.80173,-79.52761,0.0
+G12524,16-24-018-17-W4 Leckie,Alberta,"Mining, quarrying, oil and gas",50.54208,-112.20502,11.2
+G12526,Ya Ya Foods Corporation,Ontario,Manufacturing,43.61087,-79.52228,20.0
+G12527,Fernlea Flowers,Ontario,Other,42.84711,-80.59603,11.3
+G12528,Cielo Vista Farms Inc.,Ontario,Other,42.11934,-82.59407,14.5
+G12529,Brampton Westwyn,Ontario,Manufacturing,43.68624,-79.69394,0.7
+G12530,Alberta Carbon Trunk Line,Alberta,Pipeline transportation,53.83284,-113.11429,4.8
+G12531,Golden Acre Farms Inc.,Ontario,Other,42.05787,-82.69498,9.7
+G12534,Windfall 14-24,Alberta,"Mining, quarrying, oil and gas",54.12232,-116.26721,18.8
+G12536,Bailey Sanitary Landfill,British Columbia,Waste management,49.10991,-121.92697,64.9
+G12537,Orlando,Ontario,Manufacturing,43.70196,-79.62161,14.2
+G12538,IMT Integrated Facility,Ontario,Manufacturing,43.40108,-80.44677,9.5
+G12539,16-24-031-25W4,Alberta,"Mining, quarrying, oil and gas",51.67606,-113.40957,21.2
+G12544,Pembina 09-17-050-07W5,Alberta,"Mining, quarrying, oil and gas",53.254,-114.4379,8.5
+G12545,Kerry Renfrew,Ontario,Manufacturing,45.479,-76.6499,0.6
+G12546,Canada Royal Milk ULC,Ontario,Manufacturing,44.273,-76.55774,6.3
+G12547,Canoe Forest Products,British Columbia,Manufacturing,50.7536,-119.219,16.7
+G12548,Enhance Energy - Clive 04-15,Alberta,"Mining, quarrying, oil and gas",52.43606,-113.38425,0.1
+G12549,MODATEK SYSTEMS,Ontario,Manufacturing,43.5235,-79.9198,6.9
+G12550,Weyerhaeuser Princeton Sawmill,British Columbia,Manufacturing,49.4656,-120.48889,13.2
+G12551,Grand Forks Sawmill,British Columbia,Manufacturing,49.0269,-118.4368,10.7
+G12552,Dunkley Lumber Ltd.,British Columbia,Manufacturing,53.279,-122.47,24.3
+G12553,Red Chris Mine,British Columbia,"Mining, quarrying, oil and gas",57.72573,-129.76764,99.6
+G12555,Moly-Cop Canada,British Columbia,Manufacturing,50.65726,-120.09649,20.4
+G12556,Solid Waste Area Management Project,Manitoba,Waste management,49.2625,-97.8826,19.7
+G12559,PRESSTRAN INDUSTRIES (170 Edward St),Ontario,Manufacturing,42.7875,-81.1625,2.2
+G12560,PRESSTRAN INDUSTRIES (1155 Talbot St),Ontario,Manufacturing,42.7804,-81.16429,0.9
+G12561,Robert O. Pickard Environmental Centre,Ontario,Utilities,45.4606,-75.5908,55.7
+G12562,ARCHER 09-25-074-08W6 MWOB & GS,Alberta,"Mining, quarrying, oil and gas",55.44136,-119.07837,25.6
+G12563,Progress Comp Stn 04-21,Alberta,"Mining, quarrying, oil and gas",55.5941,-119.34177,20.4
+G12564,115 Drumlin Cir,Ontario,Manufacturing,43.78456,-79.48609,0.3
+G12565,180 Viceroy RD,Ontario,Manufacturing,43.78816,-79.47529,0.3
+G12566,Kakwa 102/10-10-065-05W6,Alberta,"Mining, quarrying, oil and gas",54.61249,-118.66427,43.3
+G12569,Kakwa 05-25-063-04W6,Alberta,"Mining, quarrying, oil and gas",54.47802,-118.4752,11.2
+G12571,City of North Battleford Waste Management Facility,Saskatchewan,Waste management,52.78796,-108.25373,12.9
+G12575,Belden Canada,Ontario,Manufacturing,43.9597,-78.1297,3.8
+G12577,Blue Trail Wind Farm,Alberta,Utilities,49.9546,-111.7385,0.0
+G12578,Summerview 2 Wind Farm,Alberta,Utilities,49.9546,-111.7385,0.1
+G12580,Swimming 16-11-052-07W4 Pad,Alberta,"Mining, quarrying, oil and gas",53.48065,-110.91882,1.2
+G12581,Extrusion North America - Mississauga,Ontario,Manufacturing,43.6306,-79.6575,4.9
+G12582,Humber Treatment Plant,Ontario,Utilities,43.6333,-79.4806,34.5
+G12583,Saskatoon Processing Company,Saskatchewan,Manufacturing,52.1794,-106.6572,12.4
+G12585,City of Weyburn Landfill,Saskatchewan,Waste management,49.64188,-103.84991,10.4
+G12589,Hamilton Confectionery Plant,Ontario,Manufacturing,43.25555,-79.92444,10.5
+G12593,ABBT9190044,Alberta,"Mining, quarrying, oil and gas",50.8977,-111.693,10.3
+G12595,Lakeview - Williams Lake,British Columbia,Manufacturing,52.1117,-122.1422,8.8
+G12599,SURGE VALHALLA 6-31-74-8 W6,Alberta,"Mining, quarrying, oil and gas",55.45227,-119.22135,12.2
+G12601,BCBT0007672,British Columbia,"Mining, quarrying, oil and gas",54.55208,-120.05312,18.7
+G12602,SC 13-07 Run Oil MWB 13-07-063-21W4,Alberta,"Mining, quarrying, oil and gas",54.4398,-113.1786,17.3
+G12604,Lodgepole 13-35-47-10w5,Alberta,"Mining, quarrying, oil and gas",53.10328,-115.36397,10.2
+G12606,"Uniboard Canad inc, usine Val-d'Or",Quebec,Manufacturing,48.1,-77.7792,11.0
+G12607,Inga 10-19-87-23 W6,British Columbia,"Mining, quarrying, oil and gas",56.56257,-121.65845,13.2
+G12608,Big River Sawmill,Saskatchewan,Manufacturing,53.8345,-107.0279,11.0
+G12611,East York Bakery,Ontario,Manufacturing,43.713,-79.3102,13.7
+G12612,NIPISI 09-34-76-07 W5,Alberta,"Mining, quarrying, oil and gas",55.63079,-114.99206,20.6
+G12613,Willesden Green 11-19-041-05W5 Compressor,Alberta,"Mining, quarrying, oil and gas",52.54673,-114.71232,15.1
+G12617,Meanook Oil MWB 15-19-063-21W4,Alberta,"Mining, quarrying, oil and gas",54.46893,-113.1657,12.3
+G12618,Skyberry Farms Inc.,Ontario,Other,42.08024,-82.64218,8.5
+G12620,Erie Meats Listowel,Ontario,Manufacturing,43.72429,-80.97438,12.2
+G12621,Integrated Hot Mix,Ontario,Manufacturing,43.8199,-79.29734,12.3
+G12623,Enerchem Slave Lake,Alberta,Manufacturing,55.3728,-114.7409,12.8
+G12625,Calling Lake South 01-20,Alberta,"Mining, quarrying, oil and gas",55.0694,-113.3139,10.6
+G12628,Cyn Pem Oil Battery 15-16-051-11W5,Alberta,"Mining, quarrying, oil and gas",53.40842,-115.55854,9.9
+G12629,Station A Comp Stn 02-02,Alberta,"Mining, quarrying, oil and gas",55.20155,-119.88141,13.5
+G12631,Peyto Aurora 11-13-43-13W5,Alberta,"Mining, quarrying, oil and gas",52.70698,-115.75754,18.9
+G12632,Perryvale West Oil MWB 16-24-063-24W4,Alberta,"Mining, quarrying, oil and gas",54.46891,-113.48716,16.0
+G12633,Jarvie 05-20-063,Alberta,"Mining, quarrying, oil and gas",54.46171,-113.90907,40.0
+G12634,Corunna Storage Facility,Ontario,Other,42.89978,-82.41635,13.6
+G12636,BIVOUAC B-099-H/094-I-08,British Columbia,"Mining, quarrying, oil and gas",58.411,-120.113,10.9
+G12638,Doe Gas Plant,British Columbia,"Mining, quarrying, oil and gas",55.95344,-120.21484,5.5
+G12641,Houston Pellet Limited Partnership,British Columbia,Manufacturing,54.3642,-126.7231,14.1
+G12642,Smithers Pellet Limited Partnership,British Columbia,Manufacturing,54.76211,-127.157,17.1
+G12643,Williams Lake,British Columbia,Manufacturing,52.11655,-122.12735,14.0
+G12644,Portage la Prairie Regional Landfill,Manitoba,Waste management,50.10984,-98.07065,15.9
+G12645,04-26-77-13-W6M,Alberta,"Mining, quarrying, oil and gas",55.69457,-119.912,14.6
+G12650,HyLife Foods LP,Manitoba,Manufacturing,50.22769,-99.42412,14.0
+G12651,ABBT0060208,Alberta,"Mining, quarrying, oil and gas",53.9539,-117.547,10.4
+G12652,Edmonton Organics Processing Facility,Alberta,Waste management,53.59626,-113.34282,11.7
+G12653,BCBT0009073,British Columbia,"Mining, quarrying, oil and gas",57.73918,-120.00744,10.4
+G12655,Jenner Sour Gas Plant,Alberta,"Mining, quarrying, oil and gas",50.6533,-111.1661,11.9
+G12656,02-06-79-11-W6M,Alberta,"Mining, quarrying, oil and gas",55.81248,-119.70674,10.0
+G12657,Jarvie 01-10-063-01W5,Alberta,"Mining, quarrying, oil and gas",54.43052,-114.05557,43.1
+G12658,Ukalta 05-18,Alberta,"Mining, quarrying, oil and gas",53.92531,-112.52638,15.1
+G12659,Ferrier 07-18-040-09 W5M,Alberta,"Mining, quarrying, oil and gas",52.4405,-115.2808,17.9
+G12660,Muskeg Valley Quarry,Alberta,"Mining, quarrying, oil and gas",57.191,-111.5539,16.4
+G12665,ABCS0025486,Alberta,"Mining, quarrying, oil and gas",53.6663,-117.25977,12.3
+G12668,Kerrobert Crude Oil Processing Facility,Saskatchewan,Manufacturing,51.85694,-109.04363,82.1
+G12669,Tabor Sawmill,British Columbia,Manufacturing,53.8006,-122.7172,16.2
+G12670,Marten Hills 14-06-076-02W5,Alberta,"Mining, quarrying, oil and gas",55.56121,-114.30207,31.2
+G12673,Roquette Canada Ltd.- Portage La Prairie,Manitoba,Manufacturing,49.96326,-98.39184,26.5
+G12674,Fireweed MWB A-005-J/094-A-13,British Columbia,"Mining, quarrying, oil and gas",56.91875,-121.67812,21.3
+G12675,ABBT0153027,Alberta,"Mining, quarrying, oil and gas",55.99806,-118.53229,18.7
+G12676,Peterborough County/City Waste Management Facility,Ontario,Waste management,44.2227,-78.2821,59.2
+G12678,Greenstone Mine,Ontario,"Mining, quarrying, oil and gas",49.66714,-86.92899,157.8
+G12679,"Pure Flavor Farms, a division of Pure Flavor Farms LP",Ontario,Other,42.14415,-82.59255,36.1
+G12680,City of Lloydminster Landfill,Saskatchewan,Waste management,53.30932,-109.97587,31.5
+G12681,Wembley Oil MWB 01-20-072-08W6,Alberta,"Mining, quarrying, oil and gas",55.24513,-119.1829,34.6
+G12682,Border 14-03-040-28W3,Saskatchewan,"Mining, quarrying, oil and gas",52.4189,-109.949,33.4
+G12683,GFL Cumberland Central Landfill,Nova Scotia,Waste management,45.71999,-64.1362,29.8
+G12685,Lavington Pellet Limited Partnership,British Columbia,Manufacturing,50.2316,-119.10739,27.6
+G12686,Wastewater Treatment Plant,Alberta,Utilities,52.3088,-113.79,29.0
+G12687,Chambers Gas Plant 02-15,Alberta,"Mining, quarrying, oil and gas",52.52488,-115.49778,47.4
+G12688,ABBT0066632,Alberta,"Mining, quarrying, oil and gas",53.8921,-117.343,12.2
+G12689,THOR KNAPPEN 16-29 PLANT,Alberta,"Mining, quarrying, oil and gas",49.07033,-111.43349,27.8
+G12692,BCGS3164246,British Columbia,"Mining, quarrying, oil and gas",56.87292,-122.25937,48.2
+G12693,ABBT0150246,Alberta,"Mining, quarrying, oil and gas",56.30656,-116.54756,33.6
+G12694,Richmond Landfill,Ontario,Waste management,44.2616,-77.0635,40.2
+G12695,Marten Hills 08-34-074-25W4,Alberta,"Mining, quarrying, oil and gas",55.45537,-113.75345,52.9
+G12696,GFL Guysborough Landfill,Nova Scotia,Waste management,45.4908,-61.53274,70.7
+G12699,Elmworth Gas MWB 01-08-070-11W6,Alberta,"Mining, quarrying, oil and gas",55.0415,-119.63097,54.6
+G12700,Heartland Petrochemical Complex - PDH/PP/Rail,Alberta,Manufacturing,53.77863,-113.13223,74.9
+G12701,Spruce Lake North Thermal,Saskatchewan,"Mining, quarrying, oil and gas",53.60798,-109.03837,271.8
+G12702,Heartland Petrochemical Complex Cogeneration Power Plant,Alberta,Utilities,53.78044,-113.13086,556.2
+G12705,Taber Plant,Alberta,Manufacturing,49.6939,-112.0962,43.0
+G12706,Brasserie de Longueuil,Quebec,Manufacturing,45.51839,-73.40072,5.9
+G12707,KELT WEMBLEY 11-31 MWGEB,Alberta,"Mining, quarrying, oil and gas",55.36709,-119.21949,17.2
+G12708,Rochester Aluminum Smelting Canada Limited,Ontario,Manufacturing,43.79254,-79.51162,10.6
+G12709,THUNDER MATZIWIN 13-36,Alberta,"Mining, quarrying, oil and gas",51.00676,-111.83832,10.2
+G12713,Mackenzie Site 2 & Power Plant,British Columbia,Manufacturing,55.33085,-123.17534,258.0
+G12716,Lieu d'enfouissement technique RIDT,Quebec,Waste management,47.56188,-68.3883,11.6
+G12717,Lieu d'enfouissement technique de la Ville de Matane,Quebec,Waste management,48.81885,-67.57371,16.7
+G12718,Lieu d'enfouissement technique de la ville de Sept-Iles,Quebec,Waste management,50.2697,-66.2969,48.3
+G12719,Pure Sunfarms Delta 3,British Columbia,Other,49.08432,-122.99768,11.1
+G12720,KARMAX HEAVY STAMPING - MILTON,Ontario,Manufacturing,43.5207,-79.9113,8.3
+G12721,Lieu d'enfouissement technique de Rivière-du-Loup,Quebec,Waste management,47.9748,-69.43849,34.0
+G12723,Rocky Mountain House Gas-fired Power Plant,Alberta,Utilities,52.65242,-115.0806,17.5
+G12724,Aspen Waste Management,Alberta,Waste management,53.2387,-114.97968,31.3
+G12725,North Peace Regional Landfill,British Columbia,Waste management,56.21539,-120.90556,22.1
+G12726,Roseridge Landfill,Alberta,Waste management,53.79098,-113.59052,39.6
+G12728,Watelet Gas Plant 08-18-048-26W4,Alberta,"Mining, quarrying, oil and gas",53.12143,-113.77793,12.8
+G12729,Shiningbank 10-12-056-17 W5M,Alberta,"Mining, quarrying, oil and gas",53.8251,-116.3969,18.2
+G12732,ABBT0164071,Alberta,"Mining, quarrying, oil and gas",56.07427,-119.95476,16.7
+G12735,Marten Hills 10-15-075-02W5,Alberta,"Mining, quarrying, oil and gas",55.49944,-114.21814,42.8
+G12736,Marten Hills 14-28,Alberta,"Mining, quarrying, oil and gas",55.5313,-114.249,38.4
+G12737,Miller Central Integrated Asphalt and Aggregate,Ontario,Manufacturing,43.83031,-79.24343,17.4
+G12739,PGR HDRD Complex,British Columbia,Manufacturing,53.93044,-122.70569,87.0
+G12740,Atikokan Sawmill,Ontario,Manufacturing,48.7695,-91.34019,12.7
+G12741,Kubebooth Inc.,Ontario,Other,43.75236,-79.55642,0.1
+G12742,Countess 08-36-020-16 W4,Alberta,"Mining, quarrying, oil and gas",50.7374,-112.0849,13.9
+G12743,RBR BEAV 06-28-071-09W6 MWOB,Alberta,"Mining, quarrying, oil and gas",55.17603,-119.32347,16.9
+G12744,Velvet 16-23-054-17W5,Alberta,"Mining, quarrying, oil and gas",53.6832,-116.389,8.5
+G12745,Westbrick GS 9-4-41-11W5,Alberta,"Mining, quarrying, oil and gas",52.50317,-115.51572,12.6
+G12746,Browning 02-13-006-06W2 MWB,Saskatchewan,"Mining, quarrying, oil and gas",49.46652,-102.68774,10.3
+G12748,Lamoral Gas Gathering 09-11-41-10W5,Alberta,"Mining, quarrying, oil and gas",52.51762,-115.32385,10.2
+G12749,Kaybob 02-20-060-19W5 MWB,Alberta,"Mining, quarrying, oil and gas",54.18525,-116.78455,18.6
+G12750,Northland Utilities Hay River,Northwest Territories,Utilities,60.8067674,-115.7981688,23.2
+G12751,Bessborough Landfill,British Columbia,Waste management,55.82199,-120.47313,10.6
+G12752,Fayolle,Quebec,"Mining, quarrying, oil and gas",48.4282,-78.8007,2.7
+G12753,ABGS0113388,Alberta,"Mining, quarrying, oil and gas",52.29913,-115.02838,10.6
+G12754,Open Creek 10-34-042-05 W5M,Alberta,"Mining, quarrying, oil and gas",52.66337,-114.63472,12.0
+G12756,FIGURE LAKE 9-23-63-18W4 PRORATION,Alberta,"Mining, quarrying, oil and gas",54.46539,-112.60497,22.3
+G12757,FIGURE LAKE 2/1-13-63-18W4 PRORATION,Alberta,"Mining, quarrying, oil and gas",54.44377,-112.57979,16.3
+G12758,FIGURE LAKE 2/1-3-63-18W4 PRORATION,Alberta,"Mining, quarrying, oil and gas",54.41486,-112.63025,10.7
+G12759,Clarkson Water Resource Recovery Facility,Ontario,Utilities,43.4926,-79.6181,37.8
+G12762,AG20 ABGP0001429 SWALWELL GAS PLANT,Alberta,"Mining, quarrying, oil and gas",51.53143,-113.27666,10.1
+G12763,Town B-032-C/094-G-01,British Columbia,"Mining, quarrying, oil and gas",57.02744,-122.27043,54.8
+G12765,NIPISI 05-29-75-05 W5,Alberta,"Mining, quarrying, oil and gas",55.52579,-114.74968,27.7
+G12766,NIPISI 09-17-78-09 W5,Alberta,"Mining, quarrying, oil and gas",55.76083,-115.35009,23.1
+G12767,SKBTB1H2202,Saskatchewan,"Mining, quarrying, oil and gas",53.0179,-109.878,11.0
+G12768,Narraway Gas MWB 10-08-062-10W6,Alberta,"Mining, quarrying, oil and gas",54.3503,-119.459,36.9
+G12769,Progress Gas MWB 01-01-078-10W6,Alberta,"Mining, quarrying, oil and gas",55.7251,-119.4,14.5
+G12771,Peavine 13-25-078-16W5,Alberta,"Mining, quarrying, oil and gas",55.79361,-116.35368,37.4
+G12772,Peavine 05-25-078-16W5,Alberta,"Mining, quarrying, oil and gas",55.79361,-116.35368,24.1
+G12773,Peavine Oil MWB 14-36-078-16W5,Alberta,"Mining, quarrying, oil and gas",55.80874,-116.34569,15.0
+G12774,ABCS0014441,Alberta,"Mining, quarrying, oil and gas",54.67068,-119.21838,10.9
+G12775,BCBT0007778,British Columbia,"Mining, quarrying, oil and gas",56.23542,-122.09687,26.4
+G12776,ABBT0143321,Alberta,"Mining, quarrying, oil and gas",54.6124,-118.211,14.2
+G12777,ABBT0137426,Alberta,"Mining, quarrying, oil and gas",54.66339,-118.356,43.5
+G12778,ABGS0006487,Alberta,"Mining, quarrying, oil and gas",54.0629,-117.746,10.7
+G12779,ABBT0133144,Alberta,"Mining, quarrying, oil and gas",55.838,-119.778,24.2
+G12780,ABBT0126676,Alberta,"Mining, quarrying, oil and gas",53.4993,-116.805,16.2
+G12783,ABBT0126615 (Brintnell Central Bitumen Battery 01-36-080-22W4),Alberta,"Mining, quarrying, oil and gas",55.97158,-113.29779,47.7
+G12785,ABBT0122253,Alberta,"Mining, quarrying, oil and gas",54.8487,-119.224,100.6
+G12786,ABGS0002510,Alberta,"Mining, quarrying, oil and gas",50.523,-111.651,26.9
+G12789,Judy Creek B-Pool WP,Alberta,"Mining, quarrying, oil and gas",54.4819,-115.651,22.3
+G12790,03-13-066-05W6 Comp,Alberta,"Mining, quarrying, oil and gas",54.70699,-118.62033,27.9
+G12791,Brampton Orenda,Ontario,Manufacturing,43.70257,-79.70182,7.6
+G12792,Oakville,Ontario,Manufacturing,43.50996,-79.68445,3.1
+G12793,Paris,Ontario,Manufacturing,43.2125,-80.39318,1.4
+G12794,Port Colborne,Ontario,Manufacturing,42.91091,-79.1878,4.2
+G12795,Mitchell Aerospace,Quebec,Manufacturing,45.50548,-73.67245,22.2
+G12797,Teeswater,Ontario,Manufacturing,44.001,-81.286,10.8
+G12798,Wembley Gas MWB 01-14-072-08W6,Alberta,"Mining, quarrying, oil and gas",55.23052,-119.10603,24.0
+G12799,KELT LNG OAK 06-35 MWGEB,British Columbia,"Mining, quarrying, oil and gas",56.49897,-120.73555,11.8
+G12800,Hacienda North Farms Plant 2,Ontario,Other,42.14896,-82.33063,24.9
+G12802,15-15-076-05-W5,Alberta,"Mining, quarrying, oil and gas",55.59029,-114.68385,26.6
+G12803,15-22-076-07W5,Alberta,"Mining, quarrying, oil and gas",55.60477,-114.99436,51.1
+G12804,West Marten Oil MWB 12-18-076-04W5,Alberta,"Mining, quarrying, oil and gas",55.58662,-114.61913,22.8
+G12805,Canal Oil MWB 04-21-070-23W4,Alberta,"Mining, quarrying, oil and gas",55.07059,-113.45977,14.3
+G12806,Canal Oil MWB 16-09-070-23W4,Alberta,"Mining, quarrying, oil and gas",55.05117,-113.44102,11.7
+G12807,West Marten Oil MWB 15-28-076-05W5,Alberta,"Mining, quarrying, oil and gas",55.62074,-114.70743,12.7
+G12808,11-04-075-25-W4,Alberta,"Mining, quarrying, oil and gas",55.43687,-113.76212,54.3
+G12814,"Coastal GasLink Pipeline, British Columbia System",British Columbia,Pipeline transportation,55.79794,-120.89109,23.3
+G12816,Rokeby Site,Ontario,Manufacturing,42.86316,-82.39999,183.0
+G12817,Ardenville Wind Farm,Alberta,Utilities,49.531,-113.4567,0.0
+G12818,ABBT0134269,Alberta,"Mining, quarrying, oil and gas",52.7179,-115.25,10.0
+G12819,Wolf Feedstock Separation Facility (WFS),Alberta,"Mining, quarrying, oil and gas",53.82247,-113.1229,37.4
+G12821,03-12 Battery - ABBT0158102,Alberta,"Mining, quarrying, oil and gas",55.12881,-119.09281,30.5
+G12822,Plover Lake 10-05 Battery,Saskatchewan,"Mining, quarrying, oil and gas",51.97804,-109.67816,31.4
+G12824,Neptune Oil Battery 05-31,Saskatchewan,"Mining, quarrying, oil and gas",49.2528,-104.1562,10.2
+G12825,Maple Leaf Foods - London Poultry,Ontario,Manufacturing,42.93013,-81.16707,16.2
+G12826,Sunnyside Produce Delta,British Columbia,Other,49.08959,-122.96846,12.6
+G12827,J/E Bearing & Machine Ltd.,Ontario,Manufacturing,42.85219,-80.7145,0.0
+G12828,Cascade Power Project,Alberta,Utilities,53.52511,-116.59682,1493.1
+G12829,Pioneer 1 Liquids Extraction Plant,Alberta,"Mining, quarrying, oil and gas",56.9814,-111.4625,11.0
+G12830,Flavor Fresh Farms Ltd.,Ontario,Other,42.10995,-82.5966,13.4
+G12831,JPI Farms Inc.,Ontario,Other,42.10723,-82.61361,21.8
+G12834,141 Snidercroft,Ontario,Manufacturing,43.78661,-79.50637,0.2
+G12835,1300 Flint,Ontario,Manufacturing,43.78063,-79.48513,0.7
+G12838,Mackenzie Regional Waste Management Commission,Alberta,Waste management,58.51871,-117.18833,12.6
+G12839,High River Peaking Power Plant,Alberta,Utilities,50.60215,-113.90448,17.7
+G12840,ABBT0141267,Alberta,"Mining, quarrying, oil and gas",55.01503,-118.66944,46.7
+G12841,Goose Property,Nunavut,"Mining, quarrying, oil and gas",65.54344,-106.43334,41.7
+G12843,Youngstown Regional Landfill,Alberta,Waste management,51.50568,-111.22421,10.1
+G12844,Magino Mine,Ontario,"Mining, quarrying, oil and gas",48.28467,-84.46325,92.6
+G12845,AG20 ABGS0111621 Linden 01-36 GS,Alberta,"Mining, quarrying, oil and gas",51.60881,-113.52246,10.3
+G12846,Generate Two Path 21 Fenmar LP,Ontario,Utilities,43.75819,-79.53603,18.2
+G12847,ABBT0167955,Alberta,"Mining, quarrying, oil and gas",51.56335,-112.54551,21.7
+G12849,De Temporada Farms a division of Pure Flavor Farms LP,Ontario,Other,42.18966,-82.22179,13.6
+G12850,Marten Hills 09-13-075-02W5,Alberta,"Mining, quarrying, oil and gas",55.49943,-114.16004,20.6
+G12851,Marten Hills 10-12-075-02W5,Alberta,"Mining, quarrying, oil and gas",55.4843,-114.164,12.3
+G12852,Marten Hills West 06-25,Alberta,"Mining, quarrying, oil and gas",55.52491,-114.173,28.2
+G12853,Marten Hills West 07-33,Alberta,"Mining, quarrying, oil and gas",55.5399,-114.246,97.6
+G12854,Marten Hills West 09-16,Alberta,"Mining, quarrying, oil and gas",55.49855,-114.238,22.7
+G12855,Marten Hills West 12-03,Alberta,"Mining, quarrying, oil and gas",55.55761,-114.386,11.3
+G12856,Wallenstein Feed & Supply,Ontario,Manufacturing,43.6021,-80.6381,10.1
+G12857,Ferintosh Power Plant,Alberta,Utilities,52.71194,-112.95883,24.5
+G12858,Darlington Nuclear,Ontario,Utilities,43.8681,-78.725,10.3
+G12859,ABGP0097389,Alberta,"Mining, quarrying, oil and gas",54.53612,-117.11727,13.6
+G12860,Leitchville Oil MWB 13-34-008-20W3,Saskatchewan,"Mining, quarrying, oil and gas",49.69651,-108.64458,13.0
+G12861,ABBT0169935,Alberta,"Mining, quarrying, oil and gas",54.9724,-118.4168,16.5
+G12862,ABBT0129900,Alberta,"Mining, quarrying, oil and gas",54.86446,-118.4991,31.6
+G12863,ABGS0145011,Alberta,"Mining, quarrying, oil and gas",54.89606,-118.3405,27.0
+G12864,ABGS0132884,Alberta,"Mining, quarrying, oil and gas",54.85967,-118.51216,35.0
+G12865,ABGS0155642,Alberta,"Mining, quarrying, oil and gas",54.57969,-118.19868,23.5
+G12866,ABGS0148957,Alberta,"Mining, quarrying, oil and gas",54.85967,-118.34686,44.9
+G12867,ABGS0151420,Alberta,"Mining, quarrying, oil and gas",54.94696,-118.27057,47.1
+G12868,ABGS0167143,Alberta,"Mining, quarrying, oil and gas",54.53242,-118.356,10.4
+G12869,ABGS0141387,Alberta,"Mining, quarrying, oil and gas",54.61969,-118.38118,34.7
+G12870,ABBT0140671,Alberta,"Mining, quarrying, oil and gas",54.63263,-118.40548,64.9
+G12871,ABGS0143057,Alberta,"Mining, quarrying, oil and gas",54.86697,-118.52487,14.8
+G12872,HHR ABBT0166788,Alberta,"Mining, quarrying, oil and gas",54.53262,-118.35596,40.0
+G12873,Montney Drilling & Completions (A-026-J),Alberta,"Mining, quarrying, oil and gas",56.68542,-121.69062,12.9
+G12874,Montney Drilling & Completions (08-23),Alberta,"Mining, quarrying, oil and gas",56.64481,-121.68672,10.8
+G12875,Peter Lougheed Centre,Alberta,Other,51.079,-113.9839,12.3
+G12876,Arthur J.E. Child Cancer Centre,Alberta,Other,51.06659,-114.13282,11.7
+G12877,Quintette Mine,British Columbia,"Mining, quarrying, oil and gas",54.9954,-120.99155,106.6
+G12878,Evesham 16-35-039-27W3,Saskatchewan,"Mining, quarrying, oil and gas",52.40389,-109.77122,10.2
+G12879,Spirit River 14-06-078-07W6,Alberta,"Mining, quarrying, oil and gas",55.736,-119.076,12.5
+G12880,"Trans Mountain Pipeline System, BC",British Columbia,Pipeline transportation,49.29079,-122.95027,11.9
+G12881,United Initiators Canada Ltd.,British Columbia,Manufacturing,53.9279,-122.7133,49.0
+G12882,Simonette 01-16-063-24W5 Pad,Alberta,"Mining, quarrying, oil and gas",54.4446,-117.55774,0.9
+G12883,Rocky Mountain House 5 Power Plant,Alberta,Utilities,52.65049,-115.0749,23.8
+G12885,Musreau 05-09-065-04W6 MWB,Alberta,"Mining, quarrying, oil and gas",54.60885,-118.55108,29.8
+G12886,Harmattan 06-15-033-03W5 GGS,Alberta,"Mining, quarrying, oil and gas",51.82954,-114.34729,10.8
+G12887,Butte 05-34-011-19W3 MWB,Saskatchewan,"Mining, quarrying, oil and gas",49.95136,-108.52742,10.7
+G12888,TEINE Loverna 11-1,Saskatchewan,"Mining, quarrying, oil and gas",51.62873,-109.70485,12.5
+G12889,Altares C-65-G Gas Plant,British Columbia,"Mining, quarrying, oil and gas",56.38925,-122.18596,11.6
+G12890,BEG C-078-E Compressor Station CS C-078,British Columbia,"Mining, quarrying, oil and gas",56.89837,-121.97201,17.6
+G12891,Well at D-082-J/094-B-09,British Columbia,"Mining, quarrying, oil and gas",56.73958,-122.14062,10.8
+G12892,Viking Effluent 13-31-048,Alberta,"Mining, quarrying, oil and gas",53.18854,-111.75674,45.6
+G12893,Produits Kruger SB Inc,Quebec,Manufacturing,45.48363,-71.95067,7.8
+G12894,"Lonsdale Energy, District Energy System",British Columbia,Utilities,49.3112,-123.08439,15.0
+G12895,Mica 08-33 Battery,British Columbia,"Mining, quarrying, oil and gas",56.06347,-120.11838,21.5
+G12896,McLeod 07-34 Gas Plant,Alberta,"Mining, quarrying, oil and gas",53.70657,-115.97634,11.7
+G12897,FIGURE LAKE 15-24-63-18W4 PRORATION,Alberta,"Mining, quarrying, oil and gas",54.4693,-112.585,30.4
+G12898,FIGURE LAKE 6-19-62-18W4 PRORATION,Alberta,"Mining, quarrying, oil and gas",54.37479,-112.69419,14.9
+G12899,FIGURE LAKE 05-32-63-17W4 PRORATION,Alberta,"Mining, quarrying, oil and gas",54.49117,-112.54704,10.9
+G12900,FIGURE LAKE 3-26-63-18W4 PRORATION,Alberta,"Mining, quarrying, oil and gas",54.47309,-112.61643,15.9
+G12901,2820853 Ontario Inc.,Ontario,Other,42.1599,-82.5979,14.8
+G12902,12-31-016-28W4 Gas Plant,Alberta,"Mining, quarrying, oil and gas",50.39058,-113.8461,19.5
+G12903,ABBT0050542,Alberta,"Mining, quarrying, oil and gas",55.61956,-119.50334,43.3
+G12904,ROSE CREEK 6-7-43-6W5 GGS,Alberta,"Mining, quarrying, oil and gas",52.6894,-114.8623,12.9
+G12905,Drilling and Completions 7-1 Pad,British Columbia,"Mining, quarrying, oil and gas",56.33965,-121.96199,11.0
+G12906,Drilling and Completions 16-32 Pad,British Columbia,"Mining, quarrying, oil and gas",56.33153,-121.89521,10.3
+G12907,BioNorth Energy,British Columbia,Utilities,54.49273,-124.21174,0.2
+G12908,Nicola Clean Power,British Columbia,Utilities,50.10303,-120.79719,0.9
+G12909,ABBT0165264,Alberta,"Mining, quarrying, oil and gas",55.79039,-116.43622,11.3
+G12910,ABGS0162190,Alberta,"Mining, quarrying, oil and gas",55.8014,-116.4298,12.5
+G12911,ABBT0166619,Alberta,"Mining, quarrying, oil and gas",55.76505,-116.3586,12.6
+G12912,ABBT0166386,Alberta,"Mining, quarrying, oil and gas",55.8013,-116.35671,15.5
+G12913,ABBT0153712,Alberta,"Mining, quarrying, oil and gas",52.82253,-114.28172,14.7
+G12914,Niton 14-05-055-11W5,Alberta,"Mining, quarrying, oil and gas",53.7284,-115.6025,10.1
+G12915,Levure Fleischmann,Quebec,Manufacturing,45.4269,-73.6528,33.4
+G12918,Lieu d'enfouissement technique de La Vallée-de-l'Or,Quebec,Waste management,48.0928,-77.6972,22.7
+G12919,Kitimat Marine Terminal,British Columbia,Pipeline transportation,54.0293,-128.687,70.7
+G12920,Cabin Comp Stn a-052-J,British Columbia,"Mining, quarrying, oil and gas",59.21042,-121.64062,10.0
+G12921,Midway Comp Stn b-065-B,British Columbia,"Mining, quarrying, oil and gas",59.05208,-121.68437,10.9
+G12923,BCBT0000645,British Columbia,"Mining, quarrying, oil and gas",57.29792,-121.31562,15.8
+G12924,ABBT2630003,Alberta,"Mining, quarrying, oil and gas",57.339,-118.654,12.1
+G12925,ABBT0166293,Alberta,"Mining, quarrying, oil and gas",55.27055,-119.4329,11.6
+G12926,SKBTB1H0106,Saskatchewan,"Mining, quarrying, oil and gas",53.0979,-109.818,11.5
+G12927,Ladyfern Gas MWB b-017-I/094-H-01,British Columbia,"Mining, quarrying, oil and gas",57.17748,-120.08534,11.4
+G12928,BCBT0018077,British Columbia,"Mining, quarrying, oil and gas",56.80208,-122.32187,11.2
+G12929,ABBT0105982,Alberta,"Mining, quarrying, oil and gas",50.5194,-111.909,10.8
+G12930,BCBT0009070,British Columbia,"Mining, quarrying, oil and gas",59.84375,-120.77812,10.5
+G12931,Red Rock Gas Battery 09-07-062-06W6,Alberta,"Mining, quarrying, oil and gas",54.35037,-118.87809,13.2
+G12932,South Caroline 03-20-034-04W5 Compressor,Alberta,"Mining, quarrying, oil and gas",51.9279,-114.5388,12.0
+G12933,Ferrybank 02-01-044-28W4 Gas Plant (GHGRP),Alberta,"Mining, quarrying, oil and gas",52.7574,-113.93221,14.1
+G12934,Valentine Gold Mine,Newfoundland and Labrador,"Mining, quarrying, oil and gas",48.3551,-57.13156,26.1
+G12935,WEST MARTEN HILLS 15-01-76-03 W5,Alberta,"Mining, quarrying, oil and gas",55.56119,-114.32168,14.3
+G12936,DOUCETTE 13-04-080-02 W5,Alberta,"Mining, quarrying, oil and gas",55.91079,-114.25896,15.7
+G12937,CABIN CREEK/NIPISI 10-22-075-05W5,Alberta,"Mining, quarrying, oil and gas",55.51388,-114.68386,16.4
+G12938,DOUCETTE 06-05-080-02 W5,Alberta,"Mining, quarrying, oil and gas",55.90358,-114.27827,15.9
+G12939,Great Plains Power Station,Saskatchewan,Utilities,50.37403,-105.49314,199.3
+G12940,Mid-Halton Wastewater Treatment Plant,Ontario,Utilities,43.4206,-79.7295,13.5
+G12941,Serafina Hamlin Terminal,Saskatchewan,Pipeline transportation,52.90609,-108.31281,15.3
+G12942,Conestoga Meat Packers,Ontario,Manufacturing,43.473,-80.391,11.3
+G12943,Parallax Joffre 06-17-040-27W4 Gas Plant,Alberta,"Mining, quarrying, oil and gas",52.43778,-113.85639,10.7
+G12944,Melfort Regional Solid Waste Management Facility,Saskatchewan,Waste management,52.85719,-104.66379,10.9
+G12945,Burlington Skyway Wastewater Treatment Plant,Ontario,Utilities,43.3097,-79.8014,11.6
+G12947,McIlvenna Bay Project,Saskatchewan,"Mining, quarrying, oil and gas",54.64756,-102.802,20.3
+G12948,Babine Forest Products,British Columbia,Manufacturing,54.1817,-125.4914,17.4
+G12949,Tamarack Perry 04-24-063-23W4 MWB,Alberta,"Mining, quarrying, oil and gas",54.4571,-113.35623,13.6
+G12950,14-28-073-07-W6,Alberta,"Mining, quarrying, oil and gas",55.35783,-119.0163,17.8
+G12951,09-12-074-26-W4,Alberta,"Mining, quarrying, oil and gas",55.39893,-113.85516,18.8
+G12952,Wembley Oil MWB 16-35-073-08W6,Alberta,"Mining, quarrying, oil and gas",55.3723,-119.10599,22.5
+G12954,08-05-032-25W4,Alberta,"Mining, quarrying, oil and gas",51.71145,-113.50417,14.1
+G12955,03-31-062-21W5,Alberta,"Mining, quarrying, oil and gas",54.40124,-117.14098,12.1
+G12957,Westerose 11-20-044-02W5 Compressor,Alberta,"Mining, quarrying, oil and gas",52.80981,-114.26001,11.1
+G12958,Glenmore Landfill,British Columbia,Waste management,49.9471,-119.413,24.1
+G12959,New Afton,British Columbia,"Mining, quarrying, oil and gas",50.6639,-120.5232,12.9
+G12960,Saltair Division,British Columbia,Manufacturing,49.0031,-123.8258,10.3
+G12961,Crowsnest/Pincher Creek Landfill Association,Alberta,Waste management,49.54792,-114.11372,49.1
